@@ -1,0 +1,47 @@
+import requests
+import zipfile
+import io
+import os
+import csv
+import json
+
+
+def scrape_peps_brazil_api():
+
+    zip_url = "https://portaldatransparencia.gov.br/download-de-dados/pep/202502"
+
+    print("Descargando archivo ZIP...")
+
+    # Realiza la petición para descargar el archivo ZIP
+    response = requests.get(zip_url)
+    if response.status_code != 200:
+        print(f"Error al descargar el archivo: {response.status_code}")
+        return
+
+    # Extraer archivos del ZIP en memoria
+    with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
+        csv_filename = None
+        for name in zip_file.namelist():
+            if name.endswith(".csv"):
+                csv_filename = name
+                break
+
+        if not csv_filename:
+            print("No se encontró ningún archivo CSV dentro del ZIP.")
+            return
+
+        print(f"Extrayendo y procesando archivo CSV: {csv_filename}")
+        with zip_file.open(csv_filename) as csv_file_obj:
+            csv_reader = csv.DictReader(io.TextIOWrapper(csv_file_obj, encoding='latin1'))
+            pep_data = [row for row in csv_reader]
+
+    # Guardar como JSON en carpeta data
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_brasil.json", "w", encoding="utf-8") as f:
+        json.dump(pep_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Datos de {len(pep_data)} personas PEP de Brasil guardados en data/peps_brasil.json")
+
+
+if __name__ == "__main__":
+    scrape_peps_brazil_api()

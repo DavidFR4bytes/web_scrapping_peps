@@ -1,0 +1,1927 @@
+[
+    {
+        "nombre": "",
+        "partido": "",
+        "estado": "",
+        "imagen": "",
+        "url_biografia": ""
+    },
+    {
+        "nombre": "Alberto José   Gago Betancourt",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gago-betancourt-alberto-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gago-betancourt-alberto-jose"
+    },
+    {
+        "nombre": "Albino  José Bracho",
+        "partido": "PPT",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bracho-albino-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bracho-albino-jose"
+    },
+    {
+        "nombre": "Alcides  Orlando Sanz Torres",
+        "partido": "PSUV",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanz-alcides-orlando.bmp",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanz-torresalcides-orlando"
+    },
+    {
+        "nombre": "Alejandro  José Natera",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/natera-alejandro-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/natera-alejandro-jose"
+    },
+    {
+        "nombre": "Alexander  Alberto Cordero Graterol",
+        "partido": "COPEI",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cordero-graterolalexander-alberto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cordero-graterolalexander-alberto"
+    },
+    {
+        "nombre": "Alexander   Vargas Gutiérrez",
+        "partido": "MSV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vargas-gutierrezalexander.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vargas-gutierrezalexander"
+    },
+    {
+        "nombre": "Alexis  José Rodríguez Cabello",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-cabello-alexis-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-cabelloalexis-jose"
+    },
+    {
+        "nombre": "Alexis  Rafael León Gallardo",
+        "partido": "TUPAMARO",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/leon-gallardoalexis-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/leon-gallardoalexis-rafael"
+    },
+    {
+        "nombre": "Alexis José   Ortilez Luque",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ortilez-luque-alexis-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ortilez-luque-alexis-jose"
+    },
+    {
+        "nombre": "Alfonso  Enrique Campos Jessurun",
+        "partido": "EL CAMBIO",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/campos-alfonso-enrique.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/campos-jessurunalfonso-enrique"
+    },
+    {
+        "nombre": "Aloha  Joselyn Núñez Gutiérrez",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/nunez-gutierrezaloha-joselyn.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/nunez-gutierrezaloha-joselyn"
+    },
+    {
+        "nombre": "América  Valentina Pérez Dávila",
+        "partido": "PSUV",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-davilaamerica-valentina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-davilaamerica-valentina"
+    },
+    {
+        "nombre": "Andrés  Eloy Méndez González",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mendez-gonzalezandres-eloy.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mendez-gonzalezandres-eloy"
+    },
+    {
+        "nombre": "Andrés  Avelino Álvarez Segovia",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/andres-avelino-alvarez-segovia-104.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alvarez-segoviaandres-avelino"
+    },
+    {
+        "nombre": "Ángel  Alfredo Ocanto Azuaje",
+        "partido": "AP",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ocanto-azuajeangel-alfredo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ocanto-azuajeangel-alfredo"
+    },
+    {
+        "nombre": "Ángel  Luis Rodríguez Gamboa",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-gamboaangel-luis.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-gamboaangel-luis"
+    },
+    {
+        "nombre": "Angelica  Josefina Barroso Valero",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/barroso-valeroangelica-josefina.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/barroso-valeroangelica-josefina"
+    },
+    {
+        "nombre": "Antonio  José Benavides Torres",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/benavides-torresantonio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/benavides-torresantonio-jose"
+    },
+    {
+        "nombre": "Antonio   Cabanillas Yépez",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cabanillas-yepezantonio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cabanillas-yepezantonio"
+    },
+    {
+        "nombre": "Antonio  De Jesús Hernández Díaz",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/hernandez-diazantonio-de-jesus.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/hernandez-diazantonio-de-jesus"
+    },
+    {
+        "nombre": "Antonio  José Rumbos",
+        "partido": "PSUV",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rumbos-antonio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rumbos-antonio-jose"
+    },
+    {
+        "nombre": "Antonio  José Sivira Chirinos",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sivira-chirinos-antonio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sivira-chirinos-antonio-jose"
+    },
+    {
+        "nombre": "Antonio José  De La Trinidad Boza León",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/boza-leonantonio-jose-de-la-trinidad.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/boza-leonantonio-jose-de-la-trinidad"
+    },
+    {
+        "nombre": "Anuar   Younese Maali",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/younese-maali-anuar.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/younese-maalianuar"
+    },
+    {
+        "nombre": "Anyelith Edilma   Tamayo Camperos",
+        "partido": "AD",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/tamayo-camperos-anyelith-edilma.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/tamayo-camperos-anyelith-edilma"
+    },
+    {
+        "nombre": "Arelis  Yaritza Orta Flores",
+        "partido": "PSUV",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/orta-floresarelis-yaritza.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/orta-floresarelis-yaritza"
+    },
+    {
+        "nombre": "Arnaldo  Javier Sánchez Pérez",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-perezarnaldo-javier.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-perezarnaldo-javier"
+    },
+    {
+        "nombre": "Asia  Yajaira Villegas Poljak",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/villegas-poljakasia-yajaira.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/villegas-poljakasia-yajaira"
+    },
+    {
+        "nombre": "Augusto  Rafael Martínez Vicuña",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-vicunaaugusto-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-vicunaaugusto-rafael"
+    },
+    {
+        "nombre": "Azucena  María Jaspe",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jaspe-azucena-maria.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/jaspe-azucena-maria"
+    },
+    {
+        "nombre": "Benilda  Josefina Puche Fernández",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/puche-fernandez-benilda-josefina.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/puche-fernandezbenilda-josefina"
+    },
+    {
+        "nombre": "Blanca  Rosa Eekhout Gómez",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/eekhout-gomezblanca-rosa.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/eekhout-gomezblanca-rosa"
+    },
+    {
+        "nombre": "Blanca  Josefina Rodríguez Pinto",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-pintoblanca-josefina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-pintoblanca-josefina"
+    },
+    {
+        "nombre": "Blanca  Yolanda Romero Vargas",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/romero-vargasblanca-yolanda.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/romero-vargasblanca-yolanda"
+    },
+    {
+        "nombre": "Braulio  José Álvarez",
+        "partido": "PSUV",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/alvarez-braulio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alvarez-braulio-jose"
+    },
+    {
+        "nombre": "Bussy  Kamala  Managuac Galeano Martínez",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/galeano-martinez-bussy-kamala-managuac.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/galeano-martinez-bussy-kamala-managuac"
+    },
+    {
+        "nombre": "Candelario  Manuel Briceño Morillo",
+        "partido": "MEP",
+        "estado": "Trujillo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/briceno-morillocandelario-manuel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/briceno-morillocandelario-manuel"
+    },
+    {
+        "nombre": "Carlos  Alberto Gamarra Manzabel",
+        "partido": "PSUV",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gamarra-manzabelcarlos-alberto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gamarra-manzabelcarlos-alberto"
+    },
+    {
+        "nombre": "Carlos  Alberto Martínez González",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-gonzalezcarlos-alberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-gonzalezcarlos-alberto"
+    },
+    {
+        "nombre": "Carlos  Alberto Mogollón Gavidia",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mogollon-gavidia-carlos-alberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mogollon-gavidia-carlos-alberto"
+    },
+    {
+        "nombre": "Carmen  Tibisay Márquez De Miranda",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/marquez-de-mirandacarmen-tibisay.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/marquez-de-mirandacarmen-tibisay"
+    },
+    {
+        "nombre": "Carmen  Del Valle Centeno Zerpa",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/centeno-zerpacarmen-del-valle.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/centeno-zerpacarmen-del-valle"
+    },
+    {
+        "nombre": "Carmen  Yurami Quintero Rojas",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/quintero-rojascarmen-yurami.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/quintero-rojascarmen-yurami"
+    },
+    {
+        "nombre": "Carolina  Del Valle Cestari",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cestari-carolina-del-valle.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cestari-carolina-del-valle"
+    },
+    {
+        "nombre": "César  Gabriel Molina Morillo",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/molina-morillocesar-gabriel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/molina-morillocesar-gabriel"
+    },
+    {
+        "nombre": "Cesar  Eduardo Carrero Aristizabal",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/carrero-aristizabalcesar-eduardo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/carrero-aristizabalcesar-eduardo"
+    },
+    {
+        "nombre": "Cilia  Adela Flores",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/flores-cilia-adela.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/flores-cilia-adela"
+    },
+    {
+        "nombre": "Cristobal  Leobardo Jiménez",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jimenez-cristobal-leobardo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/jimenez-cristobal-leobardo"
+    },
+    {
+        "nombre": "Damelis  Del Valle Chávez Rangel",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chavez-rangeldamelis-del-valle.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chavez-rangeldamelis-del-valle"
+    },
+    {
+        "nombre": "Daniela Yosángel   Urbano Zapata",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/urbano-zapata-daniela-yosangel.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/urbano-zapata-daniela-yosangel"
+    },
+    {
+        "nombre": "Dante  Rafael Rivas Quijada",
+        "partido": "PSUV",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rivas-quijadadante-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rivas-quijadadante-rafael"
+    },
+    {
+        "nombre": "Darwin  Alirio Jaramillo Pineda",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jaramillo-pinedadarwin-alirio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/jaramillo-pinedadarwin-alirio"
+    },
+    {
+        "nombre": "Derby Jose   Guedez Torres",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/guedez-torres-derby-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/guedez-torres-derby-jose"
+    },
+    {
+        "nombre": "Desiree   Santos Amaral",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/santos-amaral-desiree.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/santos-amaral-desiree"
+    },
+    {
+        "nombre": "Didalco  Antonio Bolívar Graterol",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bolivar-grateroldidalco-antonio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bolivar-grateroldidalco-antonio"
+    },
+    {
+        "nombre": "Diosdado   Cabello Rondón",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cabello-rondondiosdado.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cabello-rondondiosdado"
+    },
+    {
+        "nombre": "Edgar  Humberto Gonzalez",
+        "partido": "PPT",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-edgar-humberto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-edgar-humberto"
+    },
+    {
+        "nombre": "Édgar  Fernando Acosta Áñez",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/acosta-anez-edgar-fernando.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/acosta-anez-edgar-fernando"
+    },
+    {
+        "nombre": "Edgardo  Antonio Ramírez",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ramirez-edgardo-antonio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ramirez-edgardo-antonio"
+    },
+    {
+        "nombre": "Eduardo Alfonso   Puerta Sierra",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/puerta-sierra-eduardo-alfonso.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/puerta-sierra-eduardo-alfonso"
+    },
+    {
+        "nombre": "Eglée     De Los Santos Sánchez",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-eglee-de-los-santos.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-eglee-de-los-santos"
+    },
+    {
+        "nombre": "Ekalov  José González Navarro",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-navarro-ekalov-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-navarro-ekalov-jose"
+    },
+    {
+        "nombre": "Elbano  De Jesús Sánchez Pérez",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-perezelbano-de-jesus.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-perezelbano-de-jesus"
+    },
+    {
+        "nombre": "Elio  José Serrano Carpio",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/elio-jose-serrano-carpio-117.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/serrano-carpioelio-jose"
+    },
+    {
+        "nombre": "Emilio José   Colina Paz",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/colina-pazemilio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/colina-pazemilio-jose"
+    },
+    {
+        "nombre": "Emmanuel  Francisco Delgado Marín",
+        "partido": "PSUV",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/delgado-marinemmanuel-francisco.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/delgado-marinemmanuel-francisco"
+    },
+    {
+        "nombre": "Enma  Graciela Díaz De Solórzano",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/diaz-de-solorzanoenma-graciela.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/diaz-de-solorzanoenma-graciela"
+    },
+    {
+        "nombre": "Erick  José Mago Rodríguez",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/erick-jose-mago-rodriguez-136.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mago-rodriguezerick-jose"
+    },
+    {
+        "nombre": "Esteban  De Jesús Fernández Vega",
+        "partido": "TUPAMARO",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/fernandez-vegaesteban-de-jesus.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/fernandez-vegaesteban-de-jesus"
+    },
+    {
+        "nombre": "Euribes  Rafael Guevara Brazón",
+        "partido": "PSUV",
+        "estado": "Monagas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/guevara-brazoneuribes-rafael.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/guevara-brazoneuribes-rafael"
+    },
+    {
+        "nombre": "Ezequiel  Eligio Pérez Roa",
+        "partido": "AD",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-roaezequiel-eligio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-roaezequiel-eligio"
+    },
+    {
+        "nombre": "Fabio  Francisco Cortez Cadales",
+        "partido": "PSUV",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cortez-cadalesfabio-francisco.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cortez-cadalesfabio-francisco"
+    },
+    {
+        "nombre": "Félix  Manuel Barrios Miérez",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/barrios-mierezfelix-manuel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/barrios-mierezfelix-manuel"
+    },
+    {
+        "nombre": "Fernando  Andrés Bastidas Calderón",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bastidas-calderon-fernando-andres.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bastidas-calderon-fernando-andres"
+    },
+    {
+        "nombre": "Fidel  Alejandro Madroñero González",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/madronero-gonzalezfidel-alejandro.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/madronero-gonzalezfidel-alejandro"
+    },
+    {
+        "nombre": "Fidel  Ernesto Vásquez Iriarte",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vasquez-iriartefidel-ernesto.webp",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vasquez-iriartefidel-ernesto"
+    },
+    {
+        "nombre": "Fiodar  Felipe Acosta Olivero",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/acosta-olivero-fiodar-felipe.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/acosta-oliverofiodar-felipe"
+    },
+    {
+        "nombre": "Francar   Martínez Rángel",
+        "partido": "PSUV",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-rangel-francar.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-rangelfrancar"
+    },
+    {
+        "nombre": "Francilvys Del Valle   Martínez Rivera",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-rivera-francilvys-del-valle.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-rivera-francilvys-del-valle"
+    },
+    {
+        "nombre": "Francisco  José Ameliach Orta",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ameliach-ortafrancisco-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ameliach-ortafrancisco-jose"
+    },
+    {
+        "nombre": "Francisco  José García Valero",
+        "partido": "PSUV",
+        "estado": "Trujillo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/garcia-valerofrancisco-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/garcia-valerofrancisco-jose"
+    },
+    {
+        "nombre": "Francisco  Raúl González Camperos",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-camperos-francisco-raul.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-camperosfrancisco-raul"
+    },
+    {
+        "nombre": "Francisco José   Martínez Cabrera",
+        "partido": "PSUV",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-cabrera-francisco-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-cabrera-francisco-jose"
+    },
+    {
+        "nombre": "Frang  Rafael Morales",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/morales-frang-rafael.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/morales-frang-rafael"
+    },
+    {
+        "nombre": "Franklin  Lougani Peña Álvarez",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/pena-alvarez-franklin-lougani.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/pena-alvarez-franklin-lougani"
+    },
+    {
+        "nombre": "Franklin Salvador   Rondón Mata",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rondon-mata-franklin-salvador.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rondon-mata-franklin-salvador"
+    },
+    {
+        "nombre": "Freddy  Alirio Bernal Rosales",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bernal-rosalesfreddy-alirio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bernal-rosalesfreddy-alirio"
+    },
+    {
+        "nombre": "Gabriel José   Franco Martínez",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/franco-martinez-gabriel-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/franco-martinez-gabriel-jose"
+    },
+    {
+        "nombre": "Gabriela  Mayerling Peña Martínez",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/pena-martinezgabriela-mayerling.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/pena-martinezgabriela-mayerling"
+    },
+    {
+        "nombre": "Gabriela  Rosa Chacón Pérez",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chacon-perezgabriela-rosa.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chacon-perezgabriela-rosa"
+    },
+    {
+        "nombre": "Génesis  Josef Garvett Romero",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/garvett-romerogenesis-josef.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/garvett-romerogenesis-josef"
+    },
+    {
+        "nombre": "Gerardina Margarita  Del Carmen Parada Hernández",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/parada-hernandezgerardina-margarita-del-carmen.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/parada-hernandezgerardina-margarita-del-carmen"
+    },
+    {
+        "nombre": "Gilberto  Jesús Giménez Prieto",
+        "partido": "MEP",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gimenez-prietogilberto-jesus.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gimenez-prietogilberto-jesus"
+    },
+    {
+        "nombre": "Gilberto  Amilcar Pinto Blanco",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gilberto-amilcar-pinto-blanco-134.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/pinto-gilberto-amilcar"
+    },
+    {
+        "nombre": "Ginkellys Vanessa   Gutiérrez Montero",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gutierrez-montero-ginkellys-vanessa.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gutierrez-montero-ginkellys-vanessa"
+    },
+    {
+        "nombre": "Gisela  Virginia Tovar",
+        "partido": "PPT",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/tovar-gisela-virginia.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/tovar-gisela-virginia"
+    },
+    {
+        "nombre": "Giuseppe Alesandro  Martín Alessandrello Cimadevilla",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/alessandrello-cimadevillagiuseppe-alesandro-martin.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alessandrello-cimadevillagiuseppe-alesandro-martin"
+    },
+    {
+        "nombre": "Gloria  Mercedes Castillo De Durán",
+        "partido": "PSUV",
+        "estado": "Monagas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/castillo-de-durangloria-mercedes.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/castillo-de-durangloria-mercedes"
+    },
+    {
+        "nombre": "Grecia  Elymar Colmenares Santander",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/colmenares-santander-grecia-elymar.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/colmenares-santandergrecia-elymar"
+    },
+    {
+        "nombre": "Hanthony  Rafael Coello Bello",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/coello-bellohanthony-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/coello-bellohanthony-rafael"
+    },
+    {
+        "nombre": "Héctor  Orlando Zambrano",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/zambrano-hector-orlando.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/zambrano-hector-orlando"
+    },
+    {
+        "nombre": "Henry Jose   Hernandez Rodriguez",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/hernandez-rodriguez-henry-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/hernandez-rodriguez-henry-jose"
+    },
+    {
+        "nombre": "Hermann  Eduardo Escarrá Malave",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/escarra-malave-hermann-eduardo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/escarra-malavehermann-eduardo"
+    },
+    {
+        "nombre": "Hugo  Rafael Chávez Terán",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chavez-teran-hugo-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chavez-teran-hugo-rafael"
+    },
+    {
+        "nombre": "Ida  Elena Leon De Soto",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/leon-de-soto-ida-elena.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/leon-de-soto-ida-elena"
+    },
+    {
+        "nombre": "Idania   Quintero Cuevas",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/quintero-cuevasidania.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/quintero-cuevasidania"
+    },
+    {
+        "nombre": "Ignacio  Enrique Buznego Escobar",
+        "partido": "MEP",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/buznego-escobarignacio-enrique.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/buznego-escobarignacio-enrique"
+    },
+    {
+        "nombre": "Ilenia  Rosa Medina Carrasco",
+        "partido": "PPT",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/medina-carrascoilenia-rosa.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/medina-carrascoilenia-rosa"
+    },
+    {
+        "nombre": "Imad   Saab Saab",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/saab-saabimad.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/saab-saabimad"
+    },
+    {
+        "nombre": "Imaru  Coromoto Gonzalez Salazar",
+        "partido": "PSUV",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-salazarimaru-coromoto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-salazarimaru-coromoto"
+    },
+    {
+        "nombre": "Imarú Alejandra   Bolívar Morales",
+        "partido": "PSUV",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bolivar-morales-imaru-alejandra.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bolivar-morales-imaru-alejandra"
+    },
+    {
+        "nombre": "Irlanda  Margarita Rodríguez García",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-garciairlanda-margarita.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-garciairlanda-margarita"
+    },
+    {
+        "nombre": "Irwing  Manuel Monteverde Irazabal",
+        "partido": "PSUV",
+        "estado": "Monagas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/monteverde-irazabalirwing-manuel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/monteverde-irazabalirwing-manuel"
+    },
+    {
+        "nombre": "Janitza  Cecilia Rondón Muñoz",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rondon-munoz-janitza-cecilia.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rondon-munozjanitza-cecilia"
+    },
+    {
+        "nombre": "Javier  Alejandro Bertucci Carrero",
+        "partido": "EL CAMBIO",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bertucci-carrerojavier-alejandro.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bertucci-carrerojavier-alejandro"
+    },
+    {
+        "nombre": "Javier  Ramón Segovia Fuentes",
+        "partido": "EL CAMBIO",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/segovia-fuentes-javier-ramon.JPG",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/segovia-fuentes-javier-ramon"
+    },
+    {
+        "nombre": "Jesús  Germán Faría Tortosa",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/faria-tortosajesus-german.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/faria-tortosajesus-german"
+    },
+    {
+        "nombre": "Jesús  Rafael Suárez Chourio",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/suarez-chouriojesus-rafael.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/suarez-chouriojesus-rafael"
+    },
+    {
+        "nombre": "Jesús  Alberto Santander López",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/santander-lopez-jesus-alberto.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/santander-lopezjesus-alberto"
+    },
+    {
+        "nombre": "Jesus  Rafael Martinez Barrios",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-barriosjesus-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-barriosjesus-rafael"
+    },
+    {
+        "nombre": "Jhony Jose   Bracho",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bracho-jhony-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bracho-jhony-jose"
+    },
+    {
+        "nombre": "Jocsen Leonard   Alvarado Pérez",
+        "partido": "PSUV",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/alvarado-perez-jocsen-leonard.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alvarado-perez-jocsen-leonard"
+    },
+    {
+        "nombre": "Johana  Marilú Rosales Salazar",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rosales-salazarjohana-marilu.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rosales-salazarjohana-marilu"
+    },
+    {
+        "nombre": "John Carlos   Moreno Salcedo",
+        "partido": "PSUV",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/moreno-salcedo-john-carlos.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/moreno-salcedo-john-carlos"
+    },
+    {
+        "nombre": "Jorge  Jesús Rodríguez Gómez",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-gomezjorge-jesus.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-gomezjorge-jesus"
+    },
+    {
+        "nombre": "Jorge  Luis Chirinos",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chirinos-jorge-luis.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chirinos-jorge-luis"
+    },
+    {
+        "nombre": "José  Gregorio Vielma Mora",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vielma-morajose-gregorio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vielma-morajose-gregorio"
+    },
+    {
+        "nombre": "José  Óscar Villarroel García",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/villarroel-garciajose-oscar.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/villarroel-garciajose-oscar"
+    },
+    {
+        "nombre": "José  Luis Bermúdez Cuevas",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bermudez-cuevasjose-luis.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bermudez-cuevasjose-luis"
+    },
+    {
+        "nombre": "José  Ramón Cabellos Reinales",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cabellos-reinalesjose-ramon.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cabellos-reinalesjose-ramon"
+    },
+    {
+        "nombre": "José  Nelsón Mavio Martínez",
+        "partido": "CATEDRA",
+        "estado": "REP. INDÍGENA",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mavio-martinezjose-nelson.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mavio-martinezjose-nelson"
+    },
+    {
+        "nombre": "José  Rafael Luna",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jose-luna-355.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/luna-jose-rafael"
+    },
+    {
+        "nombre": "José  Gregorio Colmenares Nieves",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/colmenares-nievesjose-gregorio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/colmenares-nievesjose-gregorio"
+    },
+    {
+        "nombre": "José  Gregorio Correa",
+        "partido": "AD",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/correa-jose-gregorio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/correa-jose-gregorio"
+    },
+    {
+        "nombre": "José  Dionisio Brito Rodríguez",
+        "partido": "PV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/brito-rodriguezjose-dionisio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/brito-rodriguezjose-dionisio"
+    },
+    {
+        "nombre": "José  Juvenal Muñoz Matos",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/munoz-matosjose-juvenal.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/munoz-matosjose-juvenal"
+    },
+    {
+        "nombre": "José Antonio   Uzcátegui Armijo",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/uzcategui-armijojose-antonio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/uzcategui-armijojose-antonio"
+    },
+    {
+        "nombre": "Jose Bernabe   Gutierrez Parra",
+        "partido": "AD",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gutierrez-parra-jose-bernabe.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gutierrez-parra-jose-bernabe"
+    },
+    {
+        "nombre": "Jose Del Carmen   Millan Zabala",
+        "partido": "PSUV",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/millan-zabala-jose-del-carmen.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/millan-zabala-jose-del-carmen"
+    },
+    {
+        "nombre": "Jose Salvador   Perez Alejo",
+        "partido": "PPT",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-alejo-jose-salvador.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-alejo-jose-salvador"
+    },
+    {
+        "nombre": "Juan  Eduardo Romero Jiménez",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/romero-jimenezjuan-eduardo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/romero-jimenezjuan-eduardo"
+    },
+    {
+        "nombre": "Juan  Carlos Alemán Pérez",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/aleman-perezjuan-carlos.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/aleman-perezjuan-carlos"
+    },
+    {
+        "nombre": "Juan  Simón Primera Mussett",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/primera-mussettjuan-simon.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/primera-mussettjuan-simon"
+    },
+    {
+        "nombre": "Juan  Samuel Cohén Bermúdez",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cohen-bermudezjuan-samuel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cohen-bermudezjuan-samuel"
+    },
+    {
+        "nombre": "Juan  Carlos Alvarado Prato",
+        "partido": "COPEI",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/alvarado-pratojuan-carlos.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alvarado-pratojuan-carlos"
+    },
+    {
+        "nombre": "Juan  Carlos Sierra Trujillo",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sierra-trujillojuan-carlos.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sierra-trujillojuan-carlos"
+    },
+    {
+        "nombre": "Juan   García Manaure",
+        "partido": "MUD",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/juan-javiel-garcia-manaure-231.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/garcia-manaurejuan"
+    },
+    {
+        "nombre": "Juan  Francisco Escalona Camargo",
+        "partido": "PSUV",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/escalona-camargojuan-francisco.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/escalona-camargojuan-francisco"
+    },
+    {
+        "nombre": "Juan Manuel   Díaz Ocariz",
+        "partido": "PSUV",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/diaz-ocariz-juan-manuel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/diaz-ocariz-juan-manuel"
+    },
+    {
+        "nombre": "Juliana  Venecia Ruiz Pino",
+        "partido": "TUPAMARO",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ruiz-pinojuliana-venecia.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ruiz-pinojuliana-venecia"
+    },
+    {
+        "nombre": "Julio  Rafael Chávez Meléndez",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chavez-melendezjulio-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chavez-melendezjulio-rafael"
+    },
+    {
+        "nombre": "Julio  José García Zerpa",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/garcia-zerpajulio-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/garcia-zerpajulio-jose"
+    },
+    {
+        "nombre": "Julio  César Torres Molina",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/torres-molinajulio-cesar.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/torres-molinajulio-cesar"
+    },
+    {
+        "nombre": "Junior José   Gómez Figueroa",
+        "partido": "PSUV",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gomez-figueroa-junior-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gomez-figueroa-junior-jose"
+    },
+    {
+        "nombre": "Kariela  Elismar Aray Medina",
+        "partido": "CATEDRA",
+        "estado": "REP. INDÍGENA",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/aray-medinakariela-elismar.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/aray-medinakariela-elismar"
+    },
+    {
+        "nombre": "Katherine  Helen Guanipa Miranda",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/guanipa-mirandakatherine-helen.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/guanipa-mirandakatherine-helen"
+    },
+    {
+        "nombre": "Kristal  Paola Alvarado Godoy",
+        "partido": "Podemos",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/alvarado-godoykristal-paola.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/alvarado-godoykristal-paola"
+    },
+    {
+        "nombre": "Laidely  Del Carmen Grimán Román",
+        "partido": "PSUV",
+        "estado": "Trujillo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/griman-roman-laidely-del-carmen.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/griman-romanlaidely-del-carmen"
+    },
+    {
+        "nombre": "Lemark  Cleofe Gómez Rausseo",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gomez-rausseolemark-cleofe.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gomez-rausseolemark-cleofe"
+    },
+    {
+        "nombre": "Leonardo  Humberto Chirinos Uribe",
+        "partido": "AC",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chirinos-uribeleonardo-humberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chirinos-uribeleonardo-humberto"
+    },
+    {
+        "nombre": "Leonardo Alfredo   Montezuma Ruiz",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/montezuma-ruiz-leonardo-alfredo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/montezuma-ruiz-leonardo-alfredo"
+    },
+    {
+        "nombre": "Leonel  Segundo González",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-leonel-segundo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-leonel-segundo"
+    },
+    {
+        "nombre": "Liliana  Coromoto González",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-liliana-coromoto.webp",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-liliana-coromoto"
+    },
+    {
+        "nombre": "Liris Sol  Margarita Velásquez Rosillo",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/velasquez-rosilloliris-sol-margarita.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/velasquez-rosilloliris-sol-margarita"
+    },
+    {
+        "nombre": "Lisandro  José Cabello",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cabello-lisandro-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cabello-lisandro-jose"
+    },
+    {
+        "nombre": "Lisett  Del Pilar Sabino",
+        "partido": "PPT",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sabino-lisett-del-pilar.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sabino-lisett-del-pilar"
+    },
+    {
+        "nombre": "Lisett  Siboney Muñoz Guaje",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/munoz-guajelisett-siboney.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/munoz-guajelisett-siboney"
+    },
+    {
+        "nombre": "Luis  Eduardo Parra Rivero",
+        "partido": "PV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/parra-riveroluis-eduardo.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/parra-riveroluis-eduardo"
+    },
+    {
+        "nombre": "Luis  Augusto Romero Carabaño",
+        "partido": "AP",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/romero-carabanoluis-augusto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/romero-carabanoluis-augusto"
+    },
+    {
+        "nombre": "Luis Fernando   Soto Rojas",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/soto-rojas-luis-fernando.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/soto-rojas-luis-fernando"
+    },
+    {
+        "nombre": "Luisa  Josefina Rodríguez Torres",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-torresluisa-josefina.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-torresluisa-josefina"
+    },
+    {
+        "nombre": "Luz  Coromoto Chacón Mendoza",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chacon-mendozaluz-coromoto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chacon-mendozaluz-coromoto"
+    },
+    {
+        "nombre": "Maira  Magdalena Rojas Pérez",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rojas-perezmaira-magdalena.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rojas-perezmaira-magdalena"
+    },
+    {
+        "nombre": "Manuel  Salvador Quevedo Fernández",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/quevedo-fernandezmanuel-salvador.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/quevedo-fernandezmanuel-salvador"
+    },
+    {
+        "nombre": "Manuel  Alfredo Hernandez La Rosa",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/hernandez-la-rosamanuel-alfredo.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/hernandez-la-rosamanuel-alfredo"
+    },
+    {
+        "nombre": "Marcos  Tulio Dugarte Gómez",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/dugarte-gomezmarcos-tulio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/dugarte-gomezmarcos-tulio"
+    },
+    {
+        "nombre": "Marcos  Antonio Mendoza Estrada",
+        "partido": "PSUV",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mendoza-estradamarcos-antonio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mendoza-estradamarcos-antonio"
+    },
+    {
+        "nombre": "Marelis  Josefina Pérez Marcano",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-marcanomarelis-josefina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-marcanomarelis-josefina"
+    },
+    {
+        "nombre": "Marglevys  Luisa De La Rosa Hidalgo",
+        "partido": "PSUV",
+        "estado": "Sucre",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/de-la-rosa-hidalgomarglevys-luisa.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/de-la-rosa-hidalgomarglevys-luisa"
+    },
+    {
+        "nombre": "María  Gabriela Vega Sosa",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vega-sosamaria-gabriela.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vega-sosamaria-gabriela"
+    },
+    {
+        "nombre": "María  Carolina Chávez González",
+        "partido": "PSUV",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/chavez-gonzalezmaria-carolina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/chavez-gonzalezmaria-carolina"
+    },
+    {
+        "nombre": "María  De Lourdes León Gibory",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/leon-giborymaria-de-lourdes.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/leon-giborymaria-de-lourdes"
+    },
+    {
+        "nombre": "Maria  Rosa Jiménez Barreto",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jimenez-barreto-maria-rosa.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/jimenez-barretomaria-rosa"
+    },
+    {
+        "nombre": "María  Iris Varela Rangel",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/varela-rangelmaria-iris.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/varela-rangelmaria-iris"
+    },
+    {
+        "nombre": "Marifred  Susana Rodríguez Mendoza",
+        "partido": "PSUV",
+        "estado": "Portuguesa",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-mendozamarifred-susana.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-mendozamarifred-susana"
+    },
+    {
+        "nombre": "Mario   Silva García",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/silva-garciamario.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/silva-garciamario"
+    },
+    {
+        "nombre": "Maritza  Beatriz Matos Solarte",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/matos-solarte-maritza-beatriz.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/matos-solartemaritza-beatriz"
+    },
+    {
+        "nombre": "Maritza  Alexandra Guzmán",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/guzman-maritza-alexandra.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/guzman-maritza-alexandra"
+    },
+    {
+        "nombre": "Marleny  Josefina Contreras De Cabello",
+        "partido": "PSUV",
+        "estado": "Monagas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/contreras-de-cabellomarleny-josefina.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/contreras-de-cabellomarleny-josefina"
+    },
+    {
+        "nombre": "Marta  Rosa Gallo Torres",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gallo-torresmarta-rosa.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gallo-torresmarta-rosa"
+    },
+    {
+        "nombre": "Melitza  Naralys Orellana Zuanare",
+        "partido": "PSUV",
+        "estado": "Apure",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/orellana-zuanapemelitza-naralys-20230803204208.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/orellana-zuanaremelitza-naralys"
+    },
+    {
+        "nombre": "Melva  Matucha Paredes Fischer",
+        "partido": "MUD",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/paredes-fischermelva-matucha.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/paredes-fischermelva-matucha"
+    },
+    {
+        "nombre": "Mercedes  Trinidad Sánchez Rodríguez",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-rodriguezmercedes-trinidad.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-rodriguezmercedes-trinidad"
+    },
+    {
+        "nombre": "Michel  Ivanhoe Duque",
+        "partido": "PSUV",
+        "estado": "Trujillo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/duque-michel-ivanhoe.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/duque-michel-ivanhoe"
+    },
+    {
+        "nombre": "Miguel  Ángel Pérez Abad",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-abadmiguel-angel.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-abadmiguel-angel"
+    },
+    {
+        "nombre": "Miguel  Rafael Salazar Rodríguez",
+        "partido": "COPEI",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/salazar-rodriguezmiguel-rafael.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/salazar-rodriguezmiguel-rafael"
+    },
+    {
+        "nombre": "Nancy  María Ascencio Estanga",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ascencio-estanga-nancy-maria.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ascencio-estanganancy-maria"
+    },
+    {
+        "nombre": "Nancy  Evarista Pérez Sierra",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/perez-sierranancy-evarista.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/perez-sierranancy-evarista"
+    },
+    {
+        "nombre": "Nayary  Coromoto Linares Suárez",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/linares-suareznayary-coromoto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/linares-suareznayary-coromoto"
+    },
+    {
+        "nombre": "Naybeth  Yaneydys  De Los Ángeles Berríos Álvarez",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/berrios-alvareznaybeth-yaneydys-de-los-angeles.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/berrios-alvareznaybeth-yaneydys-de-los-angeles"
+    },
+    {
+        "nombre": "Nicia  Marina Maldonado Maldonado",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/maldonado-maldonadonicia-marina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/maldonado-maldonadonicia-marina"
+    },
+    {
+        "nombre": "Nicolás  Ernesto Maduro Guerra",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/maduro-guerranicolas-ernesto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/maduro-guerranicolas-ernesto"
+    },
+    {
+        "nombre": "Nileida   Carrasquel",
+        "partido": "PSUV",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/carrasquel-nileida.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/carrasquel-nileida"
+    },
+    {
+        "nombre": "Niloha  Ivanis Delgado Tovar",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/delgado-tovarniloha-ivanis.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/delgado-tovarniloha-ivanis"
+    },
+    {
+        "nombre": "Nixon  Humberto Maniglia Véliz",
+        "partido": "AD",
+        "estado": "Amazonas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/maniglia-veliznixon-humberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/maniglia-veliznixon-humberto"
+    },
+    {
+        "nombre": "Noeli   Pocaterra De Oberto",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/pocaterra-de-obertonoeli.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/pocaterra-de-obertonoeli"
+    },
+    {
+        "nombre": "Nosliw  Andreína Rodríguez Franco",
+        "partido": "PSUV",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-franconosliw-andreina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-franconosliw-andreina"
+    },
+    {
+        "nombre": "Omar  José Farías Boada",
+        "partido": "PSUV",
+        "estado": "Monagas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/farias-boadaomar-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/farias-boadaomar-jose"
+    },
+    {
+        "nombre": "Oriana  Lucía Osio Noblott",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/osio-noblottoriana-lucia.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/osio-noblottoriana-lucia"
+    },
+    {
+        "nombre": "Orlando  José Camacho Figueira",
+        "partido": "MSV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/camacho-figueiraorlando-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/camacho-figueiraorlando-jose"
+    },
+    {
+        "nombre": "Óscar  Rafael Vásquez Echeverria",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vasquez-echeverriaoscar-rafael.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vasquez-echeverriaoscar-rafael"
+    },
+    {
+        "nombre": "Óscar  Ramón Figuera González",
+        "partido": "PCV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/oscar-ramon-figuera-gonzalez-147.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/figuera-gonzalezoscar-ramon"
+    },
+    {
+        "nombre": "Oscar  Adolfo Ronderos Rangel",
+        "partido": "AD",
+        "estado": "Nueva Esparta",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/oscar-adolfo-ronderos-rangel-169.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ronderos-oscar-adolfo"
+    },
+    {
+        "nombre": "Oswaldo  Emilio Vera Rojas",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vera-rojasoswaldo-emilio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vera-rojasoswaldo-emilio"
+    },
+    {
+        "nombre": "Pedro  Miguel Carreño Escobar",
+        "partido": "PSUV",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/pedro-miguel-carrenacuteo-escobar-48.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/carreno-pedro-miguel"
+    },
+    {
+        "nombre": "Pedro  Rafael Santaella Hernández",
+        "partido": "PSUV",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/santaella-hernandezpedro-rafael.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/santaella-hernandezpedro-rafael"
+    },
+    {
+        "nombre": "Pedro  Tomas Lander Moreno",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/lander-morenopedro-tomas.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/lander-morenopedro-tomas"
+    },
+    {
+        "nombre": "Pedro  José Infante Aparicio",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/infante-apariciopedro-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/infante-apariciopedro-jose"
+    },
+    {
+        "nombre": "Petra  Yaritza Aray Cascante",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/aray-cascantepetra-yaritza.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/aray-cascantepetra-yaritza"
+    },
+    {
+        "nombre": "Rafael  Segundo Nava Cardozo",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/nava-cardozorafael-segundo.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/nava-cardozorafael-segundo"
+    },
+    {
+        "nombre": "Rafael  Enrique Ramos Olivares",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ramos-olivares-rafael-enrique.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ramos-olivaresrafael-enrique"
+    },
+    {
+        "nombre": "Raiza  Justina Lanz Rivero",
+        "partido": "TUPAMARO",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/lanz-riveroraiza-justina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/lanz-riveroraiza-justina"
+    },
+    {
+        "nombre": "Ramón  Augusto Lobo Moreno",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/lobo-morenoramon-augusto.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/lobo-morenoramon-augusto"
+    },
+    {
+        "nombre": "Ramón  José Magallanes Carapa",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/ramon-jose-magallanes-carapa-150.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/magallanes-caraparamon-jose"
+    },
+    {
+        "nombre": "Reinaldo  Yubrhan Rodríguez Silva",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-silvareinaldo-yubrhan.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-silvareinaldo-yubrhan"
+    },
+    {
+        "nombre": "Ricardo  Antonio Molina Peñaloza",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/molina-penalozaricardo-antonio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/molina-penalozaricardo-antonio"
+    },
+    {
+        "nombre": "Ricardo  Ignacio Sánchez Mujica",
+        "partido": "AC",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-mujica-ricardo-ignacio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-mujicaricardo-ignacio"
+    },
+    {
+        "nombre": "Ricardo  Alberto González Alvarado",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gonzalez-alvaradoricardo-alberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gonzalez-alvaradoricardo-alberto"
+    },
+    {
+        "nombre": "Richard  Cristóbal Rosa",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rosa-richard-cristobal.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rosa-richard-cristobal"
+    },
+    {
+        "nombre": "Rigel  Marcos Sergent Viloria",
+        "partido": "PSUV",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sergent-viloriarigel-marcos.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sergent-viloriarigel-marcos"
+    },
+    {
+        "nombre": "Robert  José Sandoval Jiménez",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sandoval-jimenezrobert-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sandoval-jimenezrobert-jose"
+    },
+    {
+        "nombre": "Roberto  Jesús García Messuti",
+        "partido": "MSV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/garcia-messuti-roberto-jesus.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/garcia-messutiroberto-jesus"
+    },
+    {
+        "nombre": "Rodbexa  Mercedes Poleo Vidoza",
+        "partido": "PSUV",
+        "estado": "Falcón",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/poleo-vidoza-rodbexa-mercedes.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/poleo-vidoza-rodbexa-mercedes"
+    },
+    {
+        "nombre": "Rodolfo  Eduardo Sanz",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanz-rodolfo-eduardo.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanz-rodolfo-eduardo"
+    },
+    {
+        "nombre": "Rodolfo  Alexander Zerpa Rojas",
+        "partido": "PSUV",
+        "estado": "Mérida",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/zerpa-rojasrodolfo-alexander.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/zerpa-rojasrodolfo-alexander"
+    },
+    {
+        "nombre": "Rodolfo  Antonio Crespo Grismaldo",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/crespo-grismaldorodolfo-antonio.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/crespo-grismaldorodolfo-antonio"
+    },
+    {
+        "nombre": "Róger Giovanny    Pinto Romero",
+        "partido": "TUPAMARO",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/pinto-romero-roger-giovanny.jpeg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/pinto-romero-roger-giovanny"
+    },
+    {
+        "nombre": "Ronald  Ramón Bastardo Rodríguez",
+        "partido": "PSUV",
+        "estado": "Bolívar",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/bastardo-rodriguezronald-ramon.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/bastardo-rodriguezronald-ramon"
+    },
+    {
+        "nombre": "Roque   Valero Pérez",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/roque-valero-perez-35.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/valero-perezroque"
+    },
+    {
+        "nombre": "Rosa  Del Valle León Brabo",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/leon-braborosa-del-valle.webp",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/leon-braborosa-del-valle"
+    },
+    {
+        "nombre": "Rosario  Coromoto Montaño Rizales",
+        "partido": "PSUV",
+        "estado": "Yaracuy",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/montano-rizalesrosario-coromoto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/montano-rizalesrosario-coromoto"
+    },
+    {
+        "nombre": "Roy  Alberto Daza",
+        "partido": "PSUV",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/daza-roy-alberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/daza-roy-alberto"
+    },
+    {
+        "nombre": "Ruben  Antonio Limas Telles",
+        "partido": "AD",
+        "estado": "Distrito Capital",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/limas-tellesruben-antonio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/limas-tellesruben-antonio"
+    },
+    {
+        "nombre": "Rudy  Carolina Puerta Arteaga",
+        "partido": "PSUV",
+        "estado": "Vargas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/puerta-arteagarudy-carolina.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/puerta-arteagarudy-carolina"
+    },
+    {
+        "nombre": "Ruluc Josefina  Jerónima Solórzano Mirabal",
+        "partido": "PSUV",
+        "estado": "Guárico",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/solorzano-mirabal-ruluc-josefina-jeronima.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/solorzano-mirabal-ruluc-josefina-jeronima"
+    },
+    {
+        "nombre": "Saúl  Antonio Ortega Campos",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/saul-antonio-ortega-campos-79.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/ortega-campossaul-antonio"
+    },
+    {
+        "nombre": "Sol  Elena Mussett De Primera",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mussett-de-primerasol-elena.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mussett-de-primerasol-elena"
+    },
+    {
+        "nombre": "Sony  Mayerlín Sánchez Guerrero",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/sanchez-guerrerosony-mayerlin.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/sanchez-guerrerosony-mayerlin"
+    },
+    {
+        "nombre": "Tania  Valentina Díaz González",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/tania-valentina-diaz-gonzalez-61.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/diaz-gonzaleztania-valentina"
+    },
+    {
+        "nombre": "Thaydé  Rosa Monzón Gómez",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/monzon-gomezthayde-rosa.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/monzon-gomezthayde-rosa"
+    },
+    {
+        "nombre": "Timoteo  De Jesus Zambrano Guedez",
+        "partido": "CMC",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/zambrano-timoteo-de-jesus.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/zambrano-guedeztimoteo-de-jesus"
+    },
+    {
+        "nombre": "Vanesa   Montero López",
+        "partido": "MSV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/montero-lopezvanesa.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/montero-lopezvanesa"
+    },
+    {
+        "nombre": "Victoria  Mercedes Mata García",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/mata-garciavictoria-mercedes.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/mata-garciavictoria-mercedes"
+    },
+    {
+        "nombre": "Vladimir  Ernesto Miró Mieres",
+        "partido": "PPT",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/miro-mieresvladimir-ernesto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/miro-mieresvladimir-ernesto"
+    },
+    {
+        "nombre": "Williams  José Benavides Rondón",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/benavides-rondonwilliams-jose.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/benavides-rondonwilliams-jose"
+    },
+    {
+        "nombre": "Williams  Alberto Parada Argüello",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/parada-arguellowilliams-alberto.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/parada-arguellowilliams-alberto"
+    },
+    {
+        "nombre": "Williams  Alexander Gil Linares",
+        "partido": "MUD",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/williams-alexander-gil-linares-75.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gil-linareswilliams-alexander"
+    },
+    {
+        "nombre": "Willian  José Rodríguez Gamboa",
+        "partido": "PPT",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-gamboawillian-jose.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-gamboawillian-jose"
+    },
+    {
+        "nombre": "Willian  Rafael Gil Calderón",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/willian-rafael-gil-calderon-107.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gil-calderonwillian-rafael"
+    },
+    {
+        "nombre": "Willy Alexander   Medina Montoya",
+        "partido": "PSUV",
+        "estado": "Táchira",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/medina-montoya-willy-alexander.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/medina-montoya-willy-alexander"
+    },
+    {
+        "nombre": "Wils  Asención Rangel Linares",
+        "partido": "PSUV",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rangel-linareswils-asencion.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rangel-linareswils-asencion"
+    },
+    {
+        "nombre": "Winston  Teofilactes Vallenilla Hazell",
+        "partido": "PSUV",
+        "estado": "Miranda",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/vallenilla-hazell-winston-teofilactes.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/vallenilla-hazellwinston-teofilactes"
+    },
+    {
+        "nombre": "Yanis  Enrique Agüero",
+        "partido": "PSUV",
+        "estado": "Lara",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/aguero-yanis-enrique.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/aguero-yanis-enrique"
+    },
+    {
+        "nombre": "Yaritza  Del Carmen Martínez Alvarado",
+        "partido": "PSUV",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-alvaradoyaritza-del-carmen.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-alvaradoyaritza-del-carmen"
+    },
+    {
+        "nombre": "Yeissis  Demetrio Orozco González",
+        "partido": "Podemos",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/orozco-gonzalez-yeissis-demetrio.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/orozco-gonzalezyeissis-demetrio"
+    },
+    {
+        "nombre": "Yenis  Elena Cepeda",
+        "partido": "PSUV",
+        "estado": "Cojedes",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/cepeda-yenis-elena.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/cepeda-yenis-elena"
+    },
+    {
+        "nombre": "Yimmys  Adolfo Rodríguez Montiel",
+        "partido": "CATEDRA",
+        "estado": "REP. INDÍGENA",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/rodriguez-montielyimmys-adolfo.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/rodriguez-montielyimmys-adolfo"
+    },
+    {
+        "nombre": "Yobany  Alexis Blanco Figueroa",
+        "partido": "AC",
+        "estado": "Nacional",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/blanco-figueroa-yobany-alexis.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/blanco-figueroayobany-alexis"
+    },
+    {
+        "nombre": "Yonder  Luis Durán Araujo",
+        "partido": "PSUV",
+        "estado": "Zulia",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/duran-araujoyonder.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/duran-araujoyonder-luis"
+    },
+    {
+        "nombre": "Yonder  Neomar Silva Tovar",
+        "partido": "PSUV",
+        "estado": "Carabobo",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/silva-tovaryonder-neomar.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/silva-tovaryonder-neomar"
+    },
+    {
+        "nombre": "Yudis  Navelis Betancourt Berrios",
+        "partido": "PSUV",
+        "estado": "Barinas",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/betancourt-berriosyudis-navelis.jpg",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/betancourt-berriosyudis-navelis"
+    },
+    {
+        "nombre": "Yuri  Del Carmen Jiménez Noguera",
+        "partido": "PSUV",
+        "estado": "Anzoátegui",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/jimenez-noguerayuri-del-carmen-20230810213629.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/jimenez-noguerayuri-del-carmen"
+    },
+    {
+        "nombre": "Zulaymis  Del Valle Gascon Flores",
+        "partido": "PSUV",
+        "estado": "Delta Amacuro",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/gascon-floreszulaymis-del-valle.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/gascon-floreszulaymis-del-valle"
+    },
+    {
+        "nombre": "Luis Eduardo  Abdel Martínez Hidalgo",
+        "partido": "AD",
+        "estado": "Aragua",
+        "imagen": "https://www.asambleanacional.gob.ve/storage/img/diputados/martinez-hidalgo-luis-eduardo-abdel.png",
+        "url_biografia": "https://www.asambleanacional.gob.ve/diputado/martinez-hidalgo-luis-eduardo-abdel"
+    }
+]

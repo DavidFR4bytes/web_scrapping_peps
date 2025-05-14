@@ -1,0 +1,43 @@
+import requests
+import csv
+import json
+import io
+import os
+
+def scrape_peps_european_union_api():
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vScJoESeSlsPlFcHSqIQMO9kK6JRV7ahVNc_WdiLuCV-CzBZh-tZU00_-MgXekD6t7vSNjjDZBI9eNI/pub?gid=0&single=true&output=csv"
+
+    response = requests.get(url)
+    if response.status_code != 200:
+        print(f"Error al descargar el archivo: {response.status_code}")
+        return
+
+    # Leer CSV directamente desde el contenido de la respuesta
+    csvfile = io.StringIO(response.content.decode("utf-8"))
+    reader = csv.DictReader(csvfile)
+
+    lista_peps = []
+    for row in reader:
+        pep = {
+            "eurostat_code": row.get("Eurostat country code"),
+            "cargo": row.get("Position"),
+            "description_alt_lang": row.get("Description alt lang"),
+            "position_identifier": row.get("position identifier"),
+            "status": row.get("Status"),
+            "organisation": row.get("Organisation"),
+            "notes": row.get("notes"),
+            "category": row.get("Category"),
+        }
+        lista_peps.append(pep)
+
+        # Guardar el JSON
+    output_path = os.path.join("data", "peps_union_europea.json")
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(lista_peps, f, ensure_ascii=False, indent=4)
+
+    print("Datos guardados correctamente en 'peps_union_europea.json'.")
+
+if __name__ == "__main__":
+    scrape_peps_european_union_api()

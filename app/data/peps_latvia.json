@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Ingrīda",
+        "surname": "Circene",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=60440B76C204D1CFC22588E0002AE03F&url=./0/60440B76C204D1CFC22588E0002AE03F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Anna",
+        "surname": "Rancāne",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A5791F8E6A227453C22588E0002AE051&url=./0/A5791F8E6A227453C22588E0002AE051?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ģirts Valdis",
+        "surname": "Kristovskis",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=5DCAC05E2C421CEBC22588E0002AE03D&url=./0/5DCAC05E2C421CEBC22588E0002AE03D?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Alīna",
+        "surname": "Gendele",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A32DB09A89AE2AB3C22588E0002AE053&url=./0/A32DB09A89AE2AB3C22588E0002AE053?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Patmalnieks",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=E482E63221656BB6C22588E0002AE07C&url=./0/E482E63221656BB6C22588E0002AE07C?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Zanda",
+        "surname": "Kalniņa-Lukaševica",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=1A47A35970ACAC96C22588E0002AE072&url=./0/1A47A35970ACAC96C22588E0002AE072?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andrejs",
+        "surname": "Judins",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=24A2D1934BB744F2C22588E0002AE06F&url=./0/24A2D1934BB744F2C22588E0002AE06F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Dāvis Mārtiņš",
+        "surname": "Daugavietis",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=B8D6C0AA11A28BFCC22588E0002AE075&url=./0/B8D6C0AA11A28BFCC22588E0002AE075?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Irma",
+        "surname": "Kalniņa",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=96302E662BD2A427C22588E0002AE07F&url=./0/96302E662BD2A427C22588E0002AE07F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Uģis",
+        "surname": "Rotbergs",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=56EFAEBA9D49201DC22588E0002AE078&url=./0/56EFAEBA9D49201DC22588E0002AE078?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Agnese",
+        "surname": "Krasta",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=DE40EC1D5AC5DCD9C22588E0002AE07A&url=./0/DE40EC1D5AC5DCD9C22588E0002AE07A?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Inese",
+        "surname": "Kalniņa",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=526A20701EACC583C22588E0002AE08D&url=./0/526A20701EACC583C22588E0002AE08D?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edmunds",
+        "surname": "Jurēvics",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=E449F176D460098DC22588E0002AE0AA&url=./0/E449F176D460098DC22588E0002AE0AA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Gatis",
+        "surname": "Liepiņš",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=58887F105A9C071DC22588E0002AE080&url=./0/58887F105A9C071DC22588E0002AE080?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Skrastiņš",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=193BDF566D86DE9FC22588E0002AE0B4&url=./0/193BDF566D86DE9FC22588E0002AE0B4?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ilze",
+        "surname": "Vergina",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3A360C6FE067EA26C22588E0002AE0B5&url=./0/3A360C6FE067EA26C22588E0002AE0B5?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Raimonds",
+        "surname": "Čudars",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=231434F58B210733C22588E0002AE0B1&url=./0/231434F58B210733C22588E0002AE0B1?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Viesturs",
+        "surname": "Zariņš",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=9F2E57DDCA8B3285C22588E0002AE0C2&url=./0/9F2E57DDCA8B3285C22588E0002AE0C2?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ainars",
+        "surname": "Latkovskis",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=974B603F5A87D059C22588E0002AE0AF&url=./0/974B603F5A87D059C22588E0002AE0AF?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andrejs",
+        "surname": "Ceļapīters",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=71A84B34F364BB94C22588E0002AE0BA&url=./0/71A84B34F364BB94C22588E0002AE0BA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Agita",
+        "surname": "Zariņa-Stūre",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=96A252C4C3BA55CFC22588E0002AE0B8&url=./0/96A252C4C3BA55CFC22588E0002AE0B8?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Atis",
+        "surname": "Labucis",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=35CD41C73A1F5DC9C22588E0002AE0C3&url=./0/35CD41C73A1F5DC9C22588E0002AE0C3?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Mārtiņš",
+        "surname": "Daģis",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=D8AFDB5B4EA17571C22588E0002AE0E6&url=./0/D8AFDB5B4EA17571C22588E0002AE0E6?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Mārtiņš",
+        "surname": "Felss",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=AA2833B09FDC308DC22588E0002AE0EA&url=./0/AA2833B09FDC308DC22588E0002AE0EA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Anda",
+        "surname": "Čakša",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3BA8289DBA0F5EA8C22588E0002AE0DE&url=./0/3BA8289DBA0F5EA8C22588E0002AE0DE?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Uldis",
+        "surname": "Augulis",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=5E127A6E7EFCB489C22588E0002AE0F7&url=./0/5E127A6E7EFCB489C22588E0002AE0F7?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Vucāns",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A5EA8D00A41AF6F8C22588E0002AE0F9&url=./0/A5EA8D00A41AF6F8C22588E0002AE0F9?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Gundars",
+        "surname": "Daudze",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=84AFBF137ECED25AC22588E0002AE0FA&url=./0/84AFBF137ECED25AC22588E0002AE0FA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Anita",
+        "surname": "Brakovska",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=6B32A07F60D2717EC22588E0002AE115&url=./0/6B32A07F60D2717EC22588E0002AE115?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Līga",
+        "surname": "Kozlovska",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=7B8966CAF30205AFC22588E0002AE113&url=./0/7B8966CAF30205AFC22588E0002AE113?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Valdis",
+        "surname": "Maslovskis",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=026CBA2D884CB491C22588E0002AE119&url=./0/026CBA2D884CB491C22588E0002AE119?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Gunārs",
+        "surname": "Kūtris",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=00D7FD2350CB603EC22588E0002AE12F&url=./0/00D7FD2350CB603EC22588E0002AE12F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Augusts",
+        "surname": "Brigmanis",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=795B2DB5FBAE49B7C22588E0002AE131&url=./0/795B2DB5FBAE49B7C22588E0002AE131?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andrejs",
+        "surname": "Vilks",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=595F72E57451EC05C22588E0002AE137&url=./0/595F72E57451EC05C22588E0002AE137?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Harijs",
+        "surname": "Rokpelnis",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=DB66A9AE0D730591C22588E0002AE179&url=./0/DB66A9AE0D730591C22588E0002AE179?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Daiga",
+        "surname": "Mieriņa",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=4BF8C00E38238CE8C22588E0002AE177&url=./0/4BF8C00E38238CE8C22588E0002AE177?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Didzis",
+        "surname": "Zemmers",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=7A2D78E3B22A6B1BC22588E0002AE182&url=./0/7A2D78E3B22A6B1BC22588E0002AE182?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Līga",
+        "surname": "Kļaviņa",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=F3C77BC702A356B2C22588E0002AE1AB&url=./0/F3C77BC702A356B2C22588E0002AE1AB?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andris",
+        "surname": "Bērziņš",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=67C17E6FE20BCAA9C22588E0002AE1AC&url=./0/67C17E6FE20BCAA9C22588E0002AE1AC?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Juris",
+        "surname": "Jakovins",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=320B93E588BE3BE6C22588E0002AE199&url=./0/320B93E588BE3BE6C22588E0002AE199?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ligita",
+        "surname": "Gintere",
+        "parliamentary_group": "Union of Greens and Farmers parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=0488BCAC919F0823C22588E0002AE1B1&url=./0/0488BCAC919F0823C22588E0002AE1B1?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Viktorija",
+        "surname": "Pleškāne",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3330A542CC174D70C22588E0002AE1CB&url=./0/3330A542CC174D70C22588E0002AE1CB?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jekaterina",
+        "surname": "Drelinga",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=2E7D7EFFE92769FBC22588E0002AE1D3&url=./0/2E7D7EFFE92769FBC22588E0002AE1D3?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Viktors",
+        "surname": "Pučka",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A332973FE6E07353C22588E0002AE1CD&url=./0/A332973FE6E07353C22588E0002AE1CD?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Svetlana",
+        "surname": "Čulkova",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=D3D88E397CD36F3BC22588E0002AE1E1&url=./0/D3D88E397CD36F3BC22588E0002AE1E1?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Iļja",
+        "surname": "Ivanovs",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=701B51D85B997204C22588E0002AE1D6&url=./0/701B51D85B997204C22588E0002AE1D6?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Nataļja",
+        "surname": "Marčenko-Jodko",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=9510F2698DD2753DC22588E0002AE1DE&url=./0/9510F2698DD2753DC22588E0002AE1DE?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Igors",
+        "surname": "Judins",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=21A69EE21BA55AF2C22588E0002AE1E3&url=./0/21A69EE21BA55AF2C22588E0002AE1E3?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Aleksejs",
+        "surname": "Rosļikovs",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=275661C942308116C22588E0002AE1DD&url=./0/275661C942308116C22588E0002AE1DD?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jefimijs",
+        "surname": "Klementjevs",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=DF26D483F1260CA9C22588E0002AE1E6&url=./0/DF26D483F1260CA9C22588E0002AE1E6?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Amils",
+        "surname": "Saļimovs",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=CDB9FDE86A5EA16DC22588E0002AE210&url=./0/CDB9FDE86A5EA16DC22588E0002AE210?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ilze",
+        "surname": "Indriksone",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=11CBD8C6D7C07380C22588E0002AE233&url=./0/11CBD8C6D7C07380C22588E0002AE233?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Dmitrijs",
+        "surname": "Kovaļenko",
+        "parliamentary_group": "Stability! parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=0F0920EE5AAAF1E1C22588E0002AE226&url=./0/0F0920EE5AAAF1E1C22588E0002AE226?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Artūrs",
+        "surname": "Butāns",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=0193BC8860749C34C22588E0002AE234&url=./0/0193BC8860749C34C22588E0002AE234?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edmunds",
+        "surname": "Teirumnieks",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=D6094735DEC19141C22588E0002AE24F&url=./0/D6094735DEC19141C22588E0002AE24F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Nauris",
+        "surname": "Puntulis",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=59C2AD64FE4CECDFC22588E0002AE26C&url=./0/59C2AD64FE4CECDFC22588E0002AE26C?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ināra",
+        "surname": "Mūrniece",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=AE9AE6A0595BDDFFC22588E0002AE269&url=./0/AE9AE6A0595BDDFFC22588E0002AE269?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jurģis",
+        "surname": "Klotiņš",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=00B3FD4EEFF9F5D2C22588E0002AE274&url=./0/00B3FD4EEFF9F5D2C22588E0002AE274?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Aleksandrs",
+        "surname": "Kiršteins",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=4FF243CF0259DB05C22588E0002AE27C&url=./0/4FF243CF0259DB05C22588E0002AE27C?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Uģis",
+        "surname": "Mitrevics",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=CC46C0000637B0C6C22588E0002AE2B2&url=./0/CC46C0000637B0C6C22588E0002AE2B2?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Raivis",
+        "surname": "Dzintars",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=F7ADA1FBED184CCBC22588E0002AE2B4&url=./0/F7ADA1FBED184CCBC22588E0002AE2B4?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Dombrava",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=C309C9E0EEF76BB1C22588E0002AE2B5&url=./0/C309C9E0EEF76BB1C22588E0002AE2B5?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Grasbergs",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=84659186BD4502B1C22588E0002AE2BA&url=./0/84659186BD4502B1C22588E0002AE2BA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jānis",
+        "surname": "Vitenbergs",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=D520FA69CC6F216AC22588E0002AE2E6&url=./0/D520FA69CC6F216AC22588E0002AE2E6?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edvīns",
+        "surname": "Šnore",
+        "parliamentary_group": "National Alliance parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=8100D64D46EABDD0C22588E0002AE2E4&url=./0/8100D64D46EABDD0C22588E0002AE2E4?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ramona",
+        "surname": "Petraviča",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=C28602E3EE79BC90C22588E0002AE300&url=./0/C28602E3EE79BC90C22588E0002AE300?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ilze",
+        "surname": "Stobova",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=95EDB2801B53824DC22588E0002AE31C&url=./0/95EDB2801B53824DC22588E0002AE31C?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Oļegs",
+        "surname": "Burovs",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=1BA895B44E309A68C22588E0002AE339&url=./0/1BA895B44E309A68C22588E0002AE339?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ainārs",
+        "surname": "Šlesers",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=AB8ACC42A7D0758BC22588E0002AE337&url=./0/AB8ACC42A7D0758BC22588E0002AE337?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Kristaps",
+        "surname": "Krištopans",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=8EFE689168302B0CC22588E0002AE35D&url=./0/8EFE689168302B0CC22588E0002AE35D?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Mārcis",
+        "surname": "Jencītis",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=545D69DB4CA70A7AC22588E0002AE358&url=./0/545D69DB4CA70A7AC22588E0002AE358?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Linda",
+        "surname": "Liepiņa",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=DB9FA0949D773C9DC22588E0002AE37A&url=./0/DB9FA0949D773C9DC22588E0002AE37A?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ričards",
+        "surname": "Šlesers",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=06F0ADB3DA699EE0C22588E0002AE393&url=./0/06F0ADB3DA699EE0C22588E0002AE393?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edmunds",
+        "surname": "Zivtiņš",
+        "parliamentary_group": "LATVIA FIRST parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=55EC0FEF3FCDAB72C22588E0002AE3AC&url=./0/55EC0FEF3FCDAB72C22588E0002AE3AC?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edgars",
+        "surname": "Zelderis",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=C97ED36F8C6BA43EC22588E0002AE3C8&url=./0/C97ED36F8C6BA43EC22588E0002AE3C8?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Leila",
+        "surname": "Rasima",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A546DC5312A80E29C22588E0002AE3E1&url=./0/A546DC5312A80E29C22588E0002AE3E1?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Antoņina",
+        "surname": "Ņenaševa",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=ED885BD3FAFA714FC22588E0002AE3FF&url=./0/ED885BD3FAFA714FC22588E0002AE3FF?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andris",
+        "surname": "Šuvajevs",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=B865554A7F99FFE7C22588E0002AE401&url=./0/B865554A7F99FFE7C22588E0002AE401?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Skaidrīte",
+        "surname": "Ābrama",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=F6DBC43D4D37E708C22588E0002AE404&url=./0/F6DBC43D4D37E708C22588E0002AE404?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edmunds",
+        "surname": "Cepurītis",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=4392115994088E59C22588E0002AE407&url=./0/4392115994088E59C22588E0002AE407?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Mairita",
+        "surname": "Lūse",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=F4E2820D1DD178A0C22588E0002AE405&url=./0/F4E2820D1DD178A0C22588E0002AE405?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Kaspars",
+        "surname": "Briškens",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=168250F545BDDAA8C22588E0002AE444&url=./0/168250F545BDDAA8C22588E0002AE444?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Jana",
+        "surname": "Simanovska",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=C5E1C0E63FA0B3FDC22588E0002AE445&url=./0/C5E1C0E63FA0B3FDC22588E0002AE445?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Līga",
+        "surname": "Rasnača",
+        "parliamentary_group": "PROGRESSIVES parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=EE235769F65639B9C22588E0002AE479&url=./0/EE235769F65639B9C22588E0002AE479?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Māris",
+        "surname": "Kučinskis",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=CAEAD592CBE63FDAC22588E0002AE492&url=./0/CAEAD592CBE63FDAC22588E0002AE492?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Linda",
+        "surname": "Matisone",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3DE2250861A31EE3C22588E0002AE493&url=./0/3DE2250861A31EE3C22588E0002AE493?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edgars",
+        "surname": "Putra",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3A2D5E4FBE2B9845C22588E0002AE497&url=./0/3A2D5E4FBE2B9845C22588E0002AE497?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Juris",
+        "surname": "Viļums",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=F954DA5F67640BA0C22588E0002AE4AC&url=./0/F954DA5F67640BA0C22588E0002AE4AC?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Igors",
+        "surname": "Rajevs",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=16422DA52F2C4042C22588E0002AE4CC&url=./0/16422DA52F2C4042C22588E0002AE4CC?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Andris",
+        "surname": "Kulbergs",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=51CF0E6C1B20AF2EC22588E0002AE4CD&url=./0/51CF0E6C1B20AF2EC22588E0002AE4CD?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Lauris",
+        "surname": "Lizbovskis",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=3EA79906ACD2E42BC22588E0002AE4DA&url=./0/3EA79906ACD2E42BC22588E0002AE4DA?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Didzis",
+        "surname": "Šmits",
+        "parliamentary_group": "Unaffiliated members of parliament",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=51C17D69AC73A459C22588E0002AE4C7&url=./0/51C17D69AC73A459C22588E0002AE4C7?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Māris",
+        "surname": "Sprindžuks",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=686C37B3DFAA0810C22588E0002AE50F&url=./0/686C37B3DFAA0810C22588E0002AE50F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Aiva",
+        "surname": "Vīksna",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=4D6DE890139F0F5FC22588E0002AE510&url=./0/4D6DE890139F0F5FC22588E0002AE510?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edvards",
+        "surname": "Smiltēns",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=A8A9E87F3907B606C22588E0002AE509&url=./0/A8A9E87F3907B606C22588E0002AE509?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Raimonds",
+        "surname": "Bergmanis",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=E789F950275FB643C22588E0002AE50D&url=./0/E789F950275FB643C22588E0002AE50D?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Česlavs",
+        "surname": "Batņa",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=63C73AD5F73AE5FDC22588E0002AE517&url=./0/63C73AD5F73AE5FDC22588E0002AE517?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Edgars",
+        "surname": "Tavars",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=29DC1F43D02712A2C22588E0002AE53C&url=./0/29DC1F43D02712A2C22588E0002AE53C?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Ingmārs",
+        "surname": "Līdaka",
+        "parliamentary_group": "“THE UNITED LIST – Latvian Green Party, Latvian Regional Alliance, Liepāja Party” parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=B471AC58D00A0BEDC22588E0002AE53F&url=./0/B471AC58D00A0BEDC22588E0002AE53F?OpenDocument&lang=EN"
+    },
+    {
+        "name": "Zane",
+        "surname": "Skujiņa-Rubene",
+        "parliamentary_group": "THE NEW UNITY parliamentary group",
+        "profile_url": "https://titania.saeima.lv/personal/deputati/saeima14_depweb_public.nsf/depArchive.html?ReadForm&unid=420041137098FD9AC22588E0002AE07D&url=./0/420041137098FD9AC22588E0002AE07D?OpenDocument&lang=EN"
+    }
+]

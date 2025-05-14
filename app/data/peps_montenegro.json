@@ -1,0 +1,1071 @@
+[
+    {
+        "imeIPrezime": "Selman Turusković",
+        "nazivFunkcije": [
+            "Predsjednik/ca Savjeta"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-01",
+                "barcode": 430312,
+                "stariIzvjestaj": 10100
+            },
+            {
+                "datum": "2017-03-07",
+                "barcode": 430313,
+                "stariIzvjestaj": 18224
+            },
+            {
+                "datum": "2018-01-30",
+                "barcode": 430314,
+                "stariIzvjestaj": 24663
+            },
+            {
+                "datum": "2019-01-31",
+                "barcode": 430315,
+                "stariIzvjestaj": 32610
+            },
+            {
+                "datum": "2020-02-05",
+                "barcode": 430316,
+                "stariIzvjestaj": 41076
+            },
+            {
+                "datum": "2021-02-04",
+                "barcode": 430317,
+                "stariIzvjestaj": 49612
+            },
+            {
+                "datum": "2022-02-11",
+                "barcode": 430318,
+                "stariIzvjestaj": 60618
+            },
+            {
+                "datum": "2022-02-11",
+                "barcode": 430319,
+                "stariIzvjestaj": 60620
+            },
+            {
+                "datum": "2023-02-14",
+                "barcode": 430320,
+                "stariIzvjestaj": 74245
+            },
+            {
+                "datum": "2024-01-12",
+                "barcode": 430321,
+                "stariIzvjestaj": 84990
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Paljoka Ljucdjonaj",
+        "nazivFunkcije": [
+            "Član/ica Savjeta"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430322,
+                "stariIzvjestaj": 10101
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Momčilo Vujović",
+        "nazivFunkcije": [
+            "Predsjednik/ca OD",
+            "Član/ica OD"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430323,
+                "stariIzvjestaj": 10102
+            },
+            {
+                "datum": "2017-02-27",
+                "barcode": 430324,
+                "stariIzvjestaj": 18028
+            },
+            {
+                "datum": "2018-02-01",
+                "barcode": 430325,
+                "stariIzvjestaj": 24572
+            },
+            {
+                "datum": "2018-02-27",
+                "barcode": 430326,
+                "stariIzvjestaj": 25202
+            },
+            {
+                "datum": "2019-01-22",
+                "barcode": 430327,
+                "stariIzvjestaj": 32352
+            },
+            {
+                "datum": "2019-01-22",
+                "barcode": 430328,
+                "stariIzvjestaj": 32356
+            },
+            {
+                "datum": "2019-01-22",
+                "barcode": 430329,
+                "stariIzvjestaj": 32473
+            },
+            {
+                "datum": "2020-03-24",
+                "barcode": 430330,
+                "stariIzvjestaj": 43969
+            },
+            {
+                "datum": "2021-01-29",
+                "barcode": 430331,
+                "stariIzvjestaj": 49405
+            },
+            {
+                "datum": "2022-03-23",
+                "barcode": 430332,
+                "stariIzvjestaj": 63204
+            },
+            {
+                "datum": "2023-01-27",
+                "barcode": 430333,
+                "stariIzvjestaj": 72381
+            },
+            {
+                "datum": "2023-01-27",
+                "barcode": 430334,
+                "stariIzvjestaj": 72382
+            },
+            {
+                "datum": "2023-01-27",
+                "barcode": 430335,
+                "stariIzvjestaj": 72383
+            },
+            {
+                "datum": "2023-06-07",
+                "barcode": 430336,
+                "stariIzvjestaj": 81796
+            },
+            {
+                "datum": "2024-02-07",
+                "barcode": 430337,
+                "stariIzvjestaj": 85674
+            },
+            {
+                "datum": "2024-05-28",
+                "barcode": 430338,
+                "stariIzvjestaj": 94770
+            },
+            {
+                "datum": "2025-03-31",
+                "barcode": 676684,
+                "stariIzvjestaj": -1
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Dragoljub Drašković",
+        "nazivFunkcije": [
+            "Predsjednik/ca UO",
+            "Sudija",
+            "Predsjednik/ca suda"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430339,
+                "stariIzvjestaj": 10103
+            },
+            {
+                "datum": "2016-03-09",
+                "barcode": 430340,
+                "stariIzvjestaj": 15541
+            },
+            {
+                "datum": "2017-03-02",
+                "barcode": 430341,
+                "stariIzvjestaj": 17985
+            },
+            {
+                "datum": "2017-03-22",
+                "barcode": 430342,
+                "stariIzvjestaj": 19284
+            },
+            {
+                "datum": "2018-03-10",
+                "barcode": 430343,
+                "stariIzvjestaj": 25737
+            },
+            {
+                "datum": "2019-03-24",
+                "barcode": 430344,
+                "stariIzvjestaj": 35434
+            },
+            {
+                "datum": "2020-02-09",
+                "barcode": 430345,
+                "stariIzvjestaj": 41021
+            },
+            {
+                "datum": "2020-03-14",
+                "barcode": 430346,
+                "stariIzvjestaj": 42699
+            },
+            {
+                "datum": "2021-02-14",
+                "barcode": 430347,
+                "stariIzvjestaj": 49739
+            },
+            {
+                "datum": "2021-03-10",
+                "barcode": 430348,
+                "stariIzvjestaj": 51247
+            },
+            {
+                "datum": "2022-01-24",
+                "barcode": 430349,
+                "stariIzvjestaj": 59777
+            },
+            {
+                "datum": "2022-02-18",
+                "barcode": 430350,
+                "stariIzvjestaj": 60665
+            },
+            {
+                "datum": "2022-03-02",
+                "barcode": 430351,
+                "stariIzvjestaj": 61026
+            },
+            {
+                "datum": "2023-01-24",
+                "barcode": 430352,
+                "stariIzvjestaj": 72118
+            },
+            {
+                "datum": "2024-01-15",
+                "barcode": 430353,
+                "stariIzvjestaj": 85043
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Milivoje Vujotić",
+        "nazivFunkcije": [
+            "Pomoćnik/ca direktora"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430354,
+                "stariIzvjestaj": 10104
+            },
+            {
+                "datum": "2016-05-24",
+                "barcode": 430355,
+                "stariIzvjestaj": 15753
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Ajrudin Adžović",
+        "nazivFunkcije": [
+            "Direktor/ica"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430356,
+                "stariIzvjestaj": 10105
+            },
+            {
+                "datum": "2017-03-08",
+                "barcode": 430357,
+                "stariIzvjestaj": 18225
+            },
+            {
+                "datum": "2018-03-14",
+                "barcode": 430358,
+                "stariIzvjestaj": 26869
+            },
+            {
+                "datum": "2019-01-31",
+                "barcode": 430359,
+                "stariIzvjestaj": 32611
+            },
+            {
+                "datum": "2020-02-05",
+                "barcode": 430360,
+                "stariIzvjestaj": 41077
+            },
+            {
+                "datum": "2021-02-08",
+                "barcode": 430361,
+                "stariIzvjestaj": 49605
+            },
+            {
+                "datum": "2022-02-17",
+                "barcode": 430362,
+                "stariIzvjestaj": 60623
+            },
+            {
+                "datum": "2022-02-17",
+                "barcode": 430363,
+                "stariIzvjestaj": 60624
+            },
+            {
+                "datum": "2023-03-02",
+                "barcode": 430364,
+                "stariIzvjestaj": 74243
+            },
+            {
+                "datum": "2024-01-22",
+                "barcode": 430365,
+                "stariIzvjestaj": 85147
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Slobodan Leković",
+        "nazivFunkcije": [
+            "Član/ica OD"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2015-12-29",
+                "barcode": 430366,
+                "stariIzvjestaj": 10106
+            },
+            {
+                "datum": "2016-01-31",
+                "barcode": 430367,
+                "stariIzvjestaj": 10111
+            },
+            {
+                "datum": "2017-02-10",
+                "barcode": 430368,
+                "stariIzvjestaj": 17446
+            },
+            {
+                "datum": "2017-09-21",
+                "barcode": 430369,
+                "stariIzvjestaj": 23618
+            },
+            {
+                "datum": "2017-11-11",
+                "barcode": 430370,
+                "stariIzvjestaj": 23938
+            },
+            {
+                "datum": "2019-03-21",
+                "barcode": 430371,
+                "stariIzvjestaj": 35148
+            },
+            {
+                "datum": "2019-07-20",
+                "barcode": 430372,
+                "stariIzvjestaj": 39652
+            },
+            {
+                "datum": "2020-02-17",
+                "barcode": 430373,
+                "stariIzvjestaj": 41276
+            },
+            {
+                "datum": "2021-01-26",
+                "barcode": 430374,
+                "stariIzvjestaj": 49188
+            },
+            {
+                "datum": "2021-07-13",
+                "barcode": 430375,
+                "stariIzvjestaj": 57302
+            },
+            {
+                "datum": "2022-07-07",
+                "barcode": 430376,
+                "stariIzvjestaj": 68492
+            },
+            {
+                "datum": "2023-06-26",
+                "barcode": 430377,
+                "stariIzvjestaj": 82050
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "SRĐAN VUJOVIĆ",
+        "nazivFunkcije": [
+            "Sudija"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-10",
+                "barcode": 430378,
+                "stariIzvjestaj": 10109
+            },
+            {
+                "datum": "2016-03-04",
+                "barcode": 430379,
+                "stariIzvjestaj": 11011
+            },
+            {
+                "datum": "2017-02-24",
+                "barcode": 430380,
+                "stariIzvjestaj": 17810
+            },
+            {
+                "datum": "2018-03-19",
+                "barcode": 430381,
+                "stariIzvjestaj": 25471
+            },
+            {
+                "datum": "2019-03-11",
+                "barcode": 430382,
+                "stariIzvjestaj": 34018
+            },
+            {
+                "datum": "2020-01-20",
+                "barcode": 430383,
+                "stariIzvjestaj": 40795
+            },
+            {
+                "datum": "2020-01-20",
+                "barcode": 430384,
+                "stariIzvjestaj": 40797
+            },
+            {
+                "datum": "2020-03-19",
+                "barcode": 430385,
+                "stariIzvjestaj": 43824
+            },
+            {
+                "datum": "2020-08-06",
+                "barcode": 430386,
+                "stariIzvjestaj": 47545
+            },
+            {
+                "datum": "2021-01-12",
+                "barcode": 430387,
+                "stariIzvjestaj": 48875
+            },
+            {
+                "datum": "2021-03-15",
+                "barcode": 430388,
+                "stariIzvjestaj": 51098
+            },
+            {
+                "datum": "2022-03-08",
+                "barcode": 430389,
+                "stariIzvjestaj": 61482
+            },
+            {
+                "datum": "2022-05-13",
+                "barcode": 430390,
+                "stariIzvjestaj": 67740
+            },
+            {
+                "datum": "2023-02-20",
+                "barcode": 430391,
+                "stariIzvjestaj": 73134
+            },
+            {
+                "datum": "2024-02-13",
+                "barcode": 430392,
+                "stariIzvjestaj": 85830
+            },
+            {
+                "datum": "2025-02-12",
+                "barcode": 663383,
+                "stariIzvjestaj": -1
+            },
+            {
+                "datum": "2025-03-31",
+                "barcode": 676887,
+                "stariIzvjestaj": -1
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Milan Roćen",
+        "nazivFunkcije": [
+            "Savjetnik predsjednika Vlade"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-10",
+                "barcode": 430393,
+                "stariIzvjestaj": 10110
+            },
+            {
+                "datum": "2016-12-28",
+                "barcode": 430394,
+                "stariIzvjestaj": 16997
+            },
+            {
+                "datum": "2017-12-20",
+                "barcode": 430395,
+                "stariIzvjestaj": 30906
+            },
+            {
+                "datum": "2018-12-27",
+                "barcode": 430396,
+                "stariIzvjestaj": 32284
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Goran Jovetić",
+        "nazivFunkcije": [
+            "Savjetnik potpredsjednika Vlade",
+            "Državni/a sekretar/ka",
+            "Član/ica Savjeta"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430397,
+                "stariIzvjestaj": 10112
+            },
+            {
+                "datum": "2017-03-28",
+                "barcode": 430398,
+                "stariIzvjestaj": 20200
+            },
+            {
+                "datum": "2018-03-29",
+                "barcode": 430399,
+                "stariIzvjestaj": 28432
+            },
+            {
+                "datum": "2019-03-27",
+                "barcode": 430400,
+                "stariIzvjestaj": 36156
+            },
+            {
+                "datum": "2020-03-31",
+                "barcode": 430401,
+                "stariIzvjestaj": 45440
+            },
+            {
+                "datum": "2020-11-19",
+                "barcode": 430402,
+                "stariIzvjestaj": 48344
+            },
+            {
+                "datum": "2022-12-04",
+                "barcode": 430403,
+                "stariIzvjestaj": 70986
+            },
+            {
+                "datum": "2023-12-21",
+                "barcode": 430404,
+                "stariIzvjestaj": 84600
+            },
+            {
+                "datum": "2024-03-29",
+                "barcode": 430405,
+                "stariIzvjestaj": 91614
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Radomir Anđić",
+        "nazivFunkcije": [
+            "Predsjednik/ca Savjeta"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430406,
+                "stariIzvjestaj": 10113
+            },
+            {
+                "datum": "2017-02-04",
+                "barcode": 430407,
+                "stariIzvjestaj": 17380
+            },
+            {
+                "datum": "2018-02-08",
+                "barcode": 430408,
+                "stariIzvjestaj": 24773
+            },
+            {
+                "datum": "2019-03-21",
+                "barcode": 430409,
+                "stariIzvjestaj": 35264
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Rade Popović",
+        "nazivFunkcije": [
+            "Izvršni/a direktor/ica"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430410,
+                "stariIzvjestaj": 10114
+            },
+            {
+                "datum": "2016-06-08",
+                "barcode": 430411,
+                "stariIzvjestaj": 15910
+            },
+            {
+                "datum": "2017-02-02",
+                "barcode": 430412,
+                "stariIzvjestaj": 17387
+            },
+            {
+                "datum": "2017-06-26",
+                "barcode": 430413,
+                "stariIzvjestaj": 23191
+            },
+            {
+                "datum": "2018-06-07",
+                "barcode": 430414,
+                "stariIzvjestaj": 30604
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Dragomir Jočić",
+        "nazivFunkcije": [
+            "Odbornik/ca"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430415,
+                "stariIzvjestaj": 10115
+            },
+            {
+                "datum": "2017-06-15",
+                "barcode": 430416,
+                "stariIzvjestaj": 23109
+            },
+            {
+                "datum": "2018-02-19",
+                "barcode": 430417,
+                "stariIzvjestaj": 25050
+            },
+            {
+                "datum": "2019-02-04",
+                "barcode": 430418,
+                "stariIzvjestaj": 32830
+            },
+            {
+                "datum": "2020-03-26",
+                "barcode": 430419,
+                "stariIzvjestaj": 44495
+            },
+            {
+                "datum": "2021-01-18",
+                "barcode": 430420,
+                "stariIzvjestaj": 49049
+            },
+            {
+                "datum": "2022-02-21",
+                "barcode": 430421,
+                "stariIzvjestaj": 60675
+            },
+            {
+                "datum": "2023-02-27",
+                "barcode": 430422,
+                "stariIzvjestaj": 73436
+            },
+            {
+                "datum": "2024-03-04",
+                "barcode": 430423,
+                "stariIzvjestaj": 86830
+            },
+            {
+                "datum": "2024-04-12",
+                "barcode": 430424,
+                "stariIzvjestaj": 94459
+            },
+            {
+                "datum": "2024-07-22",
+                "barcode": 225835,
+                "stariIzvjestaj": -1
+            },
+            {
+                "datum": "2025-02-11",
+                "barcode": 663332,
+                "stariIzvjestaj": -1
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Ugren Jušković",
+        "nazivFunkcije": [
+            "Zamjenik člana OIK"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430425,
+                "stariIzvjestaj": 10116
+            },
+            {
+                "datum": "2017-03-14",
+                "barcode": 430426,
+                "stariIzvjestaj": 18630
+            },
+            {
+                "datum": "2018-02-20",
+                "barcode": 430427,
+                "stariIzvjestaj": 25051
+            },
+            {
+                "datum": "2018-03-26",
+                "barcode": 430428,
+                "stariIzvjestaj": 27652
+            },
+            {
+                "datum": "2019-01-28",
+                "barcode": 430429,
+                "stariIzvjestaj": 32548
+            },
+            {
+                "datum": "2020-03-16",
+                "barcode": 430430,
+                "stariIzvjestaj": 42921
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Amir Đokaj",
+        "nazivFunkcije": [
+            "Predsjednik/ca suda",
+            "Sudija"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-07",
+                "barcode": 430431,
+                "stariIzvjestaj": 10117
+            },
+            {
+                "datum": "2017-03-08",
+                "barcode": 430432,
+                "stariIzvjestaj": 18247
+            },
+            {
+                "datum": "2018-03-16",
+                "barcode": 430433,
+                "stariIzvjestaj": 26307
+            },
+            {
+                "datum": "2018-04-30",
+                "barcode": 430434,
+                "stariIzvjestaj": 30402
+            },
+            {
+                "datum": "2019-03-25",
+                "barcode": 430435,
+                "stariIzvjestaj": 35559
+            },
+            {
+                "datum": "2019-08-27",
+                "barcode": 430436,
+                "stariIzvjestaj": 39936
+            },
+            {
+                "datum": "2020-03-18",
+                "barcode": 430437,
+                "stariIzvjestaj": 43284
+            },
+            {
+                "datum": "2021-03-19",
+                "barcode": 430438,
+                "stariIzvjestaj": 51758
+            },
+            {
+                "datum": "2022-03-21",
+                "barcode": 430439,
+                "stariIzvjestaj": 62643
+            },
+            {
+                "datum": "2023-03-24",
+                "barcode": 430440,
+                "stariIzvjestaj": 76306
+            },
+            {
+                "datum": "2024-03-05",
+                "barcode": 430441,
+                "stariIzvjestaj": 86911
+            },
+            {
+                "datum": "2024-04-09",
+                "barcode": 430442,
+                "stariIzvjestaj": 94439
+            },
+            {
+                "datum": "2025-03-21",
+                "barcode": 668685,
+                "stariIzvjestaj": -1
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Tahir Drešević",
+        "nazivFunkcije": [
+            "Član/ica OD"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430443,
+                "stariIzvjestaj": 10118
+            },
+            {
+                "datum": "2017-04-20",
+                "barcode": 430444,
+                "stariIzvjestaj": 22725
+            },
+            {
+                "datum": "2018-03-29",
+                "barcode": 430445,
+                "stariIzvjestaj": 28515
+            },
+            {
+                "datum": "2019-03-29",
+                "barcode": 430446,
+                "stariIzvjestaj": 37669
+            },
+            {
+                "datum": "2020-03-17",
+                "barcode": 430447,
+                "stariIzvjestaj": 42715
+            },
+            {
+                "datum": "2021-03-05",
+                "barcode": 430448,
+                "stariIzvjestaj": 50606
+            },
+            {
+                "datum": "2022-03-14",
+                "barcode": 430449,
+                "stariIzvjestaj": 61761
+            },
+            {
+                "datum": "2023-03-27",
+                "barcode": 430450,
+                "stariIzvjestaj": 76654
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Hajredin Kovaçi",
+        "nazivFunkcije": [
+            "Odbornik/ca"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430451,
+                "stariIzvjestaj": 10119
+            },
+            {
+                "datum": "2017-03-16",
+                "barcode": 430452,
+                "stariIzvjestaj": 19598
+            },
+            {
+                "datum": "2018-03-23",
+                "barcode": 430453,
+                "stariIzvjestaj": 27919
+            },
+            {
+                "datum": "2018-04-26",
+                "barcode": 430454,
+                "stariIzvjestaj": 30394
+            },
+            {
+                "datum": "2019-03-06",
+                "barcode": 430455,
+                "stariIzvjestaj": 33935
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "VESELIN MERDOVIĆ",
+        "nazivFunkcije": [
+            "Direktor/ica"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-07",
+                "barcode": 430456,
+                "stariIzvjestaj": 10120
+            },
+            {
+                "datum": "2017-03-15",
+                "barcode": 430457,
+                "stariIzvjestaj": 18944
+            },
+            {
+                "datum": "2018-02-27",
+                "barcode": 430458,
+                "stariIzvjestaj": 25307
+            },
+            {
+                "datum": "2018-03-21",
+                "barcode": 430459,
+                "stariIzvjestaj": 27141
+            },
+            {
+                "datum": "2018-09-10",
+                "barcode": 430460,
+                "stariIzvjestaj": 31548
+            },
+            {
+                "datum": "2018-11-05",
+                "barcode": 430461,
+                "stariIzvjestaj": 31894
+            },
+            {
+                "datum": "2019-01-31",
+                "barcode": 430462,
+                "stariIzvjestaj": 32644
+            },
+            {
+                "datum": "2020-02-28",
+                "barcode": 430463,
+                "stariIzvjestaj": 41706
+            },
+            {
+                "datum": "2021-01-22",
+                "barcode": 430464,
+                "stariIzvjestaj": 49179
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "Božo Božinović",
+        "nazivFunkcije": [
+            "Član/ica IO Turističke organizacije"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-08",
+                "barcode": 430465,
+                "stariIzvjestaj": 10121
+            },
+            {
+                "datum": "2017-03-02",
+                "barcode": 430466,
+                "stariIzvjestaj": 18155
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    },
+    {
+        "imeIPrezime": "BOŽIDARKA DANILOVIĆ",
+        "nazivFunkcije": [
+            "Odbornik/ca",
+            "Član/ica Savjeta",
+            "Član/ica OD",
+            "Član/ica IO"
+        ],
+        "izvjestajImovine": [
+            {
+                "datum": "2016-03-09",
+                "barcode": 430467,
+                "stariIzvjestaj": 10122
+            },
+            {
+                "datum": "2017-03-03",
+                "barcode": 430468,
+                "stariIzvjestaj": 18087
+            },
+            {
+                "datum": "2018-03-14",
+                "barcode": 430469,
+                "stariIzvjestaj": 26655
+            },
+            {
+                "datum": "2018-03-26",
+                "barcode": 430470,
+                "stariIzvjestaj": 30113
+            },
+            {
+                "datum": "2018-07-03",
+                "barcode": 430471,
+                "stariIzvjestaj": 30770
+            },
+            {
+                "datum": "2019-07-08",
+                "barcode": 430472,
+                "stariIzvjestaj": 39565
+            },
+            {
+                "datum": "2020-03-05",
+                "barcode": 430473,
+                "stariIzvjestaj": 41879
+            },
+            {
+                "datum": "2021-03-11",
+                "barcode": 430474,
+                "stariIzvjestaj": 50995
+            },
+            {
+                "datum": "2022-03-03",
+                "barcode": 430475,
+                "stariIzvjestaj": 61219
+            },
+            {
+                "datum": "2023-01-11",
+                "barcode": 430476,
+                "stariIzvjestaj": 71685
+            },
+            {
+                "datum": "2023-07-06",
+                "barcode": 430477,
+                "stariIzvjestaj": 82308
+            },
+            {
+                "datum": "2023-07-06",
+                "barcode": 430478,
+                "stariIzvjestaj": 82311
+            },
+            {
+                "datum": "2023-12-26",
+                "barcode": 430479,
+                "stariIzvjestaj": 84694
+            },
+            {
+                "datum": "2024-04-30",
+                "barcode": 430480,
+                "stariIzvjestaj": 94558
+            },
+            {
+                "datum": "2024-12-24",
+                "barcode": 661246,
+                "stariIzvjestaj": -1
+            }
+        ],
+        "vrstaDrzavnogSluzbenika": []
+    }
+]

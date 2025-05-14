@@ -1,0 +1,4232 @@
+[
+    {
+        "nombre": "Niladys Estrada Socarrás",
+        "ocupacion": "Promotora de Salud Policlínico “Juan Navarro”",
+        "edad": "35",
+        "votos_validos": "85.88",
+        "provincia": "Pinar del Río",
+        "municipio": "Sandino",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Niladys-Estrada-Socarras.png"
+    },
+    {
+        "nombre": "Caridad del Rosario Diego Bello",
+        "ocupacion": "Jefa Oficina Asuntos Religiosos del Comité Central del PCC (CCPCC)",
+        "edad": "67",
+        "votos_validos": "86.59",
+        "provincia": "Pinar del Río",
+        "municipio": "Sandino",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Caridad-del-Rosario-Diego-Bello.png"
+    },
+    {
+        "nombre": "Amauri Montano de la Rosa",
+        "ocupacion": "Maestro de Enseñanza Primaria Escuela Primaria \"León Brunet\"",
+        "edad": "51",
+        "votos_validos": "83.52",
+        "provincia": "Pinar del Río",
+        "municipio": "Mantua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Amauri-Montano-De-La-Rosa.png"
+    },
+    {
+        "nombre": "Yamila González Ferrer",
+        "ocupacion": "Vicepresidenta Unión Nacional de Juristas de Cuba",
+        "edad": "53",
+        "votos_validos": "87.04",
+        "provincia": "Pinar del Río",
+        "municipio": "Mantua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yamila-Gonzalez-Ferrer.png"
+    },
+    {
+        "nombre": "Dasiel Otero Gallardo",
+        "ocupacion": "Directora UEB. Aseguramiento y Comercialización de Insumos. Empresa Forestal. Municipio Minas de Matahambre",
+        "edad": "30",
+        "votos_validos": "87.23",
+        "provincia": "Pinar del Río",
+        "municipio": "Minas de Matahambre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dasiel-Otero-Gallardo.png"
+    },
+    {
+        "nombre": "Ian Pedro Carbonell Karell",
+        "ocupacion": "Director, Dirección de Políticas Macroeconómicas, Banco Central de Cuba",
+        "edad": "32",
+        "votos_validos": "89.56",
+        "provincia": "Pinar del Río",
+        "municipio": "Minas de Matahambre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ian-Pedro-Carbonell-Karell.png"
+    },
+    {
+        "nombre": "Reinier Ramos Viera",
+        "ocupacion": "Director Instituto Politécnico Agropecuario \"José Antonio Martínez Graverán\"",
+        "edad": "36",
+        "votos_validos": "82.44",
+        "provincia": "Pinar del Río",
+        "municipio": "Viñales",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Reinier-Ramos-Viera.png"
+    },
+    {
+        "nombre": "Eumelin González Sánchez",
+        "ocupacion": "Miembro profesional del Buró Ejecutivo, Comité Provincial del PCC",
+        "edad": "43",
+        "votos_validos": "90.87",
+        "provincia": "Pinar del Río",
+        "municipio": "Viñales",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eumelin-Gonzalez-Sanchez.png"
+    },
+    {
+        "nombre": "Yusmili González Verdecia",
+        "ocupacion": "Asesora Jurídica Empresa Municipal de Comercio, La Palma",
+        "edad": "31",
+        "votos_validos": "95.54",
+        "provincia": "Pinar del Río",
+        "municipio": "La Palma",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yusmili-Gonzalez-Verdecia.png"
+    },
+    {
+        "nombre": "Elena Julia Real Castro",
+        "ocupacion": "Directora Territorial. División DESOFT Pinar del Río. Empresa de aplicaciones informáticas DESOFT",
+        "edad": "44",
+        "votos_validos": "79.62",
+        "provincia": "Pinar del Río",
+        "municipio": "La Palma",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elena-Julia-Real-Castro.png"
+    },
+    {
+        "nombre": "Marilyn Salgado Soto",
+        "ocupacion": "Especialista B en Gestión de Recursos Humanos en la Empresa Agroindustrial de Granos",
+        "edad": "49",
+        "votos_validos": "89.72",
+        "provincia": "Pinar del Río",
+        "municipio": "Los Palacios",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marilyn-Salgado-Soto.png"
+    },
+    {
+        "nombre": "Eddy Manuel Sierra Arias",
+        "ocupacion": "Jefe Dirección General Policía Nacional Revolucionaria",
+        "edad": "50",
+        "votos_validos": "78.11",
+        "provincia": "Pinar del Río",
+        "municipio": "Los Palacios",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eddy-Manuel-Sierra-Arias.png"
+    },
+    {
+        "nombre": "Yariuska Turcáz Quintana",
+        "ocupacion": "Trabajadora Social en la Dirección Municipal de Trabajo y Seguridad Social",
+        "edad": "40",
+        "votos_validos": "81.05",
+        "provincia": "Pinar del Río",
+        "municipio": "Consolación del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yariuska-Turcaz-Quintana.png"
+    },
+    {
+        "nombre": "Mijaín López Núñez",
+        "ocupacion": "Atleta de Alto Rendimiento, Lucha Grecorromana",
+        "edad": "40",
+        "votos_validos": "94.44",
+        "provincia": "Pinar del Río",
+        "municipio": "Consolación del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mijain-Lopez-Nunez.png"
+    },
+    {
+        "nombre": "Julio Emilio Morejón Pérez",
+        "ocupacion": "Presidente Nacional de la Federación Estudiantil Universitaria",
+        "edad": "22",
+        "votos_validos": "81.62",
+        "provincia": "Pinar del Río",
+        "municipio": "Consolación del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Julio-Emilio-Morejon-Perez.png"
+    },
+    {
+        "nombre": "Danielys Alvarez Acosta",
+        "ocupacion": "Miembro del Buró Esfera de Organización de la ANAP Municipal Pinar del Río",
+        "edad": "42",
+        "votos_validos": "87.8",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Danielys-Alvarez-Acosta-.png"
+    },
+    {
+        "nombre": "Anabel Vizcaíno Muñoz",
+        "ocupacion": "Profesora Universidad \"Hermanos Saíz\"",
+        "edad": "35",
+        "votos_validos": "79.38",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Anabel-Vizcaino-Munoz.png"
+    },
+    {
+        "nombre": "Osmani Azcuy Herrera",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular",
+        "edad": "51",
+        "votos_validos": "87.3",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osmani-Azcuy-Herrera.png"
+    },
+    {
+        "nombre": "Dorelys Canivell Canal",
+        "ocupacion": "Periodista. Corresponsal Periódico Juventud Rebelde",
+        "edad": "35",
+        "votos_validos": "83.8",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dorellys-Canivell-Canal.png"
+    },
+    {
+        "nombre": "Yamilé Ramos Cordero",
+        "ocupacion": "Primera Secretaria Comité Provincial del Partido Pinar del Río",
+        "edad": "46",
+        "votos_validos": "91.87",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yamile-Ramos-Cordero.png"
+    },
+    {
+        "nombre": "Abel Enrique Prieto Jiménez",
+        "ocupacion": "Presidente Casa de las Américas",
+        "edad": "72",
+        "votos_validos": "84.76",
+        "provincia": "Pinar del Río",
+        "municipio": "Pinar del Río",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Abel-Enrique-Prieto-Jimenez.png"
+    },
+    {
+        "nombre": "María Regla Díaz León",
+        "ocupacion": "Directora de la Casa de Cultura Municipal “20 de octubre”",
+        "edad": "33",
+        "votos_validos": "89.21",
+        "provincia": "Pinar del Río",
+        "municipio": "San Luis",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Maria-Regla-Diaz-Leon.png"
+    },
+    {
+        "nombre": "Carlos César Torres Páez",
+        "ocupacion": "Director Centro de Estudios de Dirección, Desarrollo Local, Turismo y Cooperativa (CEGESTA)",
+        "edad": "34",
+        "votos_validos": "82.66",
+        "provincia": "Pinar del Río",
+        "municipio": "San Luis",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Carlos-Cesar-Torres-Paez.png"
+    },
+    {
+        "nombre": "Alina Forteza Saavedra",
+        "ocupacion": "Obrera Revisadora en el Taller de Escogida V-12-46",
+        "edad": "52",
+        "votos_validos": "91.37",
+        "provincia": "Pinar del Río",
+        "municipio": "San Juan y Martínez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alina-Forteza-Saavedra.png"
+    },
+    {
+        "nombre": "Idalberto Rodríguez Herrera",
+        "ocupacion": "Director de la UEB, Empresa de Conservas y Vegetales \"La Conchita\"",
+        "edad": "38",
+        "votos_validos": "80.64",
+        "provincia": "Pinar del Río",
+        "municipio": "San Juan y Martínez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Idalberto-Rodriguez-Herrera.png"
+    },
+    {
+        "nombre": "Yoandry Heredia Fuentes",
+        "ocupacion": "Económico de la Delegación Municipal de la Agricultura en Guane",
+        "edad": "34",
+        "votos_validos": "90.69",
+        "provincia": "Pinar del Río",
+        "municipio": "Guane",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoandry-Heredia-Fuentes.png"
+    },
+    {
+        "nombre": "Idalia López Pedroso",
+        "ocupacion": "Delegada Delegación Territorial del CITMA, Pinar del Río",
+        "edad": "46",
+        "votos_validos": "84.13",
+        "provincia": "Pinar del Río",
+        "municipio": "Guane",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Idalia-Lopez-Pedroso.png"
+    },
+    {
+        "nombre": "Yordany Andarcio Álvarez",
+        "ocupacion": "Campesino, CCS “Orlando Nodarse”, Bahía Honda",
+        "edad": "37",
+        "votos_validos": "87.99",
+        "provincia": "Artemisa",
+        "municipio": "Bahía Honda",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yordany-Andarcio-Alvarez.png"
+    },
+    {
+        "nombre": "Yania Cedeño Oliva",
+        "ocupacion": "Presupuestista del Grupo 5 de la UEB Administración de Obras, para las inversiones extranjeras, Zona de Desarrollo Mariel",
+        "edad": "37",
+        "votos_validos": "81.41",
+        "provincia": "Artemisa",
+        "municipio": "Bahía Honda",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yania-Cedeno-Oliva.png"
+    },
+    {
+        "nombre": "Yudelkis La O Castellanos",
+        "ocupacion": "Primera Especialista de Cuadros",
+        "edad": "39",
+        "votos_validos": "78.11",
+        "provincia": "Artemisa",
+        "municipio": "Mariel",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudelkis-la-O-Castellano.png"
+    },
+    {
+        "nombre": "Ana Teresa Igarza Martínez",
+        "ocupacion": "Directora General de la Zona Especial de Desarrollo, Mariel",
+        "edad": "50",
+        "votos_validos": "90",
+        "provincia": "Artemisa",
+        "municipio": "Mariel",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ana-Teresa-Igarza-Martinez.png"
+    },
+    {
+        "nombre": "Neolis Nubia Miranda Clavel",
+        "ocupacion": "Enfermera Intensivista, Policlínico “Eduardo Díaz Ortega”, Guanajay",
+        "edad": "48",
+        "votos_validos": "88.28",
+        "provincia": "Artemisa",
+        "municipio": "Guanajay",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Neolis-Nubia-Miranda-Clavel.png"
+    },
+    {
+        "nombre": "Emilio Ratmir Lozada García",
+        "ocupacion": "Jefe de Departamento de Relaciones Internacionales del Comité Central del Partido",
+        "edad": "54",
+        "votos_validos": "80.96",
+        "provincia": "Artemisa",
+        "municipio": "Guanajay",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Emilio-Ratmir-Lozada-Garcia.png"
+    },
+    {
+        "nombre": "Miguel Enrique Charbonet Martell",
+        "ocupacion": "Jefe de Departamento de Calidad en la Universidad “Julio Díaz González”, Artemisa",
+        "edad": "57",
+        "votos_validos": "77.83",
+        "provincia": "Artemisa",
+        "municipio": "Caimito",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Miguel-Enrique-Charbonell-Martell.png"
+    },
+    {
+        "nombre": "Aylín Álvarez García",
+        "ocupacion": "Primera Secretaria Comité Nacional UJC",
+        "edad": "36",
+        "votos_validos": "87.9",
+        "provincia": "Artemisa",
+        "municipio": "Caimito",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Aylin-Alvarez-Garcia.png"
+    },
+    {
+        "nombre": "Yohanne Fernández Rodríguez",
+        "ocupacion": "Presidenta del consejo popular de Playa Baracoa",
+        "edad": "36",
+        "votos_validos": "81.66",
+        "provincia": "Artemisa",
+        "municipio": "Bauta",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yohanne-Fernandez-Rodriguez.png"
+    },
+    {
+        "nombre": "Ivón Álvarez González",
+        "ocupacion": "Directora Provincial de Cultura, Artemisa",
+        "edad": "50",
+        "votos_validos": "89.58",
+        "provincia": "Artemisa",
+        "municipio": "Bauta",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ivon-Alvarez-Gonzalez.png"
+    },
+    {
+        "nombre": "Bladimir Parada Rodríguez",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular en San Antonio de los Baños",
+        "edad": "39",
+        "votos_validos": "84.96",
+        "provincia": "Artemisa",
+        "municipio": "San Antonio de los Baños",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Bladimir-Parada-Rodriguez.png"
+    },
+    {
+        "nombre": "Ricardo Concepción Rodríguez",
+        "ocupacion": "Gobernador, Artemisa",
+        "edad": "58",
+        "votos_validos": "83.63",
+        "provincia": "Artemisa",
+        "municipio": "San Antonio de los Baños",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ricardo-Concepcion-Rodriguez.png"
+    },
+    {
+        "nombre": "Dianelys González Escalante",
+        "ocupacion": "Jefa de Departamento de Desarrollo Local del Consejo de la Administración Municipal",
+        "edad": "46",
+        "votos_validos": "95.25",
+        "provincia": "Artemisa",
+        "municipio": "Güira de Melena",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dianelys-Gonzalez-Escalante.png"
+    },
+    {
+        "nombre": "Mercedes Walquiria Williams Jiménez",
+        "ocupacion": "Directora General Empresa de Acopio y Beneficio del Tabaco \"Lázaro Peña\"",
+        "edad": "49",
+        "votos_validos": "82.83",
+        "provincia": "Artemisa",
+        "municipio": "Güira de Melena",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mercedes-Walquiria-Williams-Jimenez.png"
+    },
+    {
+        "nombre": "Yurisa Lahera Mansfarroll",
+        "ocupacion": "Segunda Jefa de la Unidad de Trabajadores Sociales",
+        "edad": "34",
+        "votos_validos": "86.95",
+        "provincia": "Artemisa",
+        "municipio": "Alquízar",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yurisa-Lahera-Mansfarroll.png"
+    },
+    {
+        "nombre": "Alejandro Miguel Gil Fernández",
+        "ocupacion": "Vice primer ministro y ministro de Economía y Planificación",
+        "edad": "59",
+        "votos_validos": "89.54",
+        "provincia": "Artemisa",
+        "municipio": "Alquízar",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alejandro-Miguel-Gil-Fernandez.png"
+    },
+    {
+        "nombre": "Euler Velázquez Cantillo",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular, Artemisa",
+        "edad": "34",
+        "votos_validos": "74.72",
+        "provincia": "Artemisa",
+        "municipio": "Artemisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Euler-Velazquez-Cantillo.png"
+    },
+    {
+        "nombre": "Gladys Martínez Verdecia",
+        "ocupacion": "Primera Secretaria Comité Provincial del Partido, Artemisa",
+        "edad": "52",
+        "votos_validos": "79.96",
+        "provincia": "Artemisa",
+        "municipio": "Artemisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gladys-Martinez-Verdecia.png"
+    },
+    {
+        "nombre": "Ramiro Valdés Menéndez",
+        "ocupacion": "Comandante de la Revolución. Vice primer ministro",
+        "edad": "91",
+        "votos_validos": "84.15",
+        "provincia": "Artemisa",
+        "municipio": "Artemisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ramiro-Valdes-Menendez.png"
+    },
+    {
+        "nombre": "Gladys Peña Hernández",
+        "ocupacion": "Podóloga, Sala de Rehabilitación de Candelaria",
+        "edad": "49",
+        "votos_validos": "69.99",
+        "provincia": "Artemisa",
+        "municipio": "Candelaria",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gladys-Pena-Hernandez.png"
+    },
+    {
+        "nombre": "Idalys Ortíz Bocourt",
+        "ocupacion": "Atleta de Alto Rendimiento, Judo",
+        "edad": "33",
+        "votos_validos": "92.53",
+        "provincia": "Artemisa",
+        "municipio": "Candelaria",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Idalys-Ortiz-Bocourt.png"
+    },
+    {
+        "nombre": "Yilian Álvarez Costa",
+        "ocupacion": "Jefa de grupo de Auditoría en la Sección de San Cristóbal",
+        "edad": "35",
+        "votos_validos": "90.97",
+        "provincia": "Artemisa",
+        "municipio": "San Cristóbal",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yilian-Alvarez-Costa.png"
+    },
+    {
+        "nombre": "Victor Leonardo Rojo Ramos",
+        "ocupacion": "Jefe de la Dirección Política de las FAR",
+        "edad": "61",
+        "votos_validos": "77.84",
+        "provincia": "Artemisa",
+        "municipio": "San Cristóbal",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Victor-Leonardo-Rojo-Ramos.png"
+    },
+    {
+        "nombre": "Lisandra López Figueredo",
+        "ocupacion": "Especialista de Aseguramiento en las Fuerzas Armadas Revolucionarias UM 5980",
+        "edad": "30",
+        "votos_validos": "90.26",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lisandra-Lopez-Figueredo.png"
+    },
+    {
+        "nombre": "Ana Flavia Méndez Cusidor",
+        "ocupacion": "Estudiante de Logopedia Universidad de Ciencias Pedagógicas “Enrique José Varona”",
+        "edad": "22",
+        "votos_validos": "85.69",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ana-Flavia-Mendez-Cusidor.png"
+    },
+    {
+        "nombre": "Denisse Ricardo Estrada",
+        "ocupacion": "Viceintendente del Consejo de la Administración Municipal",
+        "edad": "37",
+        "votos_validos": "85.59",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Denisse-Ricardo-Estrada.png"
+    },
+    {
+        "nombre": "Carlos Miguel Pérez Reyes",
+        "ocupacion": "Presidente de MIPYME Dofleini S.R.L",
+        "edad": "37",
+        "votos_validos": "84.77",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Carlos-Miguel-Perez-Reyes.png"
+    },
+    {
+        "nombre": "Raydel Montesino Perurena",
+        "ocupacion": "Rector de la Universidad de Ciencias Informáticas (UCI)",
+        "edad": "42",
+        "votos_validos": "77.37",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raydel-Montesino-Perurena.png"
+    },
+    {
+        "nombre": "Eduardo Martínez Díaz",
+        "ocupacion": "Presidente BioCubaFarma",
+        "edad": "55",
+        "votos_validos": "83.13",
+        "provincia": "La Habana",
+        "municipio": "Playa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eduardo-Martinez-Diaz.png"
+    },
+    {
+        "nombre": "Orlando Gutiérrez Boza",
+        "ocupacion": "Presidente Consejo Supremo de la Asociación Abakuá de Cuba",
+        "edad": "74",
+        "votos_validos": "88.73",
+        "provincia": "La Habana",
+        "municipio": "Plaza de la Revolución",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Orlando-Gutierrez-Boza.png"
+    },
+    {
+        "nombre": "Caridad Margarita García Peña",
+        "ocupacion": "Investigadora del Centro de Investigación y Desarrollo de Medicamentos (CIDEM)",
+        "edad": "45",
+        "votos_validos": "81.51",
+        "provincia": "La Habana",
+        "municipio": "Plaza de la Revolución",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Caridad-Margarita-Garcia-Pena.png"
+    },
+    {
+        "nombre": "Luis Antonio Torres Iríbar",
+        "ocupacion": "Primer Secretario del Comité provincial del Partido en La Habana",
+        "edad": "57",
+        "votos_validos": "79.26",
+        "provincia": "La Habana",
+        "municipio": "Plaza de la Revolución",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Antonio-Torres-Iribar.png"
+    },
+    {
+        "nombre": "Mariela Castro Espín",
+        "ocupacion": "Directora Centro Nacional de Educación Sexual",
+        "edad": "60",
+        "votos_validos": "79.29",
+        "provincia": "La Habana",
+        "municipio": "Plaza de la Revolución",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mariela-Castro-Espin.png"
+    },
+    {
+        "nombre": "José Luis Toledo Santander",
+        "ocupacion": "Presidente Comisión Asuntos Constitucionales y Jurídicos (ANPP)",
+        "edad": "70",
+        "votos_validos": "83.82",
+        "provincia": "La Habana",
+        "municipio": "Plaza de la Revolución",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Luis-Toledo-Santander.png"
+    },
+    {
+        "nombre": "Liuva Martínez Betancourt",
+        "ocupacion": "Supervisora de Enfermería del Hospital \"General Freyre Andrade",
+        "edad": "45",
+        "votos_validos": "79.8",
+        "provincia": "La Habana",
+        "municipio": "Centro Habana",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Liuva-Martinez-Betancourt.png"
+    },
+    {
+        "nombre": "Ailed de la Caridad Acosta Argudín",
+        "ocupacion": "Asesora Jurídica del MININT",
+        "edad": "36",
+        "votos_validos": "82.81",
+        "provincia": "La Habana",
+        "municipio": "Centro Habana",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alied-de-la-Caridad-Acosta-Argudin.png"
+    },
+    {
+        "nombre": "Enrique Alemán Gutiérrez",
+        "ocupacion": "Coordinador de la Plataforma para el Diálogo Interreligioso de Cuba",
+        "edad": "54",
+        "votos_validos": "77",
+        "provincia": "La Habana",
+        "municipio": "Centro Habana",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Enrique-Aleman-Gutierrez.png"
+    },
+    {
+        "nombre": "Digna Guerra Ramírez",
+        "ocupacion": "Directora Coro Nacional de Cuba",
+        "edad": "77",
+        "votos_validos": "86.38",
+        "provincia": "La Habana",
+        "municipio": "Centro Habana",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Digna-Guerra-Ramirez.png"
+    },
+    {
+        "nombre": "Yamilex Cisneros Sardina",
+        "ocupacion": "Fisioterapeuta del Policlínico Dr. Tomás Romay",
+        "edad": "37",
+        "votos_validos": "83.96",
+        "provincia": "La Habana",
+        "municipio": "Habana Vieja",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yamilex-Cisneros-Sardinas.png"
+    },
+    {
+        "nombre": "Karla de la Caridad Santana Rodríguez",
+        "ocupacion": "Asesora Jurídica, Refinería \"Ñico López\"",
+        "edad": "24",
+        "votos_validos": "79.93",
+        "provincia": "La Habana",
+        "municipio": "Habana Vieja",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Karla-de-la-Caridad-Santana-Rodriguez.png"
+    },
+    {
+        "nombre": "Lizette Martínez Luzardo",
+        "ocupacion": "Directora General de Políticas Culturales del Ministerio de Cultura",
+        "edad": "36",
+        "votos_validos": "81.56",
+        "provincia": "La Habana",
+        "municipio": "Habana Vieja",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lizette-Martinez-Luzardo.png"
+    },
+    {
+        "nombre": "Yunaythe López Cantero",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular en Regla",
+        "edad": "37",
+        "votos_validos": "77.41",
+        "provincia": "La Habana",
+        "municipio": "Regla",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yunaythe-Lopez-Cantero.png"
+    },
+    {
+        "nombre": "Dayana María Beyra Fernández",
+        "ocupacion": "Directora General Refinería \"Ñico López\"",
+        "edad": "35",
+        "votos_validos": "88.9",
+        "provincia": "La Habana",
+        "municipio": "Regla",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dayana-Maria-Beyra-Fernandez.png"
+    },
+    {
+        "nombre": "Rosa Diéguez Torres",
+        "ocupacion": "Profesora de Geografía, Biología y Ciencias naturales ESBU “Antonio José de Sucre”",
+        "edad": "37",
+        "votos_validos": "89.06",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rosa-Dieguez-Torres.png"
+    },
+    {
+        "nombre": "Hilda Rosa Moya López",
+        "ocupacion": "Jefa del Departamento de Organización y Personal en el Hospital Militar “Dr. Luis Díaz Soto”",
+        "edad": "34",
+        "votos_validos": "75.8",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Hilda-Rosa-Moya-Lopez.png"
+    },
+    {
+        "nombre": "Judith Legón Moncada",
+        "ocupacion": "Asesora Jurídica, Asamblea Municipal del Poder Popular",
+        "edad": "44",
+        "votos_validos": "81.58",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Judith-Legon-Moncada.png"
+    },
+    {
+        "nombre": "Annie Garcés Santana",
+        "ocupacion": "Músico",
+        "edad": "27",
+        "votos_validos": "88.45",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Annie-Garces-Santana.png"
+    },
+    {
+        "nombre": "Ania Guillermina Lastres Morera",
+        "ocupacion": "Presidenta Ejecutiva, Grupo Administración Empresarial GAESA",
+        "edad": "60",
+        "votos_validos": "90.12",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ania-Lastres-Morera.png"
+    },
+    {
+        "nombre": "Arelys Santana Bello",
+        "ocupacion": "Presidenta de la Comisión Permanente de Atención a la Juventud, la Niñez y los Derechos de Igualdad de la Mujer de la Asamblea Nacional del Poder Popular.",
+        "edad": "64",
+        "votos_validos": "81.73",
+        "provincia": "La Habana",
+        "municipio": "Habana del Este",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Arelys-Santana-Bello.png"
+    },
+    {
+        "nombre": "Anabel Quesada Reyes",
+        "ocupacion": "Viceintendente para el programa de atención y desarrollo agroindustrial, seguridad alimentaria, acceso y calidad de los servicios, la Educación y la Cultura",
+        "edad": "50",
+        "votos_validos": "87",
+        "provincia": "La Habana",
+        "municipio": "Guanabacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/anabel-quesada-reyes.png"
+    },
+    {
+        "nombre": "Daisy Risquet Mustelier",
+        "ocupacion": "Jefa de Enfermería del Departamento de Neonatología del Hospital Gineco-Obstétrico de Guanabacoa",
+        "edad": "56",
+        "votos_validos": "84.79",
+        "provincia": "La Habana",
+        "municipio": "Guanabacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/daisy-risquet-mustelier.png"
+    },
+    {
+        "nombre": "Modesto Ricardo Gómez Crespo",
+        "ocupacion": "Rector de la Universidad Tecnológica de La Habana «José Antonio Echavarría»-CUJAE",
+        "edad": "51",
+        "votos_validos": "80.63",
+        "provincia": "La Habana",
+        "municipio": "Guanabacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/modesto-ricardo-gomez-crespo.png"
+    },
+    {
+        "nombre": "Miguel Barnet Lanza",
+        "ocupacion": "Poeta, narrador, ensayista y etnólogo cubano. Presidente de Honor de la UNEAC y de la fundación Fernando Ortiz",
+        "edad": "83",
+        "votos_validos": "83.17",
+        "provincia": "La Habana",
+        "municipio": "Guanabacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/miguel-barnet-lanza.png"
+    },
+    {
+        "nombre": "Naylin Corrales Sánchez",
+        "ocupacion": "Comunicadora Social de la Asamblea Municipal del Poder Popular en San Miguel del Padrón",
+        "edad": "28",
+        "votos_validos": "83.96",
+        "provincia": "La Habana",
+        "municipio": "San Miguel del Padrón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Naylin-Corrales-Sanchez.png"
+    },
+    {
+        "nombre": "Lil Medina Laferté",
+        "ocupacion": "Primera Instructora de Trabajo Político e Ideológico del Partido de la Jefatura Nacional del Cuerpo de Bomberos de Cuba",
+        "edad": "31",
+        "votos_validos": "83.06",
+        "provincia": "La Habana",
+        "municipio": "San Miguel del Padrón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Li-Medina-Laferte.png"
+    },
+    {
+        "nombre": "Aylin Caridad Justiz Aguila",
+        "ocupacion": "Jefe del Centro Físico de la Atmósfera",
+        "edad": "35",
+        "votos_validos": "80.7",
+        "provincia": "La Habana",
+        "municipio": "San Miguel del Padrón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Aylin-Caridad-Justiz-Aguila.png"
+    },
+    {
+        "nombre": "Mario Castillo Salas",
+        "ocupacion": "Director General de la Empresa Eléctrica de La Habana",
+        "edad": "36",
+        "votos_validos": "84.34",
+        "provincia": "La Habana",
+        "municipio": "San Miguel del Padrón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mario-Castillo-Salas.png"
+    },
+    {
+        "nombre": "Delsa Esther Puebla Viltre",
+        "ocupacion": "Vicepresidenta Nacional Asociación de Combatientes de la Revolución Cubana",
+        "edad": "82",
+        "votos_validos": "81.45",
+        "provincia": "La Habana",
+        "municipio": "San Miguel del Padrón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Delsa-Ester-Puebla-Viltres.png"
+    },
+    {
+        "nombre": "Kety Ancizar Reyes",
+        "ocupacion": "Presidenta del consejo popular “Tamarindo”",
+        "edad": "42",
+        "votos_validos": "85.96",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Kety-Ancizar-Reyes.png"
+    },
+    {
+        "nombre": "Zulema Díaz Cordovés",
+        "ocupacion": "Especialista de Seguridad y Salud Ocupacional y Medioambiental, UEB Cubiza \"Armando Mestre Martínez\"",
+        "edad": "51",
+        "votos_validos": "83.92",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Zulema-Diaz-Cordoves.png"
+    },
+    {
+        "nombre": "Nairobi Oviedo Castillo",
+        "ocupacion": "Especialista principal de los Trabajadores Sociales de la Dirección Municipal de Trabajo y Seguridad Social",
+        "edad": "41",
+        "votos_validos": "86.59",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Nairobi-Oviedo-Castillo.png"
+    },
+    {
+        "nombre": "Juan Fernández Marzo",
+        "ocupacion": "Director General Empresa mecánica Transformadora del Acero",
+        "edad": "44",
+        "votos_validos": "81.16",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Juan-Fernandez-Marzo.png"
+    },
+    {
+        "nombre": "Eduardo Sosa Laurencio",
+        "ocupacion": "Músico-Trovador",
+        "edad": "51",
+        "votos_validos": "81.86",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eduardo-Sosa-Laurencio.png"
+    },
+    {
+        "nombre": "José Amado Ricardo Guerra",
+        "ocupacion": "Secretario del Consejo de Ministros",
+        "edad": "70",
+        "votos_validos": "77.1",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Amado-Ricardo-Guerra.png"
+    },
+    {
+        "nombre": "Bruno Eduardo Rodríguez Parrilla",
+        "ocupacion": "Ministro de Relaciones Exteriores",
+        "edad": "65",
+        "votos_validos": "81.57",
+        "provincia": "La Habana",
+        "municipio": "Diez de Octubre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/bruno-rodriguez-parilla.png"
+    },
+    {
+        "nombre": "Amarilys Lafargue Gómez",
+        "ocupacion": "Secretaria del Buró Sindical Sectorial Tiendas Caribe",
+        "edad": "47",
+        "votos_validos": "70.73",
+        "provincia": "La Habana",
+        "municipio": "Cerro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Amarilys-Lafargue-Gomez.png"
+    },
+    {
+        "nombre": "Danais Mercedes Pérez Domínguez",
+        "ocupacion": "Profesora del Instituto Politécnico “Economía Habana”",
+        "edad": "49",
+        "votos_validos": "82.14",
+        "provincia": "La Habana",
+        "municipio": "Cerro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Danais-Mercedes-Perez-Dominguez.png"
+    },
+    {
+        "nombre": "Magda Iliana Pérez Matos",
+        "ocupacion": "Vicepresidenta de la Comisión de Industrias, Construcciones y Energía de la Asamblea Nacional del Poder Popular.",
+        "edad": "58",
+        "votos_validos": "89.09",
+        "provincia": "La Habana",
+        "municipio": "Cerro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Magda-Ileana-Perez-Matos.png"
+    },
+    {
+        "nombre": "Gerardo Hernández Nordelo",
+        "ocupacion": "Coordinador Nacional de los CDR",
+        "edad": "57",
+        "votos_validos": "88.77",
+        "provincia": "La Habana",
+        "municipio": "Cerro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gerardo-Hernandez-Nordelo.png"
+    },
+    {
+        "nombre": "Sandra Santamaría Vázquez",
+        "ocupacion": "Presidenta Consejo Popular \"Zamora Cocosolo\"",
+        "edad": "51",
+        "votos_validos": "77.07",
+        "provincia": "La Habana",
+        "municipio": "Marianao",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sandra-Santamaria-Vazquez.png"
+    },
+    {
+        "nombre": "Diusilvy Linares Gustabello",
+        "ocupacion": "Subdirectora general de Deporte en el Combinado Deportivo No. 2 \"Viet-Nam Heroico\"",
+        "edad": "43",
+        "votos_validos": "80.84",
+        "provincia": "La Habana",
+        "municipio": "Marianao",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Diusilvy-Linares-Gustabello.png"
+    },
+    {
+        "nombre": "Danhiz Díaz Pereira",
+        "ocupacion": "Primer Secretario del Comité Municipal de la UJC en Marianao",
+        "edad": "27",
+        "votos_validos": "89.07",
+        "provincia": "La Habana",
+        "municipio": "Marianao",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Danhiz-Diaz-Pereira.png"
+    },
+    {
+        "nombre": "Ricardo Cabrisas Ruiz",
+        "ocupacion": "Vice primer ministro de la República",
+        "edad": "86",
+        "votos_validos": "81.2",
+        "provincia": "La Habana",
+        "municipio": "Marianao",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ricardo-Cabrisas-Ruiz.png"
+    },
+    {
+        "nombre": "Sulay Lugo Barroso",
+        "ocupacion": "Especialista B en Gestión Económica, Dirección Provincial de Economía y Planificación",
+        "edad": "36",
+        "votos_validos": "91.11",
+        "provincia": "La Habana",
+        "municipio": "La Lisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sulay-Lugo-Barroso.png"
+    },
+    {
+        "nombre": "Yoamel Acosta Morales",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular de La Lisa",
+        "edad": "38",
+        "votos_validos": "82.2",
+        "provincia": "La Habana",
+        "municipio": "La Lisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoamel-Acosta-Morales.png"
+    },
+    {
+        "nombre": "Orisell Richards Martínez",
+        "ocupacion": "Vicedecana de Investigaciones y Posgrado de la Facultad de Derecho en la Universidad de La Habana",
+        "edad": "37",
+        "votos_validos": "78",
+        "provincia": "La Habana",
+        "municipio": "La Lisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Orisell-Richards-Martinez.png"
+    },
+    {
+        "nombre": "Yury Valdés Balbín",
+        "ocupacion": "Director Adjunto del Instituto Finlay de Vacunas",
+        "edad": "46",
+        "votos_validos": "79.58",
+        "provincia": "La Habana",
+        "municipio": "La Lisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yury-Valdes-Balbin.png"
+    },
+    {
+        "nombre": "Miriam Nicado García",
+        "ocupacion": "Rectora Universidad de la Habana",
+        "edad": "63",
+        "votos_validos": "86.46",
+        "provincia": "La Habana",
+        "municipio": "La Lisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Miriam-Nicado-Garcia.png"
+    },
+    {
+        "nombre": "Maritza Gé Torres",
+        "ocupacion": "Directora de Recursos Humanos en la Empresa de Pinturas Vitral, GEMPIL",
+        "edad": "55",
+        "votos_validos": "85.07",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Martiza-Ge-Torres.png"
+    },
+    {
+        "nombre": "Tania Sánchez Ortíz",
+        "ocupacion": "Representante de Tráfico Internacional , Aeropuerto \"José Martí\"",
+        "edad": "49",
+        "votos_validos": "85.36",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Tania-Sanchez-Ortiz.png"
+    },
+    {
+        "nombre": "Yamilka Céspedes Torres",
+        "ocupacion": "Directora de la Escuela Primaria \"Abel Santamaría Cuadrado\"",
+        "edad": "42",
+        "votos_validos": "90.78",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yamilka-Cespedes-Torres.png"
+    },
+    {
+        "nombre": "Yanet Hernández Pérez",
+        "ocupacion": "Vicegobernadora de La Habana",
+        "edad": "53",
+        "votos_validos": "82.25",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanet-Hernandez-Perez.png"
+    },
+    {
+        "nombre": "Llanisca Lugo González",
+        "ocupacion": "Coordinadora del proceso de solidaridad internacional del Centro Memorial Martin Luther King, Jr",
+        "edad": "44",
+        "votos_validos": "85.32",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Llanisca-Lugo-Gonzalez.png"
+    },
+    {
+        "nombre": "William Cambara Gálvez",
+        "ocupacion": "Director de la División Territorial Norte, ETECSA",
+        "edad": "41",
+        "votos_validos": "80.55",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/WILLIAM-CAMBARA-GALVEZ.png"
+    },
+    {
+        "nombre": "Ramón Pardo Guerra",
+        "ocupacion": "Jefe del Estado Mayor Nacional de la Defensa Civil",
+        "edad": "86",
+        "votos_validos": "81.08",
+        "provincia": "La Habana",
+        "municipio": "Boyeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ramon-Pardo-Guerra.png"
+    },
+    {
+        "nombre": "Emilio Interián Rodríguez",
+        "ocupacion": "Presidente CCS \"Sabino Pupo Milián\"",
+        "edad": "54",
+        "votos_validos": "80.8",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/emilio-interian-rodriguez.png"
+    },
+    {
+        "nombre": "Marisleidys Jiménez Alvarez",
+        "ocupacion": "Presidenta del Consejo Popular “Víbora Park”",
+        "edad": "31",
+        "votos_validos": "84.9",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marisleidys-Jimenez-Alvarez.png"
+    },
+    {
+        "nombre": "Silvia Suárez Vázquez",
+        "ocupacion": "Jefa de Recursos Humanos en la Clínica Estomatológica “Santa Catalina”",
+        "edad": "59",
+        "votos_validos": "71.08",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Silvia-Suarez-Vazquez.png"
+    },
+    {
+        "nombre": "Gilmer Ricardo Rodríguez León",
+        "ocupacion": "Director General Empresa Contingente \"Blas Roca Calderío\"",
+        "edad": "58",
+        "votos_validos": "81.66",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gilmer-Ricardo-Rodriguez-Leon.png"
+    },
+    {
+        "nombre": "Raúl Alejandro Palmero Fernández",
+        "ocupacion": "Primer Secretario del Comité Provincial de la UJC en La Habana",
+        "edad": "28",
+        "votos_validos": "83.18",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raul-Alejandro-Palmero-Fernandez.png"
+    },
+    {
+        "nombre": "Ernest Feijóo Eiró",
+        "ocupacion": "Jefe del Ejército Occidental",
+        "edad": "56",
+        "votos_validos": "81.65",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ernest-Feijoo-Eiro.png"
+    },
+    {
+        "nombre": "Juan Esteban Lazo Hernández",
+        "ocupacion": "Presidente de la Asamblea Nacional del Poder Popular y del Consejo de Estado.",
+        "edad": "79",
+        "votos_validos": "87.06",
+        "provincia": "La Habana",
+        "municipio": "Arroyo Naranjo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Juan-Esteban-Lazo-Hernandez.png"
+    },
+    {
+        "nombre": "Yaima Valle Barrios",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular del Cotorro",
+        "edad": "41",
+        "votos_validos": "86.39",
+        "provincia": "La Habana",
+        "municipio": "Cotorro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaima-Valle-Barrios.png"
+    },
+    {
+        "nombre": "Reinier Guillén Otero",
+        "ocupacion": "Director General de la Empresa Siderúrgica “José Martí”-Antillana de Acero",
+        "edad": "39",
+        "votos_validos": "80.01",
+        "provincia": "La Habana",
+        "municipio": "Cotorro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Reinier-Guillen-Otero.png"
+    },
+    {
+        "nombre": "Álvaro López Miera",
+        "ocupacion": "Ministro de las FAR",
+        "edad": "79",
+        "votos_validos": "80.23",
+        "provincia": "La Habana",
+        "municipio": "Cotorro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/alvaro-lopez-miera.png"
+    },
+    {
+        "nombre": "Yudeisy González Arriera",
+        "ocupacion": "Presidenta de Consejo Popular La Musicanga",
+        "edad": "46",
+        "votos_validos": "88.89",
+        "provincia": "Mayabeque",
+        "municipio": "Bejucal",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudeisy-Gonzalez-Arriera.png"
+    },
+    {
+        "nombre": "Tamara Lobaina Rodríguez",
+        "ocupacion": "Directora General del Centro Nacional de Biopreparados-BIOCEN",
+        "edad": "53",
+        "votos_validos": "76.55",
+        "provincia": "Mayabeque",
+        "municipio": "Bejucal",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Tamara-Lobaina-Rodriguez.png"
+    },
+    {
+        "nombre": "Yusmila Méndez Pérez",
+        "ocupacion": "Especialista en Legislación, Dirección Municipal de Trabajo y Seguridad Social",
+        "edad": "42",
+        "votos_validos": "83.98",
+        "provincia": "Mayabeque",
+        "municipio": "San José de las Lajas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yusmila-Mendez-Perez.png"
+    },
+    {
+        "nombre": "Yuniasky Crespo Baquero",
+        "ocupacion": "Primera Secretaria Comité Provincial del Partido en Mayabeque",
+        "edad": "44",
+        "votos_validos": "83.72",
+        "provincia": "Mayabeque",
+        "municipio": "San José de las Lajas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yuniasky-Crepos-Baquero.png"
+    },
+    {
+        "nombre": "Homero Acosta Álvarez",
+        "ocupacion": "Secretario de la ANPP y del Consejo de Estado",
+        "edad": "59",
+        "votos_validos": "85.33",
+        "provincia": "Mayabeque",
+        "municipio": "San José de las Lajas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Homero-Acosta-Alvarez.png"
+    },
+    {
+        "nombre": "Leisbán Quevedo Sosa",
+        "ocupacion": "Director del Instituto Preuniversitario Capitán San Luis",
+        "edad": "38",
+        "votos_validos": "84.7",
+        "provincia": "Mayabeque",
+        "municipio": "Jaruco",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leisban-Quevedo-Sosa.png"
+    },
+    {
+        "nombre": "Argelis Lescay Martínez",
+        "ocupacion": "Director General CTE Ernesto Guevara de la Serna",
+        "edad": "50",
+        "votos_validos": "86.04",
+        "provincia": "Mayabeque",
+        "municipio": "Jaruco",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Argelis-Lescay-Martinez.png"
+    },
+    {
+        "nombre": "Adonay Ríos Montalvo",
+        "ocupacion": "Jefa de Enseñanza Media y Media Superior de la Dirección Municipal de Educación de Santa Cruz del Norte",
+        "edad": "40",
+        "votos_validos": "84.59",
+        "provincia": "Mayabeque",
+        "municipio": "Santa Cruz del Norte",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Adonay-Rios-Montalvo.png"
+    },
+    {
+        "nombre": "Miriam Brito Sarroca",
+        "ocupacion": "Presidenta de la Comisión Permanente de Trabajo de Órganos Locales del Poder Popular de la Asamblea Nacional del Poder Popular",
+        "edad": "62",
+        "votos_validos": "88.2",
+        "provincia": "Mayabeque",
+        "municipio": "Santa Cruz del Norte",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Miriam-Brito-Sarroca.png"
+    },
+    {
+        "nombre": "Yanaurys González Nuñez",
+        "ocupacion": "Jefa de Brigada en la Empresa Agroindustrial Azucarera Boris Luis Santa Coloma",
+        "edad": "52",
+        "votos_validos": "90.41",
+        "provincia": "Mayabeque",
+        "municipio": "Madruga",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanaurys-Gonzalez-Nunez.png"
+    },
+    {
+        "nombre": "Ulises Guilarte De Nacimiento",
+        "ocupacion": "Secretario General de la CTC",
+        "edad": "58",
+        "votos_validos": "86.59",
+        "provincia": "Mayabeque",
+        "municipio": "Madruga",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/ulises-guilarte-de-nacimiento.png"
+    },
+    {
+        "nombre": "Denis Sánchez Valera",
+        "ocupacion": "Presidente de la Cooperativa de Producción Agropecuaria 26 de Julio.",
+        "edad": "33",
+        "votos_validos": "84.62",
+        "provincia": "Mayabeque",
+        "municipio": "Nueva Paz",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Denis-Sanchez-Valera.png"
+    },
+    {
+        "nombre": "José Antonio Carrillo Gómez",
+        "ocupacion": "General de División. Presidente Nacional de la Asociación de Combatientes de la Revolución Cubana y presidente de la Comisión de Defensa Nacional y Orden Interior de la Asamblea Nacional del Poder Popular.",
+        "edad": "72",
+        "votos_validos": "86.79",
+        "provincia": "Mayabeque",
+        "municipio": "Nueva Paz",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Antonio-Carrillo-Gomez.png"
+    },
+    {
+        "nombre": "Deyanira Dorvigny Marrero",
+        "ocupacion": "Directora del Combinado Deportivo “Antonio López”",
+        "edad": "34",
+        "votos_validos": "93.86",
+        "provincia": "Mayabeque",
+        "municipio": "San Nicolás",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Deyanira-Dorvigny-Marrero.png"
+    },
+    {
+        "nombre": "Nivian Montes de Oca Martínez",
+        "ocupacion": "Directora General del Centro Nacional de Sanidad Agropecuaria-CENSA",
+        "edad": "57",
+        "votos_validos": "77.25",
+        "provincia": "Mayabeque",
+        "municipio": "San Nicolás",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Nivian-Montes-de-Oca-Martinez.png"
+    },
+    {
+        "nombre": "Judima Fernández Olivera",
+        "ocupacion": "Profesora de Historia Antigua y Medieval en la Escuela de Iniciación Deportiva Escolar “Antonio Jiménez Casadevalle”",
+        "edad": "37",
+        "votos_validos": "82.68",
+        "provincia": "Mayabeque",
+        "municipio": "Güines",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Judima-Fernandez-Olivera.png"
+    },
+    {
+        "nombre": "Salvador Antonio Valdés Mesa",
+        "ocupacion": "Vicepresidente de la República",
+        "edad": "77",
+        "votos_validos": "85.93",
+        "provincia": "Mayabeque",
+        "municipio": "Güines",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/salvador-antonio-valdes-mesa.png"
+    },
+    {
+        "nombre": "Lemay Díaz Reyes",
+        "ocupacion": "Presidente de la Comisión Permanente de Trabajo Económica y Agroalimentaria en la Asamblea Municipal del Poder Popular en Melena del Sur",
+        "edad": "42",
+        "votos_validos": "84.61",
+        "provincia": "Mayabeque",
+        "municipio": "Melena del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lemay-Diaz-Reyes.png"
+    },
+    {
+        "nombre": "Tamara Valido Benítez",
+        "ocupacion": "Gobernadora de Mayabeque",
+        "edad": "52",
+        "votos_validos": "83.18",
+        "provincia": "Mayabeque",
+        "municipio": "Melena del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Tamara-Valido-Benitez.png"
+    },
+    {
+        "nombre": "Nedelys Caridad Delgado Felipe",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular de Batabanó",
+        "edad": "43",
+        "votos_validos": "90.83",
+        "provincia": "Mayabeque",
+        "municipio": "Batabanó",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Nedelys-Caridad-Delgado-Felipe.png"
+    },
+    {
+        "nombre": "Manuel Aguiar Lamas",
+        "ocupacion": "Vicegobernador Mayabeque",
+        "edad": "58",
+        "votos_validos": "82.61",
+        "provincia": "Mayabeque",
+        "municipio": "Batabanó",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Manuel-Aguiar-Lamas.png"
+    },
+    {
+        "nombre": "Adis Ofarrill Martínez",
+        "ocupacion": "Presidenta del consejo popular “Noriega”",
+        "edad": "50",
+        "votos_validos": "87.41",
+        "provincia": "Mayabeque",
+        "municipio": "Quivicán",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Adis-O´-Farril-Martinez.png"
+    },
+    {
+        "nombre": "Elvis Gil Domínguez",
+        "ocupacion": "Presidente de la Unión de Periodistas de Cuba en Mayabeque",
+        "edad": "40",
+        "votos_validos": "88.55",
+        "provincia": "Mayabeque",
+        "municipio": "Quivicán",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elvis-Gil-Dominguez.png"
+    },
+    {
+        "nombre": "Daylín Bárbara Alfonso Mora",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular de Matanzas",
+        "edad": "42",
+        "votos_validos": "87.48",
+        "provincia": "Matanzas",
+        "municipio": "Matanzas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Daylin-Barbara-Alfonso-Mora.png"
+    },
+    {
+        "nombre": "Alisbeth Isaac Drig",
+        "ocupacion": "Especialista Principal de Trabajo Social en el consejo popular “Versalles”",
+        "edad": "38",
+        "votos_validos": "80.9",
+        "provincia": "Matanzas",
+        "municipio": "Matanzas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alisbeth-Isaac-Drig.png"
+    },
+    {
+        "nombre": "Susely Morfa González",
+        "ocupacion": "Primera Secretaria del Comité Provincial del Partido en Matanzas",
+        "edad": "40",
+        "votos_validos": "84.07",
+        "provincia": "Matanzas",
+        "municipio": "Matanzas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Susely-Morfa-Gonzalez.png"
+    },
+    {
+        "nombre": "Taymí Martínez Naranjo",
+        "ocupacion": "Directora General Hospital Provincial Clínico Quirúrgico Docente “Faustino Pérez”",
+        "edad": "36",
+        "votos_validos": "82.32",
+        "provincia": "Matanzas",
+        "municipio": "Matanzas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Taymi-Martinez-Naranjo.png"
+    },
+    {
+        "nombre": "Jorge Luis Broche Lorenzo",
+        "ocupacion": "Miembro del Secretariado y Jefe del Departamento de Atención al Sector Social del Comité Central del Partido.",
+        "edad": "52",
+        "votos_validos": "81.47",
+        "provincia": "Matanzas",
+        "municipio": "Matanzas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Luis-Broche-Lorenzo.png"
+    },
+    {
+        "nombre": "Ismaray Scull Charón",
+        "ocupacion": "Especialista “A” Extracción y Perforación de Petróleo-EPEP-Centro",
+        "edad": "35",
+        "votos_validos": "79.56",
+        "provincia": "Matanzas",
+        "municipio": "Cárdenas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ismaray-Scull-Charon.png"
+    },
+    {
+        "nombre": "Alex Nodarse Pedroso",
+        "ocupacion": "Viceintendente de la Economía del Consejo de la Administración Municipal de Cárdenas",
+        "edad": "33",
+        "votos_validos": "77.81",
+        "provincia": "Matanzas",
+        "municipio": "Cárdenas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alex-Nodarse-Pedroso.png"
+    },
+    {
+        "nombre": "Elián González Brotons",
+        "ocupacion": "Director Adjunto Abastecimiento para el Turismo Comercial Varadero, Matanzas.",
+        "edad": "29",
+        "votos_validos": "89.37",
+        "provincia": "Matanzas",
+        "municipio": "Cárdenas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elian-Gonzalez-Brotons.png"
+    },
+    {
+        "nombre": "Joel Ortega Dopico",
+        "ocupacion": "Presidente de Consejo de Iglesias de Cuba",
+        "edad": "52",
+        "votos_validos": "67.65",
+        "provincia": "Matanzas",
+        "municipio": "Cárdenas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Joel-Ortega-Dopico.png"
+    },
+    {
+        "nombre": "Andrés Laureano González Brito",
+        "ocupacion": "Jefe del Ejército Central de las FAR",
+        "edad": "68",
+        "votos_validos": "78.31",
+        "provincia": "Matanzas",
+        "municipio": "Cárdenas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Andres-Laureano-Gonzalez-Brito.png"
+    },
+    {
+        "nombre": "Yoandy Garrido Pérez",
+        "ocupacion": "Presidente del consejo popular “Carlos Rodríguez”",
+        "edad": "36",
+        "votos_validos": "86.49",
+        "provincia": "Matanzas",
+        "municipio": "Martí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoandy-Garrido-Perez.png"
+    },
+    {
+        "nombre": "Mario Felipe Sabines Lorenzo",
+        "ocupacion": "Gobernador de Matanzas",
+        "edad": "51",
+        "votos_validos": "81.67",
+        "provincia": "Matanzas",
+        "municipio": "Martí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mario-Felipe-Sabines-Lorenzo.png"
+    },
+    {
+        "nombre": "Ivis Mercedes Benítez Sardiñas",
+        "ocupacion": "Técnica de Gestión Comercial del Combinado Lácteo “Antonio Rodríguez”",
+        "edad": "31",
+        "votos_validos": "88.26",
+        "provincia": "Matanzas",
+        "municipio": "Colón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ivis-Mercedes-Benitez-Sardinas.png"
+    },
+    {
+        "nombre": "Joaquín Quintas Solá",
+        "ocupacion": "Viceministro de las Fuerzas Armadas Revolucionarias.",
+        "edad": "84",
+        "votos_validos": "84.65",
+        "provincia": "Matanzas",
+        "municipio": "Colón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Joaquin-Quintas-Sola.png"
+    },
+    {
+        "nombre": "Yudelis Milián Pedroso",
+        "ocupacion": "Funcionaria de Atención Primaria de Salud, Policlínico “XXX Aniversario del Moncada”",
+        "edad": "38",
+        "votos_validos": "83.55",
+        "provincia": "Matanzas",
+        "municipio": "Perico",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudelis-Milian-Pedroso.png"
+    },
+    {
+        "nombre": "Laura María León Delgado",
+        "ocupacion": "Presidenta de la Sala de Amparo de los Derechos Constitucionales del Tribunal Provincial",
+        "edad": "27",
+        "votos_validos": "84.7",
+        "provincia": "Matanzas",
+        "municipio": "Perico",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Laura-Marian-Bacallao-Padron.png"
+    },
+    {
+        "nombre": "Regla Yanirka Morales Amorós",
+        "ocupacion": "Instructora de Arte",
+        "edad": "42",
+        "votos_validos": "92.11",
+        "provincia": "Matanzas",
+        "municipio": "Jovellanos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Regla-Yanirka-Morales-Amoros.png"
+    },
+    {
+        "nombre": "Isandra Vento Rivero",
+        "ocupacion": "Directora Adjunta de la Empresa Agroforestal de Matanzas",
+        "edad": "50",
+        "votos_validos": "81.41",
+        "provincia": "Matanzas",
+        "municipio": "Jovellanos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Isandra-Vento-Rivera.png"
+    },
+    {
+        "nombre": "Marina Yadelsy Morejón Aldama",
+        "ocupacion": "Oficial de información y análisis del MININT",
+        "edad": "38",
+        "votos_validos": "92.28",
+        "provincia": "Matanzas",
+        "municipio": "Pedro Betancourt",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marina-Yadelsy-Morejon-Aldama.png"
+    },
+    {
+        "nombre": "Isdalis Rodríguez Rodríguez",
+        "ocupacion": "Segunda Secretaria de la Central de Trabajadores de Cuba-CTC",
+        "edad": "50",
+        "votos_validos": "86.24",
+        "provincia": "Matanzas",
+        "municipio": "Pedro Betancourt",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Isdalis-Rodriguez-Rodriguez.png"
+    },
+    {
+        "nombre": "Lester Baró Escalona",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular de Limonar",
+        "edad": "28",
+        "votos_validos": "89.18",
+        "provincia": "Matanzas",
+        "municipio": "Limonar",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lester-Baro-Escalona.png"
+    },
+    {
+        "nombre": "Orismay Hernández Ramírez",
+        "ocupacion": "Poeta Repentista de la Empresa de la Música “Rafael Somavilla”",
+        "edad": "38",
+        "votos_validos": "84.44",
+        "provincia": "Matanzas",
+        "municipio": "Limonar",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Orismay-Hernandez-Ramirez.png"
+    },
+    {
+        "nombre": "Roxana Valdés Isasi",
+        "ocupacion": "Periodista de Radio Unión",
+        "edad": "22",
+        "votos_validos": "87.45",
+        "provincia": "Matanzas",
+        "municipio": "Unión de Reyes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Roxana-Valdes-Isasi.png"
+    },
+    {
+        "nombre": "Lázaro Alberto Álvarez Casas",
+        "ocupacion": "Ministro del Interior",
+        "edad": "60",
+        "votos_validos": "83.58",
+        "provincia": "Matanzas",
+        "municipio": "Unión de Reyes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lazaro-Alberto-Alvarez-Casas.png"
+    },
+    {
+        "nombre": "Yuriet Estévez Gutiérrez",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular en Ciénaga de Zapata",
+        "edad": "39",
+        "votos_validos": "93.31",
+        "provincia": "Matanzas",
+        "municipio": "Ciénaga de Zapata",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yuriet-Estevez-Gutierrez.png"
+    },
+    {
+        "nombre": "Humberto Camilo Hernández Suárez",
+        "ocupacion": "Jefe Departamento de Política de Cuadros CC PCC",
+        "edad": "54",
+        "votos_validos": "77.6",
+        "provincia": "Matanzas",
+        "municipio": "Ciénaga de Zapata",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Humberto-Camilo-Hernandez-Suarez.png"
+    },
+    {
+        "nombre": "Yumi Díaz Romillo",
+        "ocupacion": "Profesora de Marxismo Leninismo e Historia, Centro Universitario \"Enrique Rodríguez Loaches\"",
+        "edad": "40",
+        "votos_validos": "86.95",
+        "provincia": "Matanzas",
+        "municipio": "Jagüey Grande",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yumi-Diaz-Romillo.png"
+    },
+    {
+        "nombre": "Laina Pérez Fagundo",
+        "ocupacion": "Atleta de Alto Rendimiento, Tiro Deportivo",
+        "edad": "33",
+        "votos_validos": "82.68",
+        "provincia": "Matanzas",
+        "municipio": "Jagüey Grande",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Laina-Perez-Fagundo.png"
+    },
+    {
+        "nombre": "Eddy Ravelo Rodríguez",
+        "ocupacion": "Director General de la Empresa Agroindustrial de Granos, Matanzas",
+        "edad": "53",
+        "votos_validos": "82.98",
+        "provincia": "Matanzas",
+        "municipio": "Calimete",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eddy-Ravelo-Rodriguez.png"
+    },
+    {
+        "nombre": "Liliam Mendoza Estrada",
+        "ocupacion": "Directora de la Casa del ALBA Cultural de La Habana",
+        "edad": "30",
+        "votos_validos": "86.7",
+        "provincia": "Matanzas",
+        "municipio": "Calimete",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Liliam-Mendoza-Estrada.png"
+    },
+    {
+        "nombre": "Yadnolis Rodríguez Sotolongo",
+        "ocupacion": "Presidenta del consejo popular Macagua",
+        "edad": "36",
+        "votos_validos": "86.79",
+        "provincia": "Matanzas",
+        "municipio": "Los Arabos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yadnolis-Rodriguez-Sotolongo.png"
+    },
+    {
+        "nombre": "Anneleisy Azcuy Robaina",
+        "ocupacion": "Directora General de Políticas Fiscales en el Ministerio de Finanzas y Precio",
+        "edad": "43",
+        "votos_validos": "89.07",
+        "provincia": "Matanzas",
+        "municipio": "Los Arabos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Anneleisy-Azcuy-Robaina.png"
+    },
+    {
+        "nombre": "Yanelis Pérez Molina",
+        "ocupacion": "Directora Municipal de Economía y Planificación",
+        "edad": "34",
+        "votos_validos": "88.83",
+        "provincia": "Villa Clara",
+        "municipio": "Corralillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/yanelis-perez-molina.png"
+    },
+    {
+        "nombre": "Minoska Cadalso Navarro",
+        "ocupacion": "Directora de Comunicación e Información en el Gobierno Provincial del Poder Popular de Villa Clara",
+        "edad": "57",
+        "votos_validos": "87.43",
+        "provincia": "Villa Clara",
+        "municipio": "Corralillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/minoska-cadalso-navarro.png"
+    },
+    {
+        "nombre": "Osmel Pérez Negrín",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular en Quemado de Güines",
+        "edad": "47",
+        "votos_validos": "91.36",
+        "provincia": "Villa Clara",
+        "municipio": "Quemado de Güines",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osmel-Perez-Negrin.png"
+    },
+    {
+        "nombre": "Ana María Mari Machado",
+        "ocupacion": "Vicepresidenta de la Asamblea Nacional del Poder Popular y del Consejo de Estado",
+        "edad": "59",
+        "votos_validos": "93.7",
+        "provincia": "Villa Clara",
+        "municipio": "Quemado de Güines",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/ana-maria-mari-machado.jpg"
+    },
+    {
+        "nombre": "Liz María Wilson Reyes",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular en Sagua la Grande",
+        "edad": "31",
+        "votos_validos": "85.27",
+        "provincia": "Villa Clara",
+        "municipio": "Sagua la Grande",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/liz-maria-wilson-reyes.png"
+    },
+    {
+        "nombre": "Yudí Mercedes Rodríguez Hernández",
+        "ocupacion": "Miembro del Secretariado del Comité Central del Partido y Jefa del Departamento de Atención a los Servicios",
+        "edad": "55",
+        "votos_validos": "85.84",
+        "provincia": "Villa Clara",
+        "municipio": "Sagua la Grande",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/yudi-mercedes-rodriguez-hernandez.png"
+    },
+    {
+        "nombre": "Sulia Beatriz Iglesias Barrios",
+        "ocupacion": "Miembro del Buró Municipal de la UJC",
+        "edad": "26",
+        "votos_validos": "82.35",
+        "provincia": "Villa Clara",
+        "municipio": "Encrucijada",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sulia-Beatriz-Iglesias-Barrios.png"
+    },
+    {
+        "nombre": "César Luis Fernández Díaz",
+        "ocupacion": "Campesino, CCS \"Tato Madruga\"",
+        "edad": "50",
+        "votos_validos": "90.06",
+        "provincia": "Villa Clara",
+        "municipio": "Encrucijada",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Cesar-Luis-Fernandez-Diaz.png"
+    },
+    {
+        "nombre": "María de los Ángeles Falcón Álvarez",
+        "ocupacion": "Directora de la Dirección Estatal de Comercio en Camajuaní",
+        "edad": "50",
+        "votos_validos": "92.96",
+        "provincia": "Villa Clara",
+        "municipio": "Camajuaní",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Maria-de-los-Angeles-Falcon-Alvarez.png"
+    },
+    {
+        "nombre": "Iván Santos Prieto",
+        "ocupacion": "Presidente Provincial de la Asociación Nacional de Economistas y Contadores de Cuba en Villa Clara",
+        "edad": "47",
+        "votos_validos": "84.23",
+        "provincia": "Villa Clara",
+        "municipio": "Camajuaní",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ivan-Santos-Prieto.png"
+    },
+    {
+        "nombre": "Orayma Torres Jiménez",
+        "ocupacion": "Especialista en Uso Racional de la Energía de TRANSCUPET",
+        "edad": "50",
+        "votos_validos": "82.7",
+        "provincia": "Villa Clara",
+        "municipio": "Caibarién",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Orayma-Torres-Jimenez.png"
+    },
+    {
+        "nombre": "Regla Dayamí Armenteros Mesa",
+        "ocupacion": "Delegada del Ministerio del Turismo en Villa Clara",
+        "edad": "50",
+        "votos_validos": "85.83",
+        "provincia": "Villa Clara",
+        "municipio": "Caibarién",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Regla-Dayami-Armenteros-Mesa.png"
+    },
+    {
+        "nombre": "Noel Rolando Benítez Fernández",
+        "ocupacion": "Campesino de la Cooperativa de Créditos y Servicios “Rodolfo León Perlacia” en la Finca Veguita",
+        "edad": "36",
+        "votos_validos": "89.74",
+        "provincia": "Villa Clara",
+        "municipio": "Remedios",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Noel-Rolando-Benitez-Fernandez.png"
+    },
+    {
+        "nombre": "Anabel Díaz Hurtado",
+        "ocupacion": "Vicerrectora Universidad Central \"Marta Abreu\" de las Villas",
+        "edad": "39",
+        "votos_validos": "83.74",
+        "provincia": "Villa Clara",
+        "municipio": "Remedios",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Anabel-Diaz-Hurtado.png"
+    },
+    {
+        "nombre": "Marileidy Darias García",
+        "ocupacion": "Jefa del Departamento de Enfermería del Policlínico de Falcón",
+        "edad": "39",
+        "votos_validos": "94.7",
+        "provincia": "Villa Clara",
+        "municipio": "Placetas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marileydi-Darias-Garcia.png"
+    },
+    {
+        "nombre": "Ailec Peralta Gómez",
+        "ocupacion": "Directora Adjunta de la Empresa Geominera del Centro",
+        "edad": "37",
+        "votos_validos": "80.46",
+        "provincia": "Villa Clara",
+        "municipio": "Placetas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ailec-Peralta-Gomez.png"
+    },
+    {
+        "nombre": "Leonel del Valle Monteagudo",
+        "ocupacion": "Director Seminternado \"Olga Alonso\", Santa Clara",
+        "edad": "33",
+        "votos_validos": "91.37",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leonel-del-Valle-Monteagudo.png"
+    },
+    {
+        "nombre": "Clara Nubia Aliaga Castillo",
+        "ocupacion": "Directora de Recursos Humanos. Empresa de Materiales de la Construcción de Villa Clara",
+        "edad": "49",
+        "votos_validos": "78.97",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Clara-Nubia-Aliaga-Castillo.png"
+    },
+    {
+        "nombre": "Asiel Aguada Barceló",
+        "ocupacion": "Presidente del Consejo Popular \"Sakenaf-Caracatey\"",
+        "edad": "30",
+        "votos_validos": "92.29",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Asiel-Aguada-Barcelo.png"
+    },
+    {
+        "nombre": "Osmani García López",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular de Santa Clara",
+        "edad": "54",
+        "votos_validos": "84.2",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osmani-Garcia-Lopez.png"
+    },
+    {
+        "nombre": "Alberto López Díaz",
+        "ocupacion": "Gobernador de Villa Clara",
+        "edad": "56",
+        "votos_validos": "81.71",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alberto-Lopez-Diaz.png"
+    },
+    {
+        "nombre": "Osnay Miguel Colina Rodríguez",
+        "ocupacion": "Miembro del Comité Central del Partido Comunista de Cuba y Primer Secretario del Comité Provincial del Partido en Villa Clara",
+        "edad": "48",
+        "votos_validos": "89.94",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osnay-Miguel-Colina-Rodriguez.png"
+    },
+    {
+        "nombre": "Miguel Mario Díaz-Canel Bermúdez",
+        "ocupacion": "Primer Secretario del Comité Central del Partido y Presidente de la República",
+        "edad": "63",
+        "votos_validos": "88.78",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/miguel-diaz-canel-bermudez.png"
+    },
+    {
+        "nombre": "Luis Morlote Rivas",
+        "ocupacion": "Presidente de la Unión de Escritores y Artistas de Cuba-Uneac. Vicepresidente de la Comisión de Educación, Cultura, Ciencia, Tecnología y Medio Ambiente de la Asamblea Nacional del Poder Popular",
+        "edad": "48",
+        "votos_validos": "81.17",
+        "provincia": "Villa Clara",
+        "municipio": "Santa Clara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Morlote-Rivas.png"
+    },
+    {
+        "nombre": "Misalys Gonzalez Rivero",
+        "ocupacion": "Secretaria General del Comité Municipal de la CTC en Cifuentes",
+        "edad": "44",
+        "votos_validos": "85.53",
+        "provincia": "Villa Clara",
+        "municipio": "Cifuentes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Misalys-Gonzalez-Rivero.png"
+    },
+    {
+        "nombre": "Ania María Aparicio Albelo",
+        "ocupacion": "Directora Provincial de Justicia en Villa Clara",
+        "edad": "51",
+        "votos_validos": "89",
+        "provincia": "Villa Clara",
+        "municipio": "Cifuentes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ania-Maria-Aparicio-Albelo.png"
+    },
+    {
+        "nombre": "Martha Mena Rodríguez",
+        "ocupacion": "Presidente Consejo Popular \"Mordazo\"·",
+        "edad": "46",
+        "votos_validos": "89.09",
+        "provincia": "Villa Clara",
+        "municipio": "Santo Domingo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Martha-Mena-Rodriguez.png"
+    },
+    {
+        "nombre": "Sergio Juan Rodríguez Morales",
+        "ocupacion": "Director Instituto Nacional Investigaciones de Viandas Tropicales (INIVIT)",
+        "edad": "75",
+        "votos_validos": "81.41",
+        "provincia": "Villa Clara",
+        "municipio": "Santo Domingo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sergio-Juan-Rodriguez-Morales.png"
+    },
+    {
+        "nombre": "Milierkys Viera Díaz",
+        "ocupacion": "Profesora de la Sede Universitaria Municipal",
+        "edad": "41",
+        "votos_validos": "89.02",
+        "provincia": "Villa Clara",
+        "municipio": "Ranchuelo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Milierkis-Viera-Diaz.png"
+    },
+    {
+        "nombre": "Yaisel Osvaldo Pieter Terry",
+        "ocupacion": "Secretario General del Sindicato Nacional de Trabajadores de la Administración Pública",
+        "edad": "47",
+        "votos_validos": "88.3",
+        "provincia": "Villa Clara",
+        "municipio": "Ranchuelo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaisel-Osvaldo-Pieter-Terry.png"
+    },
+    {
+        "nombre": "Layra Hurtado Ramírez",
+        "ocupacion": "Presidenta Consejo Popular \"Manicaragua\"",
+        "edad": "37",
+        "votos_validos": "87.64",
+        "provincia": "Villa Clara",
+        "municipio": "Manicaragua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Layra-Hurtado-Ramirez.png"
+    },
+    {
+        "nombre": "Yoerky Sánchez Cuéllar",
+        "ocupacion": "Director Periódico \"Juventud Rebelde\"",
+        "edad": "39",
+        "votos_validos": "85.92",
+        "provincia": "Villa Clara",
+        "municipio": "Manicaragua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoerky-Sanchez-Cuellar.png"
+    },
+    {
+        "nombre": "Raisa Lores Mora",
+        "ocupacion": "Funcionaria de Atención a la Población en la Asamblea Municipal del Poder Popular de Aguada de Pasajeros",
+        "edad": "47",
+        "votos_validos": "87.59",
+        "provincia": "Cienfuegos",
+        "municipio": "Aguada de Pasajeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raisa-Lorez-Mora.png"
+    },
+    {
+        "nombre": "Oscar Alejandro Callejas Valcarce",
+        "ocupacion": "Jefe de la Dirección Política del MININT",
+        "edad": "65",
+        "votos_validos": "86.09",
+        "provincia": "Cienfuegos",
+        "municipio": "Aguada de Pasajeros",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Oscar-Alejandro-Callejas-Valcarce.png"
+    },
+    {
+        "nombre": "Belkis Sánchez Licea",
+        "ocupacion": "Metodóloga de Educación Física en la Dirección Municipal de Deportes",
+        "edad": "53",
+        "votos_validos": "83.75",
+        "provincia": "Cienfuegos",
+        "municipio": "Rodas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Belkis-Sanchez-Licea.png"
+    },
+    {
+        "nombre": "Julio Amaury Rodríguez Depestre",
+        "ocupacion": "Director General de la Empresa Agroindustrial Azucarera “14 de Julio”",
+        "edad": "52",
+        "votos_validos": "81.22",
+        "provincia": "Cienfuegos",
+        "municipio": "Rodas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Julio-Amaury-Rodriguez-Depestre.png"
+    },
+    {
+        "nombre": "Yaité Morfa Mejias",
+        "ocupacion": "Secretaria Docente en la Escuela Primaria “Dionisio San Román”, en Arriete-Ciego Montero",
+        "edad": "29",
+        "votos_validos": "80.65",
+        "provincia": "Cienfuegos",
+        "municipio": "Palmira",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaite-Morfa-Mejias.png"
+    },
+    {
+        "nombre": "Yoexis Manresa Peñalver",
+        "ocupacion": "Jefe de Producción en la Empresa Industrial Pesquera Cienfuegos",
+        "edad": "43",
+        "votos_validos": "88.1",
+        "provincia": "Cienfuegos",
+        "municipio": "Palmira",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoexis-Manresa-Penalver.png"
+    },
+    {
+        "nombre": "Geidy González Rodríguez",
+        "ocupacion": "Técnica en Laboratorio Clínico del Policlínico Universitario “Enrique Barnet”",
+        "edad": "32",
+        "votos_validos": "94.77",
+        "provincia": "Cienfuegos",
+        "municipio": "Lajas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Geidy-Gonzalez-Rodriguez-.png"
+    },
+    {
+        "nombre": "Angélica María Chorens Fernández",
+        "ocupacion": "Directora General en la Empresa Oleohidráulica Cienfuegos \"José Gregorio Martínez\"",
+        "edad": "33",
+        "votos_validos": "93.23",
+        "provincia": "Cienfuegos",
+        "municipio": "Lajas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Angelica-Maria-Chorens-Fernandez.png"
+    },
+    {
+        "nombre": "Arnelys Beatriz Bernal Roca",
+        "ocupacion": "Metodóloga de Educación Artística, Dirección Provincial de Educación",
+        "edad": "37",
+        "votos_validos": "90.52",
+        "provincia": "Cienfuegos",
+        "municipio": "Cruces",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Arnelis-Beatriz-Bernal-Roca.png"
+    },
+    {
+        "nombre": "Odalys Medina Hernández",
+        "ocupacion": "Decana de la Facultad de Ciencias Sociales de la Universidad de Cienfuegos “Carlos Rafael Rodríguez”",
+        "edad": "41",
+        "votos_validos": "77.73",
+        "provincia": "Cienfuegos",
+        "municipio": "Cruces",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Odalys-Medina-Hernandez.png"
+    },
+    {
+        "nombre": "Yaimara Tellería Morejón",
+        "ocupacion": "Enfermera del Consultorio Médico de Yaguanabo Arriba",
+        "edad": "38",
+        "votos_validos": "80.95",
+        "provincia": "Cienfuegos",
+        "municipio": "Cumanayagua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaimara-Telleria-Morejon.png"
+    },
+    {
+        "nombre": "Alexandre Corona Quintero",
+        "ocupacion": "Gobernador de la provincia de Cienfuegos",
+        "edad": "50",
+        "votos_validos": "81.96",
+        "provincia": "Cienfuegos",
+        "municipio": "Cumanayagua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alexandre-Corona-Quintero.png"
+    },
+    {
+        "nombre": "Santiago González Acosta",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular de Cienfuegos",
+        "edad": "46",
+        "votos_validos": "84.39",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Santiago-Gonzalez-Acosta.png"
+    },
+    {
+        "nombre": "Odalys Quero Rodríguez",
+        "ocupacion": "Presidenta de Consejo Popular, \"Paraíso\"",
+        "edad": "52",
+        "votos_validos": "81.23",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Odalys-Quero-Rodriguez.png"
+    },
+    {
+        "nombre": "Lázaro Alejandro Romero Álvarez",
+        "ocupacion": "Miembro del Buró del Comité Municipal de la UJC, Esfera Política-Ideológica, Cienfuegos.",
+        "edad": "23",
+        "votos_validos": "78.45",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lazaro-Alejandro-Romero-Alvarez.png"
+    },
+    {
+        "nombre": "Marydé Fernández López",
+        "ocupacion": "Primera Secretaria del Comité Provincial del Partido en Cienfuegos",
+        "edad": "45",
+        "votos_validos": "87.88",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Maryde-Fernandez-Lopez.png"
+    },
+    {
+        "nombre": "Nelson Valdés Viera",
+        "ocupacion": "Músico Trovador",
+        "edad": "36",
+        "votos_validos": "83.06",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Nelson-Valdes-Viera.png"
+    },
+    {
+        "nombre": "Roberto Tomás Morales Ojeda",
+        "ocupacion": "Miembro del Buró Político y Secretario de Organización del CCPCC",
+        "edad": "55",
+        "votos_validos": "89.29",
+        "provincia": "Cienfuegos",
+        "municipio": "Cienfuegos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/roberto-morales-ojeda.jpg"
+    },
+    {
+        "nombre": "Clairet Carballosa Llanes",
+        "ocupacion": "Subdirectora Docente de la Dirección Municipal de Educación",
+        "edad": "34",
+        "votos_validos": "91.45",
+        "provincia": "Cienfuegos",
+        "municipio": "Abreus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Clairet-Carballosa-Llanes.png"
+    },
+    {
+        "nombre": "Walter Baluja García",
+        "ocupacion": "Viceministro Primero de Educación Superior",
+        "edad": "47",
+        "votos_validos": "88.55",
+        "provincia": "Cienfuegos",
+        "municipio": "Abreus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Walter-Baluja-Garcia.png"
+    },
+    {
+        "nombre": "Esmeralda Laredo González",
+        "ocupacion": "Especialista en Inspección de la Delegación Municipal de la Agricultura",
+        "edad": "47",
+        "votos_validos": "82.74",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Yaguajay",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Esmeralda-Laredo-Gonzalez.png"
+    },
+    {
+        "nombre": "Marta Ayala Ávila",
+        "ocupacion": "Directora General del Centro de Ingeniería Genética y Biotecnología.",
+        "edad": "56",
+        "votos_validos": "92.73",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Yaguajay",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/marta-ayala-avila.png"
+    },
+    {
+        "nombre": "Yeney Pérez Falcón",
+        "ocupacion": "Presidenta del consejo popular Sur",
+        "edad": "40",
+        "votos_validos": "93.36",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Jatibonico",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yeney-Perez-Falcon.png"
+    },
+    {
+        "nombre": "Naima Ariatne Trujillo Barreto",
+        "ocupacion": "Rectora de la Universidad “José Martí Pérez” de Sancti Spíritus",
+        "edad": "46",
+        "votos_validos": "82.9",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Jatibonico",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Naima-Ariatne-Trujillo-Barreto.png"
+    },
+    {
+        "nombre": "Yaimé García Herrera",
+        "ocupacion": "Directora Municipal de Economía y Planificación",
+        "edad": "41",
+        "votos_validos": "91.43",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Taguasco",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaime-Garcia-Herrera.png"
+    },
+    {
+        "nombre": "Roberto Pérez Jiménez",
+        "ocupacion": "Jefe del Departamento de Organización del Comité Central del Partido",
+        "edad": "51",
+        "votos_validos": "81.14",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Taguasco",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Roberto-Perez-Jimenez.png"
+    },
+    {
+        "nombre": "Mijail Bonachea Crespo",
+        "ocupacion": "Director General Refinería de Petróleo “Sergio Soto”",
+        "edad": "43",
+        "votos_validos": "88.81",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Cabaiguán",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mijail-Bonachea-Crespo.png"
+    },
+    {
+        "nombre": "Deivy Pérez Martín",
+        "ocupacion": "Primera Secretaria del Comité Provincial del Partido en Sancti Spíritus",
+        "edad": "57",
+        "votos_validos": "85.51",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Cabaiguán",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Deivy-Perez-Martin.png"
+    },
+    {
+        "nombre": "Gianny Bermúdez Alemán",
+        "ocupacion": "Presidenta Consejo Popular Norte",
+        "edad": "44",
+        "votos_validos": "91.43",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Fomento",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gianny-Bermudez-Aleman.png"
+    },
+    {
+        "nombre": "Dayamy Oliva Pineda",
+        "ocupacion": "Directora de la Unidad Empresarial de Base GEYSEL",
+        "edad": "38",
+        "votos_validos": "81.06",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Fomento",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dayamy-Oliva-Pineda.png"
+    },
+    {
+        "nombre": "Yudith Elena Brunet Fundora",
+        "ocupacion": "Educadora del Círculo Infantil “Tierno Amanecer”",
+        "edad": "29",
+        "votos_validos": "86.32",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Trinidad",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudith-Elena-Brunet-Fundora.png"
+    },
+    {
+        "nombre": "Osdany de la Caridad Pérez González",
+        "ocupacion": "Presidente de la Cooperativa de Producción Agropecuaria “Pedro Lantigua Ortega”",
+        "edad": "51",
+        "votos_validos": "79.02",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Trinidad",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/osdany-de-la-caridad-perez-gonzalez.png"
+    },
+    {
+        "nombre": "Rosa Miriam Elizalde Zorrilla",
+        "ocupacion": "Vicepresidenta primera de la UPEC",
+        "edad": "56",
+        "votos_validos": "81.07",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Trinidad",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rosa-Miriam-Elizalde-Zorrilla.png"
+    },
+    {
+        "nombre": "Bárbara de los Milagros Mínguez Amézaga",
+        "ocupacion": "Vicepresidenta de la Asamblea Municipal del Poder Popular de Sancti Spíritus",
+        "edad": "46",
+        "votos_validos": "77.75",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Sancti Spíritus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Barbara-de-los-Milagros-Minguez-Amezaga.png"
+    },
+    {
+        "nombre": "Luis Enrique Llópiz Rosabal",
+        "ocupacion": "Especialista “C” de Calidad en Unidad Empresarial de Base Frutas Selectas",
+        "edad": "35",
+        "votos_validos": "81.56",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Sancti Spíritus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Enrique-Llopiz-Rosabal.png"
+    },
+    {
+        "nombre": "Andy González Santana",
+        "ocupacion": "Cirujano Maxilofacial, Hospital Provincial \"Camilo Cienfuegos\"",
+        "edad": "38",
+        "votos_validos": "92.33",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Sancti Spíritus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Andy-Gonzalez-Santana.png"
+    },
+    {
+        "nombre": "Ailyn Febles Estrada",
+        "ocupacion": "Presidenta de la Unión de Informáticos de Cuba",
+        "edad": "48",
+        "votos_validos": "81.66",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Sancti Spíritus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ailyn-Febles-Estrada.png"
+    },
+    {
+        "nombre": "Alexis Lorente Jiménez",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular de Sancti Spíritus",
+        "edad": "49",
+        "votos_validos": "85.06",
+        "provincia": "Sancti Spíritus",
+        "municipio": "Sancti Spíritus",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alexis-Lorente-Jimenez.png"
+    },
+    {
+        "nombre": "Yilian Díaz Meneses",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular en La Sierpe",
+        "edad": "36",
+        "votos_validos": "88.22",
+        "provincia": "Sancti Spíritus",
+        "municipio": "La Sierpe",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yilian-Diaz-Meneses.png"
+    },
+    {
+        "nombre": "Jorge Luis Aneiros Alonso",
+        "ocupacion": "Director de la Oficina de Asuntos Históricos de la Presidencia de la República de Cuba y Presidente de la Unión de Historiadores de Cuba.",
+        "edad": "62",
+        "votos_validos": "78.78",
+        "provincia": "Sancti Spíritus",
+        "municipio": "La Sierpe",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Luis-Aneiros-Alonso.png"
+    },
+    {
+        "nombre": "Kenia Santilé Delgado",
+        "ocupacion": "Directora en la Unidad Empresarial de Base \"Canteras\"",
+        "edad": "44",
+        "votos_validos": "87.3",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Chambas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Kenia-Santile-Delgado.png"
+    },
+    {
+        "nombre": "Indira Milagros Fajardo Ramírez",
+        "ocupacion": "Presidenta del Instituto Cubano de la Música",
+        "edad": "35",
+        "votos_validos": "91.36",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Chambas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Indira-Milagros-Fajardo-Ramirez.png"
+    },
+    {
+        "nombre": "Mayelín Luis Pérez",
+        "ocupacion": "Ama de llaves. Hotel “Sol Cayo Coco”",
+        "edad": "47",
+        "votos_validos": "71",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Morón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mayelin-Luis-Perez.png"
+    },
+    {
+        "nombre": "Arnaldo Rodríguez Romero",
+        "ocupacion": "Músico y director de la orquesta Arnaldo y su Talismán.",
+        "edad": "48",
+        "votos_validos": "86.9",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Morón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Arnaldo-Rodriguez-Romero.png"
+    },
+    {
+        "nombre": "Cheyla Pérez Machado",
+        "ocupacion": "Directora de la Escuela Primaria \"Juan Fernández Duque\"",
+        "edad": "40",
+        "votos_validos": "86.34",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Bolivia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Cheyla-Perez-Machado.png"
+    },
+    {
+        "nombre": "Edelso Pérez Fleitas",
+        "ocupacion": "Presidente Provincial de la Unión Nacional de Juristas de Cuba",
+        "edad": "48",
+        "votos_validos": "81.76",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Bolivia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Edelso-Perez-Fleitas.png"
+    },
+    {
+        "nombre": "Yudismar Zaldivar Martínez",
+        "ocupacion": "Jefe de Seguridad y Protección de la Cooperativa de Producción Agropecuaria “Paquito González”",
+        "edad": "37",
+        "votos_validos": "89.1",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Primero de Enero",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudismar-Zaldivar-Martinez.png"
+    },
+    {
+        "nombre": "Orlando Concepción González",
+        "ocupacion": "Director de la Compañía “D' Morón Teatro”",
+        "edad": "56",
+        "votos_validos": "90.59",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Primero de Enero",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Orlando-Concepcion-Gonzalez.png"
+    },
+    {
+        "nombre": "Odetty Xiomara Pérez Galindo",
+        "ocupacion": "Directora de la Unidad Empresarial de Base Alimentaria Ciro Redondo",
+        "edad": "51",
+        "votos_validos": "80.77",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciro Redondo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Odetty-Xiomara-Perez-Galindo.png"
+    },
+    {
+        "nombre": "Félix Duarte Ortega",
+        "ocupacion": "Miembro del Secretariado del Comité Central del Partido Comunista de Cuba y Jefe del Departamento Agroalimentario.",
+        "edad": "49",
+        "votos_validos": "88.62",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciro Redondo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Felix-Duarte-Ortega.png"
+    },
+    {
+        "nombre": "Arletty Judith Tosca Abascal",
+        "ocupacion": "Presidenta Consejo Popular Florencia",
+        "edad": "48",
+        "votos_validos": "90.94",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Florencia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Arlettys-Judith-Tosca-Abascal.png"
+    },
+    {
+        "nombre": "Reina de la Caridad Torres Pérez",
+        "ocupacion": "Jefa del Departamento de Información y Comunicación Social en el Gobierno Provincial",
+        "edad": "48",
+        "votos_validos": "89.41",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Florencia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Reina-de-la-Caridad-Torres-Perez.png"
+    },
+    {
+        "nombre": "Humberto Fleitas Portal",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular en Majagua",
+        "edad": "53",
+        "votos_validos": "82.58",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Majagua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/humberto-fleitas-portal.png"
+    },
+    {
+        "nombre": "Alberto Moronta Enrique",
+        "ocupacion": "Director del Hospital Provincial \"Antonio Luaces Iraola\" en Ciego de Ávila",
+        "edad": "32",
+        "votos_validos": "83.37",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Majagua",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alberto-Moronta-Enrique.png"
+    },
+    {
+        "nombre": "Greter Tabio Patys",
+        "ocupacion": "Especialista en Gestión de Recursos Humanos en el Hotel “Meliá Jardines del Rey”",
+        "edad": "44",
+        "votos_validos": "83.06",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciego de Ávila",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Greter-Tabio-Patys.png"
+    },
+    {
+        "nombre": "Viviana Martínez Cárdenas",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular de Ciego de Ávila.",
+        "edad": "53",
+        "votos_validos": "90.1",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciego de Ávila",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Viviana-Martinez-Cardenas.png"
+    },
+    {
+        "nombre": "Liván Izquierdo Alonso",
+        "ocupacion": "Primer Secretario Comité Provincial del Partido en Ciego de Ávila",
+        "edad": "55",
+        "votos_validos": "85.28",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciego de Ávila",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Livan-Izquierdo-Alonso.png"
+    },
+    {
+        "nombre": "Alfre Menéndez Pérez",
+        "ocupacion": "Director General de la Empresa Constructora de Obras para el Turismo “Cayo Coco”",
+        "edad": "41",
+        "votos_validos": "79.98",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciego de Ávila",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alfre-Menendez-Perez.png"
+    },
+    {
+        "nombre": "Jorge Luis Perdomo Di-Lella",
+        "ocupacion": "Vice primer ministro",
+        "edad": "52",
+        "votos_validos": "82.72",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Ciego de Ávila",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Luis-Perdomo-Di-Lella.png"
+    },
+    {
+        "nombre": "Arianna Isasi Barrizonte",
+        "ocupacion": "Directora, Dirección Municipal de Educación",
+        "edad": "48",
+        "votos_validos": "90.42",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Venezuela",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Arianna-Isasi-Barrizonte.png"
+    },
+    {
+        "nombre": "Santa Massiel Rueda Moreno",
+        "ocupacion": "Presidenta de la Asociación Hermanos Saíz en Ciego de Ávila.",
+        "edad": "33",
+        "votos_validos": "77.08",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Venezuela",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Santa-Massiel-Rueda-Moreno.png"
+    },
+    {
+        "nombre": "Lurdes Milagros Layne Valdes",
+        "ocupacion": "Subdirectora General en la Dirección Municipal de Educación",
+        "edad": "48",
+        "votos_validos": "87.35",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Baraguá",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/lurdes-milagros-layne-valdes.png"
+    },
+    {
+        "nombre": "José Carlos Cruz Sandoval",
+        "ocupacion": "Director General en la Dirección Nacional Joven Club de Computación",
+        "edad": "32",
+        "votos_validos": "83.55",
+        "provincia": "Ciego de Ávila",
+        "municipio": "Baraguá",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/jose-carlos-cruz-sandoval-1.png"
+    },
+    {
+        "nombre": "Gastón Idel Martínez Pérez",
+        "ocupacion": "Médico Ginecobstetra Policlínico “Tomás Rojas”",
+        "edad": "59",
+        "votos_validos": "97.54",
+        "provincia": "Camagüey",
+        "municipio": "Carlos M. Céspedes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gaston-Idel-Martinez-Perez.png"
+    },
+    {
+        "nombre": "Alberto Eduardo Núñez Betancourt",
+        "ocupacion": "Director del Periódico \"Trabajadores\"",
+        "edad": "59",
+        "votos_validos": "76.83",
+        "provincia": "Camagüey",
+        "municipio": "Carlos M. Céspedes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alberto-Eduardo-Nunez-Betancourt.png"
+    },
+    {
+        "nombre": "Regino Ávila Ávila",
+        "ocupacion": "Director de Planificación Física.",
+        "edad": "35",
+        "votos_validos": "87.98",
+        "provincia": "Camagüey",
+        "municipio": "Esmeralda",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Regino-Avila-Avila.png"
+    },
+    {
+        "nombre": "Pablo Fernández Martínez",
+        "ocupacion": "Director General Empresa Constructora de Obras para el Turismo Camaguey.",
+        "edad": "40",
+        "votos_validos": "85.37",
+        "provincia": "Camagüey",
+        "municipio": "Esmeralda",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Pablo-Fernandez-Martinez.png"
+    },
+    {
+        "nombre": "Lurdelis Cárdenas Jiménez",
+        "ocupacion": "Presidenta del consejo popular “Cubitas”",
+        "edad": "36",
+        "votos_validos": "89.36",
+        "provincia": "Camagüey",
+        "municipio": "Sierra de Cubita",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lurdelis-Cardenas-Jimenez.png"
+    },
+    {
+        "nombre": "Julio Cesar García Rodríguez",
+        "ocupacion": "Jefe Oficina de Atención a la UJC, Organizaciones de Masas, Órganos del Estado y Sector Jurídico del Comité Central del Partido",
+        "edad": "55",
+        "votos_validos": "85.24",
+        "provincia": "Camagüey",
+        "municipio": "Sierra de Cubita",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/julio-cesar-garcia-rodriguez.png"
+    },
+    {
+        "nombre": "Niurka Calzada Cleto",
+        "ocupacion": "Presidenta consejo popular “ Minas II”",
+        "edad": "50",
+        "votos_validos": "89.83",
+        "provincia": "Camagüey",
+        "municipio": "Minas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Niurka-Calzada-Cleto.png"
+    },
+    {
+        "nombre": "Aylin Nordelo Valdivia",
+        "ocupacion": "Jefa del Departamento de Investigaciones del Centro de Ingeniería, Genética y Biotecnología. (CIGB)",
+        "edad": "37",
+        "votos_validos": "82.32",
+        "provincia": "Camagüey",
+        "municipio": "Minas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Aylin-Nordelo-Valdivia.png"
+    },
+    {
+        "nombre": "Clara Isabel Delgado Gamboa",
+        "ocupacion": "Especialista de Trabajo, Dirección Municipal de Trabajo",
+        "edad": "33",
+        "votos_validos": "92.19",
+        "provincia": "Camagüey",
+        "municipio": "Nuevitas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Clara-Isabel-Delgado-Gamboa.png"
+    },
+    {
+        "nombre": "Lilia María Hernández Doejo",
+        "ocupacion": "Presidenta de la Junta Directiva Nacional de la Organización Nacional de Bufetes Colectivos.",
+        "edad": "57",
+        "votos_validos": "81.62",
+        "provincia": "Camagüey",
+        "municipio": "Nuevitas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lilia-Maria-Hernandez-Doejo.png"
+    },
+    {
+        "nombre": "Rodney René Socarrás Bueno",
+        "ocupacion": "Vicepresidente de la AMPP de Guáimaro",
+        "edad": "44",
+        "votos_validos": "82.59",
+        "provincia": "Camagüey",
+        "municipio": "Guáimaro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rodney-Rene-Socarras-Bueno.png"
+    },
+    {
+        "nombre": "Laura Marian Bacallao Padrón",
+        "ocupacion": "Estudiante de Periodismo. Presidenta de la FEU de la Universidad de Camaguey.",
+        "edad": "22",
+        "votos_validos": "87.87",
+        "provincia": "Camagüey",
+        "municipio": "Guáimaro",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Laura-Maria-Leon-Delgado.png"
+    },
+    {
+        "nombre": "Aleisey Carmenates Llanes",
+        "ocupacion": "Presidente de la UBPC \"El Entronque\"",
+        "edad": "50",
+        "votos_validos": "90.88",
+        "provincia": "Camagüey",
+        "municipio": "Sibanicú",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Aleisey-Carmenates-LLanes.png"
+    },
+    {
+        "nombre": "Miriam Sotomayor Cedeño",
+        "ocupacion": "Directora Hospital Clínico Docente \"Manuel Ascunce Domenech\"",
+        "edad": "52",
+        "votos_validos": "77.05",
+        "provincia": "Camagüey",
+        "municipio": "Sibanicú",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Miriam-Sotomayor-Cedeno.png"
+    },
+    {
+        "nombre": "Dayana Figueredo Stewart",
+        "ocupacion": "Jefe del Departamento de Atención a Estudiante Internacionales, Universidad de Camagüey",
+        "edad": "39",
+        "votos_validos": "90.82",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dayana-Figueredo-Stewart.png"
+    },
+    {
+        "nombre": "Zoila Esmérida Estable González",
+        "ocupacion": "Presidenta del consejo popular Agramonte-Simoni",
+        "edad": "45",
+        "votos_validos": "90.4",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Zoila-Esmerida-Estable-Gonzalez.png"
+    },
+    {
+        "nombre": "Norquis Mercedes Caballero Rojas",
+        "ocupacion": "Presidenta consejo popular “Altagracia”",
+        "edad": "49",
+        "votos_validos": "89.9",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Norquis-Mercedes-Caballero-Rojas.png"
+    },
+    {
+        "nombre": "Juan Carlos Álvarez Regueiro",
+        "ocupacion": "Policía de Inmigración y Extranjería",
+        "edad": "29",
+        "votos_validos": "85.51",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Juan-Carlos-Alvarez-Regueiro.png"
+    },
+    {
+        "nombre": "Dixamy Rodríguez Gómez",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular de Camagüey",
+        "edad": "38",
+        "votos_validos": "62.02",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dixamy-Rodriguez-Gomez.png"
+    },
+    {
+        "nombre": "Federico Hernández Hernández",
+        "ocupacion": "Primer Secretario en el Comité Provincial del Partido en Camagüey",
+        "edad": "53",
+        "votos_validos": "61.52",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/federico-hernandez-hernandez.jpg"
+    },
+    {
+        "nombre": "Regina María Balaguer Sánchez",
+        "ocupacion": "Directora General del Ballet de Camagüey",
+        "edad": "63",
+        "votos_validos": "82.58",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Regina-Maria-Balaguer-Sanchez.png"
+    },
+    {
+        "nombre": "Daicar Saladrigas González",
+        "ocupacion": "Directora del Periódico Adelante",
+        "edad": "41",
+        "votos_validos": "78.45",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Daicar-Saladrigas-Gonzalez.png"
+    },
+    {
+        "nombre": "Jorge Luis Tapia Fonseca",
+        "ocupacion": "Vice primer ministro",
+        "edad": "59",
+        "votos_validos": "91.79",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Luis-Tapia-Fonseca.png"
+    },
+    {
+        "nombre": "Joel Queipo Ruíz",
+        "ocupacion": "Miembro del Secretariado del Comité Central del Partido Comunista de Cuba y jefe de su Departamento Económico y Productivo",
+        "edad": "51",
+        "votos_validos": "79.76",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Joel-Queipo-Ruiz.png"
+    },
+    {
+        "nombre": "Eulogio Pimentel Vázquez",
+        "ocupacion": "Vicepresidente de la OSDE-BioCubaFarma",
+        "edad": "54",
+        "votos_validos": "81.27",
+        "provincia": "Camagüey",
+        "municipio": "Camagüey",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eulogio-Pimentel-Vazquez.png"
+    },
+    {
+        "nombre": "Ainelis Herrera Molina",
+        "ocupacion": "Médico Veterinaria, UEB Veterinaria, Florida",
+        "edad": "30",
+        "votos_validos": "86.52",
+        "provincia": "Camagüey",
+        "municipio": "Florida",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ainelis-Herrera-Molina.png"
+    },
+    {
+        "nombre": "Roberto Alejandro Carrazana Carballo",
+        "ocupacion": "Estudiante de Medicina y Presidente de la FEU en la Universidad de Ciencias Médicas de Camagüey.",
+        "edad": "23",
+        "votos_validos": "88.33",
+        "provincia": "Camagüey",
+        "municipio": "Florida",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/roberto-alejandro-carrazana-carballo.png"
+    },
+    {
+        "nombre": "Rolando Santana Corrales",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular de Vertientes",
+        "edad": "39",
+        "votos_validos": "83.47",
+        "provincia": "Camagüey",
+        "municipio": "Vertientes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rolando-Santana-Corrales.png"
+    },
+    {
+        "nombre": "Yunior Muñoz Manso",
+        "ocupacion": "Jefe de Departamento Provincial de Sanidad Vegetal en la Delegación del Ministerio de la Agricultura",
+        "edad": "27",
+        "votos_validos": "89.33",
+        "provincia": "Camagüey",
+        "municipio": "Vertientes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yunior-Munoz-Manso.png"
+    },
+    {
+        "nombre": "Marbelys Ávila Polo",
+        "ocupacion": "Directora del Seminternado “Tamara Bunke”",
+        "edad": "48",
+        "votos_validos": "93.01",
+        "provincia": "Camagüey",
+        "municipio": "Jimaguayú",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marbelys-Avila-Polo.png"
+    },
+    {
+        "nombre": "Jorge Enrique Sutil Sarabia",
+        "ocupacion": "Coordinador de Programas y Tareas de la Esfera Social en el Gobierno Provincial del Poder Popular de Camagüey",
+        "edad": "46",
+        "votos_validos": "80.5",
+        "provincia": "Camagüey",
+        "municipio": "Jimaguayú",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Enrique-Sutil-Sarabia.png"
+    },
+    {
+        "nombre": "Yudit Rojas Peña",
+        "ocupacion": "Presidenta de la Asamblea Municipal del Poder Popular  de Najasa",
+        "edad": "39",
+        "votos_validos": "90.46",
+        "provincia": "Camagüey",
+        "municipio": "Najasa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudit-Rojas-Pena.png"
+    },
+    {
+        "nombre": "Elba Martínez Amador",
+        "ocupacion": "Jefa de la Dirección Jurídica de la Secretaría del Consejo de Ministros",
+        "edad": "60",
+        "votos_validos": "86.01",
+        "provincia": "Camagüey",
+        "municipio": "Najasa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elba-Martinez-Amador-.png"
+    },
+    {
+        "nombre": "Yudelkis Centeno Denis",
+        "ocupacion": "Directora de la Escuela Instituto Politécnico Agropecuario IPA “José Fonseca Bolívar”.",
+        "edad": "45",
+        "votos_validos": "82.8",
+        "provincia": "Camagüey",
+        "municipio": "Santa Cruz del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yudelkis-Centeno-Denis.png"
+    },
+    {
+        "nombre": "Julio César La Cruz Peraza",
+        "ocupacion": "Atleta de alto rendimiento, Boxeo",
+        "edad": "33",
+        "votos_validos": "88.02",
+        "provincia": "Camagüey",
+        "municipio": "Santa Cruz del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Julio-Cesar-La-Cruz-Peraza.png"
+    },
+    {
+        "nombre": "Katia Arango Amado",
+        "ocupacion": "Presidenta Consejo Popular, \"La Guinea\"",
+        "edad": "47",
+        "votos_validos": "93.84",
+        "provincia": "Las Tunas",
+        "municipio": "Manatí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Katia-Arango-Amador.png"
+    },
+    {
+        "nombre": "Darlenis Urquiola Guerrero",
+        "ocupacion": "Directora Provincial de Cultura",
+        "edad": "36",
+        "votos_validos": "80.84",
+        "provincia": "Las Tunas",
+        "municipio": "Manatí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Darlenis-Urquiola-Guerrero.png"
+    },
+    {
+        "nombre": "Yanet Isabel Solorzano Hamilton",
+        "ocupacion": "Profesora, Instituto Politécnico Industrial, \"Oscar Alberto Ortega\"",
+        "edad": "38",
+        "votos_validos": "86.39",
+        "provincia": "Las Tunas",
+        "municipio": "Puerto Padre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanet-Isabel-Solorzano-Hamilton.png"
+    },
+    {
+        "nombre": "Leidys María Labrador Herrera",
+        "ocupacion": "Periodista, corresponsal del Periódico Granma en Las Tunas",
+        "edad": "33",
+        "votos_validos": "87.24",
+        "provincia": "Las Tunas",
+        "municipio": "Puerto Padre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leidys-Maria-Labrador-Herrera.png"
+    },
+    {
+        "nombre": "Teresa María Amarelle Boué",
+        "ocupacion": "Secretaria General de la Federación de Mujeres Cubanas",
+        "edad": "59",
+        "votos_validos": "88.63",
+        "provincia": "Las Tunas",
+        "municipio": "Puerto Padre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Teresa-Maria-Amerelle-Boue.png"
+    },
+    {
+        "nombre": "Yunet Diéguez González",
+        "ocupacion": "Profesora de Química del IPA Cap. \"Orlando Pantoja Tamayo\"",
+        "edad": "37",
+        "votos_validos": "95.68",
+        "provincia": "Las Tunas",
+        "municipio": "Jesús Menéndez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yunet-Dieguez-Gonzalez.png"
+    },
+    {
+        "nombre": "Eraldo González Arias",
+        "ocupacion": "Director Empresa Acinox Las Tunas",
+        "edad": "56",
+        "votos_validos": "87.5",
+        "provincia": "Las Tunas",
+        "municipio": "Jesús Menéndez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eraldo-Gonzalez-Arias.png"
+    },
+    {
+        "nombre": "Yurisbel Gonzales Torres",
+        "ocupacion": "Subdirectora Municipal de Educación",
+        "edad": "36",
+        "votos_validos": "89.71",
+        "provincia": "Las Tunas",
+        "municipio": "Majibacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yurisbel-Gonzalez-Torres.png"
+    },
+    {
+        "nombre": "Jaime Ernesto Chiang Vega",
+        "ocupacion": "Gobernador de Las Tunas",
+        "edad": "56",
+        "votos_validos": "84.83",
+        "provincia": "Las Tunas",
+        "municipio": "Majibacoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/jaime-ernesto-chiang-vega.png"
+    },
+    {
+        "nombre": "Arianna Cruz Pérez",
+        "ocupacion": "Funcionaria Municipal en la Federación de Mujeres Cubanas",
+        "edad": "37",
+        "votos_validos": "89.64",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ariadna-Cruz-Perez.png"
+    },
+    {
+        "nombre": "Yurisel Rafael Miguel Cruz",
+        "ocupacion": "Director Municipal de Salud",
+        "edad": "35",
+        "votos_validos": "85.16",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yurisel-Rafael-Miguel-Cruz.png"
+    },
+    {
+        "nombre": "Juana Yamilka Viñals Suárez",
+        "ocupacion": "Presidenta AMPP en Las Tunas",
+        "edad": "50",
+        "votos_validos": "89.46",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Juana-Yamilka-Vinals-Suarez.png"
+    },
+    {
+        "nombre": "Manuel René Pérez Gallego",
+        "ocupacion": "Primer Secretario del Comité Provincial del Partido en Las Tunas",
+        "edad": "52",
+        "votos_validos": "79.82",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Manuel-Rene-Perez-Gallego.png"
+    },
+    {
+        "nombre": "Marianela Zapata Romero",
+        "ocupacion": "Directora del Hospital Provincial \"Ernesto Guevara de la Serna\"",
+        "edad": "45",
+        "votos_validos": "83.04",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marianela-Zapata-Romero.png"
+    },
+    {
+        "nombre": "José Miguel Gómez Del Vallín",
+        "ocupacion": "Jefe de la Jefatura de la Contrainteligencia Militar del MINFAR",
+        "edad": "62",
+        "votos_validos": "85.77",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/jose-miguel-gomez-del-vallin.png"
+    },
+    {
+        "nombre": "Félix Martínez Suárez",
+        "ocupacion": "Presidente de la Comisión de Asuntos Económicos de la Asamblea Nacional del Poder Popular.",
+        "edad": "68",
+        "votos_validos": "88.06",
+        "provincia": "Las Tunas",
+        "municipio": "Las Tunas",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Felix-Martinez-Suarez.png"
+    },
+    {
+        "nombre": "Yoenia Sandra Santiesteban Figueredo",
+        "ocupacion": "Miembro de Secretariado CTC Municipal",
+        "edad": "42",
+        "votos_validos": "89.67",
+        "provincia": "Las Tunas",
+        "municipio": "Jobabo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoenia-Sandra-Santiesteban-Figueredo.png"
+    },
+    {
+        "nombre": "Antonio García González",
+        "ocupacion": "Director General de la Empresa Industria Cubana del Mueble, DUJO.",
+        "edad": "54",
+        "votos_validos": "87.74",
+        "provincia": "Las Tunas",
+        "municipio": "Jobabo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Antonio-Garcia-Gonzalez.png"
+    },
+    {
+        "nombre": "Alain Rodríguez Hernández",
+        "ocupacion": "Director Municipal de Finanzas y Precios",
+        "edad": "32",
+        "votos_validos": "86.04",
+        "provincia": "Las Tunas",
+        "municipio": "Colombia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alain-Rodriguez-Hernandez.png"
+    },
+    {
+        "nombre": "Yoenia Virgen Barbán Sarduy",
+        "ocupacion": "Rectora de la Universidad Las Tunas",
+        "edad": "44",
+        "votos_validos": "84.65",
+        "provincia": "Las Tunas",
+        "municipio": "Colombia",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoenia-Virgen-Barban-Sarduy.png"
+    },
+    {
+        "nombre": "Wilfredo Estrada Treco",
+        "ocupacion": "Director de la Empresa Agroindustrial Azucarera Amancio Rodríguez",
+        "edad": "43",
+        "votos_validos": "87.86",
+        "provincia": "Las Tunas",
+        "municipio": "Amancio",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Wilfredo-Estrada-Treco.png"
+    },
+    {
+        "nombre": "Teresa González Barea",
+        "ocupacion": "Vicepresidenta de la Comisión de Asuntos Económicos de la Asamblea Nacional del Poder Popular.",
+        "edad": "55",
+        "votos_validos": "82.4",
+        "provincia": "Las Tunas",
+        "municipio": "Amancio",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/teresa-gonzalez-barea.png"
+    },
+    {
+        "nombre": "Sonia Adelaida Chacón Fernández",
+        "ocupacion": "Vicepresidenta de la Asamblea Municipal del Poder Popular",
+        "edad": "50",
+        "votos_validos": "74.15",
+        "provincia": "Holguín",
+        "municipio": "Gibara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sonia-Adelaida-Chacon-Fernandez.png"
+    },
+    {
+        "nombre": "Manuel Marrero Cruz",
+        "ocupacion": "Primer Ministro de la República",
+        "edad": "59",
+        "votos_validos": "94.91",
+        "provincia": "Holguín",
+        "municipio": "Gibara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/manuel-marrero-cruz.png"
+    },
+    {
+        "nombre": "Ricardo Rigel Tejeda",
+        "ocupacion": "Jefe del Ejército Oriental",
+        "edad": "59",
+        "votos_validos": "86.48",
+        "provincia": "Holguín",
+        "municipio": "Rafael Freyre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ricardo-Rigel-Tejeda.png"
+    },
+    {
+        "nombre": "Yurisán Fernández Verdecie",
+        "ocupacion": "Coordinador de Segundo Ciclo de la Enseñanza primaria en el consejo popular “Altuna”",
+        "edad": "41",
+        "votos_validos": "93.66",
+        "provincia": "Holguín",
+        "municipio": "Rafael Freyre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yurisan-Fernandez-Verdecie.png"
+    },
+    {
+        "nombre": "Oleidy Emilio Silva Pérez",
+        "ocupacion": "Campesino de la CCS \"Tony Alomá\"",
+        "edad": "44",
+        "votos_validos": "75.75",
+        "provincia": "Holguín",
+        "municipio": "Banes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Oleydi-Emilio-Silva-Perez.png"
+    },
+    {
+        "nombre": "Alejandro Torres Gómez de Cádiz Hernández",
+        "ocupacion": "Delegado del CITMA",
+        "edad": "53",
+        "votos_validos": "73.83",
+        "provincia": "Holguín",
+        "municipio": "Banes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alejandro-Torres-Gomez-De-Cadiz-Hernandez.png"
+    },
+    {
+        "nombre": "Inés María Chapman Waugh",
+        "ocupacion": "Vice primera ministra",
+        "edad": "57",
+        "votos_validos": "94.13",
+        "provincia": "Holguín",
+        "municipio": "Banes",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ines-Maria-Chapman-Waugh.png"
+    },
+    {
+        "nombre": "Yovannys Manzanet Flores",
+        "ocupacion": "Jefe del Departamento de Actividades Deportivas en la Dirección Municipal del INDER.",
+        "edad": "48",
+        "votos_validos": "85.41",
+        "provincia": "Holguín",
+        "municipio": "Antilla",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yovannys-Mazanet-Flores.png"
+    },
+    {
+        "nombre": "Yanisleidys Martínez Peña",
+        "ocupacion": "Directora Periódico \"Ahora\"",
+        "edad": "33",
+        "votos_validos": "86.34",
+        "provincia": "Holguín",
+        "municipio": "Antilla",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanisleidys-Martinez-Pena.png"
+    },
+    {
+        "nombre": "Leticia Toledo Hernández",
+        "ocupacion": "Subdirectora de la Dirección Municipal de Salud",
+        "edad": "46",
+        "votos_validos": "92.45",
+        "provincia": "Holguín",
+        "municipio": "Báguanos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leticia-Toledo-Hernandez.png"
+    },
+    {
+        "nombre": "Roberto Alejandro García Reyes",
+        "ocupacion": "Jefe del Departamento Provincial de Suelo y Fertilizantes del Ministerio de la Agricultura",
+        "edad": "27",
+        "votos_validos": "83.54",
+        "provincia": "Holguín",
+        "municipio": "Báguanos",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Roberto-Alejandro-Garcia-Reyes.png"
+    },
+    {
+        "nombre": "Tania Castro Proenza",
+        "ocupacion": "Jefa del Departamento de Organización y Control de la Oficina Territorial de Normalización.(OTN)",
+        "edad": "51",
+        "votos_validos": "87.34",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Tania-Castro-Proenza.png"
+    },
+    {
+        "nombre": "Ricardo Antonio Suárez Martínez",
+        "ocupacion": "Presidente de la Asamblea Municipal del Poder Popular en Holguín.",
+        "edad": "49",
+        "votos_validos": "78.71",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ricardo-Antonio-Suarez-Martinez.png"
+    },
+    {
+        "nombre": "Rosilema Rodríguez Sánchez",
+        "ocupacion": "Profesora Escuela Pedagógica José Martí",
+        "edad": "39",
+        "votos_validos": "89.92",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rosilema-Rodriguez-Sanchez.png"
+    },
+    {
+        "nombre": "Rubén Darío Mora Fernández",
+        "ocupacion": "Vicedirector de Investigación y Postgrado de la Escuela Provincial del Partido “Pedro Díaz Coello”",
+        "edad": "43",
+        "votos_validos": "80.58",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ruben-Dario-Mora-Fernandez.png"
+    },
+    {
+        "nombre": "Milton González del Monte",
+        "ocupacion": "Presidente de la CCS \"Sergio González\"",
+        "edad": "44",
+        "votos_validos": "89.69",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Milton-Jose-Gonzalez-Del-Monte.png"
+    },
+    {
+        "nombre": "Maikel Hernández Pupo",
+        "ocupacion": "Presidente de Consejo Popular \"Centro Ciudad Norte\"",
+        "edad": "40",
+        "votos_validos": "87.1",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Maikel-Hernandez-Pupo.png"
+    },
+    {
+        "nombre": "Yanet Pupo Estupiñán",
+        "ocupacion": "Especialista de la Unidad de Cuidados Intensivos del Hospital Pediátrico “Octavio de la Concepción y de la Pedraja”",
+        "edad": "27",
+        "votos_validos": "90.78",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanet-Pupo-Estupinan.png"
+    },
+    {
+        "nombre": "Daisy Bárbara López Sao",
+        "ocupacion": "Directora General de la Empresa Provincial de Servicios Legales",
+        "edad": "33",
+        "votos_validos": "82.19",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Daysi-Barbara-Lopez-Sao.png"
+    },
+    {
+        "nombre": "Ernesto Santiesteban Velázquez",
+        "ocupacion": "Primer Secretario del Comité Provincial del Partido en Holguín",
+        "edad": "57",
+        "votos_validos": "81.3",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ernesto-Santiesteban-Velazquez.png"
+    },
+    {
+        "nombre": "Ramón Espinosa Martín",
+        "ocupacion": "General de Cuerpo de Ejército. Viceministro Primero de las Fuerzas Armadas Revolucionarias. Miembro del Buró Político y del Comité Central del Partido.",
+        "edad": "84",
+        "votos_validos": "92.15",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ramon-Espinosa-Martin.png"
+    },
+    {
+        "nombre": "Rogelio Polanco Fuentes",
+        "ocupacion": "Miembro del Secretariado del Comité Central del Partido Comunista de Cuba y jefe de su Departamento Ideológico.",
+        "edad": "57",
+        "votos_validos": "85.58",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rogelio-Polanco-Fuentes.png"
+    },
+    {
+        "nombre": "George Américo Batista Pérez",
+        "ocupacion": "Secretario General del Sindicato Nacional de Trabajadores de Energía y Minas",
+        "edad": "52",
+        "votos_validos": "83.84",
+        "provincia": "Holguín",
+        "municipio": "Holguín",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/George-Americo-Batista-Perez.png"
+    },
+    {
+        "nombre": "Omara Velázquez Carralero",
+        "ocupacion": "Presidenta de la Cooperativa de Créditos y Servicios “Cristino Naranjo”",
+        "edad": "53",
+        "votos_validos": "88.01",
+        "provincia": "Holguín",
+        "municipio": "Calixto García",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Omara-Velazquez-Carralero.png"
+    },
+    {
+        "nombre": "Damara Calzadilla Meriño",
+        "ocupacion": "Directora del Centro Meteorológico Provincial",
+        "edad": "50",
+        "votos_validos": "90.44",
+        "provincia": "Holguín",
+        "municipio": "Calixto García",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Damara-Calzadilla-Merino.png"
+    },
+    {
+        "nombre": "Mariela Cruz Herrera",
+        "ocupacion": "Presidenta AMPP en Cacocum",
+        "edad": "51",
+        "votos_validos": "81.72",
+        "provincia": "Holguín",
+        "municipio": "Cacocum",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mariela-Cruz-Herrera.png"
+    },
+    {
+        "nombre": "Manuel Francisco Hernández Aguilera",
+        "ocupacion": "Jefe del Departamento de Retorno de Activo en la Empresa Mixta Bucanero S.A.",
+        "edad": "58",
+        "votos_validos": "82.43",
+        "provincia": "Holguín",
+        "municipio": "Cacocum",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Manuel-Francisco-Hernandez-Aguilera.png"
+    },
+    {
+        "nombre": "Yenis Viset Alvarez",
+        "ocupacion": "Metodóloga en Atención a Atletas y Formación Educativa",
+        "edad": "45",
+        "votos_validos": "84.22",
+        "provincia": "Holguín",
+        "municipio": "Urbano Noris",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yenis-Viset-Alvarez.png"
+    },
+    {
+        "nombre": "Julio Yamel Verdecia Reyes",
+        "ocupacion": "Director Provincial de Salud",
+        "edad": "49",
+        "votos_validos": "82.56",
+        "provincia": "Holguín",
+        "municipio": "Urbano Noris",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Julio-Yamel-Verdecia-Reyes.png"
+    },
+    {
+        "nombre": "Elba Rosa Vargas Atencio",
+        "ocupacion": "Económica en la Cooperativa de Créditos y Servicios “17 de mayo”",
+        "edad": "35",
+        "votos_validos": "88.87",
+        "provincia": "Holguín",
+        "municipio": "Cueto",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elba-Rosa-Vargas-Atencio.png"
+    },
+    {
+        "nombre": "Frank Raúl Arechavaleta Pérez",
+        "ocupacion": "Director Comercial de la Empresa de Implementos Agrícolas “Héroes del 26 de Julio”",
+        "edad": "37",
+        "votos_validos": "82.64",
+        "provincia": "Holguín",
+        "municipio": "Cueto",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Frank-Raul-Arrechavaleta-Perez.png"
+    },
+    {
+        "nombre": "Rosalba Quiala Menéndez",
+        "ocupacion": "Directora de la Biblioteca Municipal de Mayarí",
+        "edad": "37",
+        "votos_validos": "91.53",
+        "provincia": "Holguín",
+        "municipio": "Mayarí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rosalba-Quiala-Menendez.png"
+    },
+    {
+        "nombre": "Eudelio Ricardo Mondeja",
+        "ocupacion": "Director General de la Empresa de Servicios Ingenieros. Dirección Integrada de Proyectos Trasvase",
+        "edad": "49",
+        "votos_validos": "83.1",
+        "provincia": "Holguín",
+        "municipio": "Mayarí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eudelio-Ricardo-Mondeja.png"
+    },
+    {
+        "nombre": "Rafael Ramón Santiesteban Pozo",
+        "ocupacion": "Presidente de la Asociación Nacional de Agricultores Pequeños-ANAP",
+        "edad": "53",
+        "votos_validos": "82.02",
+        "provincia": "Holguín",
+        "municipio": "Mayarí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rafael-Ramon-Santiesteban-Pozo.png"
+    },
+    {
+        "nombre": "Yanileydi Peña Olivero",
+        "ocupacion": "Metodóloga de Enseñanza Primaria. Dirección Municipal de Educación.",
+        "edad": "36",
+        "votos_validos": "93.6",
+        "provincia": "Holguín",
+        "municipio": "Frank País",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanileydi-Pena-Olivero.png"
+    },
+    {
+        "nombre": "Luis Clodoaldo Velázquez Pérez",
+        "ocupacion": "Presidente Academia de Ciencia de Cuba",
+        "edad": "59",
+        "votos_validos": "87.37",
+        "provincia": "Holguín",
+        "municipio": "Frank País",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Clodoaldo-Velazquez-Perez.png"
+    },
+    {
+        "nombre": "Anislay Leyva Peña",
+        "ocupacion": "Directora Unidad Docente \"Carlos Manuel de Céspedes\"",
+        "edad": "38",
+        "votos_validos": "91.59",
+        "provincia": "Holguín",
+        "municipio": "Sagua de Tánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Anislay-Leyva-Pena.png"
+    },
+    {
+        "nombre": "Yusuam Palacios Ortega",
+        "ocupacion": "Director del Museo “Fragua Martiana”",
+        "edad": "36",
+        "votos_validos": "88.1",
+        "provincia": "Holguín",
+        "municipio": "Sagua de Tánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yusuam-Palacios-Ortega.png"
+    },
+    {
+        "nombre": "Alexei Martínez Mora",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular de Moa",
+        "edad": "43",
+        "votos_validos": "87.55",
+        "provincia": "Holguín",
+        "municipio": "Moa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alexei-Martinez-Mora.png"
+    },
+    {
+        "nombre": "Leonardo René Rosell López",
+        "ocupacion": "Director de Empresa de Níquel \"Comandante Ernesto Che Guevara\"",
+        "edad": "45",
+        "votos_validos": "79.65",
+        "provincia": "Holguín",
+        "municipio": "Moa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leonardo-Rene-Rosell-Lopez.png"
+    },
+    {
+        "nombre": "Norma Lisandra Marcos Beritán",
+        "ocupacion": "Podóloga, Policlínico Docente “Máximo Gómez Báez”, del municipio de Río Cauto",
+        "edad": "33",
+        "votos_validos": "88.54",
+        "provincia": "Granma",
+        "municipio": "Río Cauto",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Norma-Lisandra-Marcos-Beritan.png"
+    },
+    {
+        "nombre": "Ramón Osmani Aguilar Betancourt",
+        "ocupacion": "Presidente Comisión Agroalimentaria de la ANPP",
+        "edad": "50",
+        "votos_validos": "85.34",
+        "provincia": "Granma",
+        "municipio": "Río Cauto",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ramon-Osmani-Aguilar-Betancourt.png"
+    },
+    {
+        "nombre": "Minelvys Gálvez Leyva",
+        "ocupacion": "Jueza Profesional Titular del Tribunal Municipal Popular de Cauto Cristo",
+        "edad": "35",
+        "votos_validos": "94.56",
+        "provincia": "Granma",
+        "municipio": "Cauto Cristo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Minelvys-Galvez-Leyva.png"
+    },
+    {
+        "nombre": "Yanetsy Terry Gutiérrez",
+        "ocupacion": "Vicegobernadora de la provincia Granma",
+        "edad": "46",
+        "votos_validos": "85.76",
+        "provincia": "Granma",
+        "municipio": "Cauto Cristo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanetsy-Terry-Gutierrez.png"
+    },
+    {
+        "nombre": "Osladis Mora Mendoza",
+        "ocupacion": "Profesora de Matemática y Computación. Secundaria Básica \"Julián Soler\"",
+        "edad": "51",
+        "votos_validos": "85.83",
+        "provincia": "Granma",
+        "municipio": "Jiguaní",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osladis-Mora-Mendoza.png"
+    },
+    {
+        "nombre": "Niurka Benitez Guerra",
+        "ocupacion": "Directora de Desarrollo Empresa Laboratorios Farmacéuticos de Líquidos Orales.(MEDILIP)",
+        "edad": "38",
+        "votos_validos": "91.08",
+        "provincia": "Granma",
+        "municipio": "Jiguaní",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Niurka-Benitez-Guerra.png"
+    },
+    {
+        "nombre": "Gabriel Fornaris Cruzata",
+        "ocupacion": "Presidente de la Comisión Permanente de Trabajo de la Asamblea Municipal del Poder Popular de Bayamo",
+        "edad": "35",
+        "votos_validos": "91.66",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Gabriel-Fornaris-Cruzata.png"
+    },
+    {
+        "nombre": "Reydier Bernal Gómez",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular de Bayamo",
+        "edad": "32",
+        "votos_validos": "87.82",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Reydier-Bernal-Gomez.png"
+    },
+    {
+        "nombre": "Leonel Céspedes Tamayo",
+        "ocupacion": "Profesor Universitario, Universidad de Granma",
+        "edad": "41",
+        "votos_validos": "88.52",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leonel-Cespedes-Tamayo.png"
+    },
+    {
+        "nombre": "Ania Yelina Fernández Lara",
+        "ocupacion": "Directora Sucursal de Caracol en Granma",
+        "edad": "28",
+        "votos_validos": "80.75",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ania-Yelina-Fernandez-Lara.png"
+    },
+    {
+        "nombre": "Susel Domínguez Serrano",
+        "ocupacion": "Directora General Sistema de Televisión de Granma",
+        "edad": "36",
+        "votos_validos": "90.87",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Susel-Dominguez-Serrano.png"
+    },
+    {
+        "nombre": "Ivis Niuba Villa Millán",
+        "ocupacion": "Presidenta CPA \"Primer Soviet de América\"",
+        "edad": "49",
+        "votos_validos": "85.23",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ivis-Niuba-Villa-Millan.png"
+    },
+    {
+        "nombre": "Oscar Manuel Silvera Martínez",
+        "ocupacion": "Ministro, Ministerio de Justicia",
+        "edad": "49",
+        "votos_validos": "84.4",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Oscar-Manuel-Silvera-Martinez.png"
+    },
+    {
+        "nombre": "Estela Cristina Luna Morales",
+        "ocupacion": "Presidente Comisión de Salud de la ANPP",
+        "edad": "59",
+        "votos_validos": "83.73",
+        "provincia": "Granma",
+        "municipio": "Bayamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Estela-Cristina-Luna-Morales.png"
+    },
+    {
+        "nombre": "Maricela Figueredo Rosales",
+        "ocupacion": "Presidenta Consejo Popular \"Paquito Rosales\". Yara",
+        "edad": "42",
+        "votos_validos": "92.15",
+        "provincia": "Granma",
+        "municipio": "Yara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Maricela-Figueredo-Rosales.png"
+    },
+    {
+        "nombre": "Rafael González Muñoz",
+        "ocupacion": "Presidente Nacional de la Asociación Hermanos Saíz",
+        "edad": "35",
+        "votos_validos": "82.96",
+        "provincia": "Granma",
+        "municipio": "Yara",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rafael-Gonzalez-Munoz.jpg"
+    },
+    {
+        "nombre": "Rossio Naranjo Figueredo",
+        "ocupacion": "Presidenta Asamblea Municipal del Poder Popular de Manzanillo",
+        "edad": "44",
+        "votos_validos": "89.86",
+        "provincia": "Granma",
+        "municipio": "Manzanillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rossio-Naranjo-Figueredo.png"
+    },
+    {
+        "nombre": "Rudisel Pérez Rivero",
+        "ocupacion": "Coordinador General de 9no. grado del Centro Mixto “Emilio Lastre Figueredo”",
+        "edad": "37",
+        "votos_validos": "85.8",
+        "provincia": "Granma",
+        "municipio": "Manzanillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rudisel-Perez-Rivero.png"
+    },
+    {
+        "nombre": "Jorge Amador Berlanga Acosta",
+        "ocupacion": "Jefe de Proyectos e Investigaciones Centro de Ingeniería Genética y Biotecnología",
+        "edad": "60",
+        "votos_validos": "83.15",
+        "provincia": "Granma",
+        "municipio": "Manzanillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jorge-Amador-Berlanga-Acosta.png"
+    },
+    {
+        "nombre": "Yanaisi Capó Nápoles",
+        "ocupacion": "Primera Secretaria del Comité Provincial del Partido Granma",
+        "edad": "49",
+        "votos_validos": "90.93",
+        "provincia": "Granma",
+        "municipio": "Manzanillo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanaisi-Capo-Napoles.png"
+    },
+    {
+        "nombre": "Glennis López Mojena",
+        "ocupacion": "Maestra Primaria, Escuela \"Juan Matos Fonseca\"",
+        "edad": "44",
+        "votos_validos": "89.64",
+        "provincia": "Granma",
+        "municipio": "Campechuela",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Glennis-Lopez-Mojena.png"
+    },
+    {
+        "nombre": "Rolando Miguel González Patricio",
+        "ocupacion": "Vicepresidente de la Comisión de Relaciones Internacionales de la Asamblea Nacional del Poder Popular y presidente alterno del Parlamento Latinoamericano y Caribeño.",
+        "edad": "58",
+        "votos_validos": "88.54",
+        "provincia": "Granma",
+        "municipio": "Campechuela",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rolando-Miguel-Gonzalez-Patricio.png"
+    },
+    {
+        "nombre": "Yanixei López Reyes",
+        "ocupacion": "Directora de la ESBU \"Elías Zaldívar Álvarez\"",
+        "edad": "40",
+        "votos_validos": "93.8",
+        "provincia": "Granma",
+        "municipio": "Media Luna",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yanixei-Lopez-Reyes.png"
+    },
+    {
+        "nombre": "Aníval Ernesto Ramos Socarrás",
+        "ocupacion": "Rector de la Universidad de Ciencias Médicas de Granma",
+        "edad": "43",
+        "votos_validos": "84.55",
+        "provincia": "Granma",
+        "municipio": "Media Luna",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Anival-Ernesto-Ramos-Socarras.png"
+    },
+    {
+        "nombre": "Yunaika Alarcón Gutiérrez",
+        "ocupacion": "Profesora de Recreación. Escuela \"Guillermo Fonseca\". Municipio Niquero",
+        "edad": "40",
+        "votos_validos": "93.26",
+        "provincia": "Granma",
+        "municipio": "Niquero",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yunaika-Alarcon-Gutierrez.png"
+    },
+    {
+        "nombre": "Yenisey González Rodríguez",
+        "ocupacion": "Fiscal Jefa del Departamento de Formación, Desarrollo e Innovación de la Fiscalía Provincial. Presidenta de la Unión de Juristas de Cuba en Granma",
+        "edad": "46",
+        "votos_validos": "80.71",
+        "provincia": "Granma",
+        "municipio": "Niquero",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yenisey-Gonzalez-Rodriguez.png"
+    },
+    {
+        "nombre": "Martha Dignó Aguilera",
+        "ocupacion": "Presidenta Asamblea Municipal del Poder Popular de Pilón",
+        "edad": "56",
+        "votos_validos": "86.11",
+        "provincia": "Granma",
+        "municipio": "Pilón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Martha-Digno-Aguilera.png"
+    },
+    {
+        "nombre": "Guillermo García Frías",
+        "ocupacion": "Comandante de la Revolución. Presidente del Grupo Empresarial Flora y Fauna.",
+        "edad": "95",
+        "votos_validos": "86.08",
+        "provincia": "Granma",
+        "municipio": "Pilón",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Guillermo-Garcia-Frias.png"
+    },
+    {
+        "nombre": "Linne Martínez Sánchez",
+        "ocupacion": "Presidenta de la Asociación Nacional de Agricultores Pequeños en el municipio Bartolomé Masó",
+        "edad": "43",
+        "votos_validos": "87.17",
+        "provincia": "Granma",
+        "municipio": "Bartolomé Masó",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Linne-Martinez-Sanchez.png"
+    },
+    {
+        "nombre": "Nelson Domínguez Cedeño",
+        "ocupacion": "Artista de la plástica",
+        "edad": "75",
+        "votos_validos": "85.71",
+        "provincia": "Granma",
+        "municipio": "Bartolomé Masó",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Nelson-Dominguez-Cedeno.png"
+    },
+    {
+        "nombre": "Rosario Pompa Figueredo",
+        "ocupacion": "Instructora de Arte en la Escuela Primaria “Guillermo González Polanco”",
+        "edad": "27",
+        "votos_validos": "89.93",
+        "provincia": "Granma",
+        "municipio": "Buey Arriba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rosario-Pompa-Figueredo.png"
+    },
+    {
+        "nombre": "Alexi Silveira Urquiza",
+        "ocupacion": "Subdelegado General de la Agricultura en Granma",
+        "edad": "46",
+        "votos_validos": "83.85",
+        "provincia": "Granma",
+        "municipio": "Buey Arriba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alexi-Silveira-Urquiza.png"
+    },
+    {
+        "nombre": "Madelayis Pérez Peña",
+        "ocupacion": "Presidenta de Consejo Popular de Monjará",
+        "edad": "35",
+        "votos_validos": "93.89",
+        "provincia": "Granma",
+        "municipio": "Guisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Madelayis-Perez-Pena.png"
+    },
+    {
+        "nombre": "Carlos Rafael Fuentes León",
+        "ocupacion": "Vicepresidente de la Comisión de Atención a los Órganos Locales del Poder Popular de la Asamblea Nacional del Poder Popular.",
+        "edad": "61",
+        "votos_validos": "92.09",
+        "provincia": "Granma",
+        "municipio": "Guisa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Carlos-Rafael-Fuentes-Leon.png"
+    },
+    {
+        "nombre": "Mayitsi Del Toro Fonseca",
+        "ocupacion": "Miembro del Buró Municipal de la ANAP",
+        "edad": "49",
+        "votos_validos": "88.92",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Contramaestre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Mayitsi-Del-Toro-Fonseca.png"
+    },
+    {
+        "nombre": "Victor Manuel Montesino Rodríguez",
+        "ocupacion": "Director de la Empresa Provincial de Genética Pecuaria “El Alcázar”",
+        "edad": "50",
+        "votos_validos": "85.02",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Contramaestre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Victor-Manuel-Montesino-Rodriguez.png"
+    },
+    {
+        "nombre": "José Angel Portal Miranda",
+        "ocupacion": "Ministro de Salud Pública",
+        "edad": "56",
+        "votos_validos": "86.78",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Contramaestre",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Angel-Portal-Miranda.png"
+    },
+    {
+        "nombre": "Leyzan Llanes Sánchez",
+        "ocupacion": "Director de Inversiones y Construcción en la Empresa Agroindustrial Azucarera “Julio A. Mella”.",
+        "edad": "42",
+        "votos_validos": "82.22",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Mella",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leyzan-Llanes-Sanchez.png"
+    },
+    {
+        "nombre": "Omara Durand Elías",
+        "ocupacion": "Deportista Paralímpica. Atleta de Alto Rendimiento",
+        "edad": "31",
+        "votos_validos": "87.15",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Mella",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Omara-Durand-Elias.png"
+    },
+    {
+        "nombre": "Midelis Vicet Fernández",
+        "ocupacion": "Directora Municipal de Cultura",
+        "edad": "49",
+        "votos_validos": "86.08",
+        "provincia": "Santiago de Cuba",
+        "municipio": "San Luis",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Midelis-Vicet-Fernandez.png"
+    },
+    {
+        "nombre": "Diana Sedal Yanes",
+        "ocupacion": "Rectora Universidad de Oriente",
+        "edad": "50",
+        "votos_validos": "88.1",
+        "provincia": "Santiago de Cuba",
+        "municipio": "San Luis",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Diana-Sedal-Yanes.png"
+    },
+    {
+        "nombre": "Elizabeth Peña Turruellas",
+        "ocupacion": "Directora Nacional del Programa de la Agricultura Urbana, Suburbana y Familiar",
+        "edad": "58",
+        "votos_validos": "88.81",
+        "provincia": "Santiago de Cuba",
+        "municipio": "San Luis",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elizabeth-Pena-Turuellas.png"
+    },
+    {
+        "nombre": "Alender Chaveco Torres",
+        "ocupacion": "Presidente de la Comisión Permanente de Trabajo de Economía Global, Desarrollo Local e Ilegalidades de la Asamblea Municipal del Poder Popular de Segundo Frente.",
+        "edad": "46",
+        "votos_validos": "81.96",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Segundo Frente",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alender-Chaveco-Torres.png"
+    },
+    {
+        "nombre": "Raúl Modesto Castro Ruz",
+        "ocupacion": "General de Ejército",
+        "edad": "91",
+        "votos_validos": "94.97",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Segundo Frente",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raul-Modesto-Castro-Ruz.png"
+    },
+    {
+        "nombre": "Raúl Omar Oliva Vega",
+        "ocupacion": "Director de la Unidad Presupuestada Instrumental Oficina de Administración del Patrimonio Local de Songo-La Maya",
+        "edad": "27",
+        "votos_validos": "90.37",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Songo la Maya",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raul-Omar-Oliva-Vega.png"
+    },
+    {
+        "nombre": "Zuzel Maria Alba Quintana",
+        "ocupacion": "Directora General, Ronera Santiago de Cuba",
+        "edad": "55",
+        "votos_validos": "92.84",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Songo la Maya",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Zuzel-Maria-Alba-Quintana.png"
+    },
+    {
+        "nombre": "Lazarojim Alberto Campos Martínez",
+        "ocupacion": "Presidente del Grupo de la Industria Electrónica, Informática, Automática y las Comunicaciones-GELECT",
+        "edad": "39",
+        "votos_validos": "91.27",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Songo la Maya",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lazarojim-Alberto-Campos-Martinez.png"
+    },
+    {
+        "nombre": "Sandie Almeira Boza",
+        "ocupacion": "Directora de la Casa de la Cultura del \"Cayo Granma\"",
+        "edad": "55",
+        "votos_validos": "88.28",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Sandie-Almeira-Boza.png"
+    },
+    {
+        "nombre": "Beatriz Hernández Borges",
+        "ocupacion": "Jefa del Departamento de Control de Vectores en el Policlínico Docente “Mario Muñoz Monroy”.",
+        "edad": "31",
+        "votos_validos": "86.53",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Beatriz-Hernandez-Borges.png"
+    },
+    {
+        "nombre": "Yaneydis Hechavarría Batista",
+        "ocupacion": "Presidenta Asamblea Municipal del Poder Popular de Santiago de Cuba",
+        "edad": "42",
+        "votos_validos": "91.35",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaneydis-Hechavarria-Batista.png"
+    },
+    {
+        "nombre": "Daniana Fuentes Rivera",
+        "ocupacion": "Representante de la Agricultura Urbana y Familiar en el consejo popular “Siboney”.",
+        "edad": "42",
+        "votos_validos": "87.08",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Daniana-Fuentes-Rivera.png"
+    },
+    {
+        "nombre": "Randel Coloma Oduardo",
+        "ocupacion": "Director General de la Empresa de Proyectos y Arquitectura #15",
+        "edad": "46",
+        "votos_validos": "86.2",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Randel-Coloma-Oduardo.png"
+    },
+    {
+        "nombre": "Yoan Gabriel Rosabal Fonseca",
+        "ocupacion": "Oficial del Ministerio del Interior-MININT",
+        "edad": "33",
+        "votos_validos": "89.3",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yoan-Gabriel-Rosabal-Fonseca.png"
+    },
+    {
+        "nombre": "Aleyrán Solangs Reyes Almenares",
+        "ocupacion": "Especialista de Planificación Gobierno Provincial",
+        "edad": "40",
+        "votos_validos": "88.53",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Aleyran-Solangs-Reyes-Almenares.png"
+    },
+    {
+        "nombre": "Yaquelín Wanton Speck",
+        "ocupacion": "Presidenta de Comisión de Trabajo Permanente de la Asamblea Municipal del Poder Popular de Santiago de Cuba",
+        "edad": "50",
+        "votos_validos": "73.7",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaquelin-Wanton-Speck.png"
+    },
+    {
+        "nombre": "Francisco Ricardo Sagaró Rosales",
+        "ocupacion": "Especialista de Primer Grado en Medicina Intensiva y Emergencia en el Hospital Clínico–Quirúrgico “Dr. Juan Bruno Zayas Alfonso”",
+        "edad": "28",
+        "votos_validos": "84.51",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Francisco-Ricardo-Sagaro-Rosales.png"
+    },
+    {
+        "nombre": "Beatriz Johnson Urrutia",
+        "ocupacion": "Gobernadora de Santiago de Cuba",
+        "edad": "53",
+        "votos_validos": "71.98",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Beatriz-Johnson-Urrutia.png"
+    },
+    {
+        "nombre": "Zuria Salmón Álvarez",
+        "ocupacion": "Directora General de la Compañía “Ballet Santiago”",
+        "edad": "54",
+        "votos_validos": "81.99",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Zuria-Salmon-Alvarez.png"
+    },
+    {
+        "nombre": "Carlos Antonio Leyva Isaac",
+        "ocupacion": "Presidente FEU, Universidad de Oriente",
+        "edad": "21",
+        "votos_validos": "82.43",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Carlos-Antonio-Leyva-Isaac.png"
+    },
+    {
+        "nombre": "Giselly Cruz Santos",
+        "ocupacion": "Técnica Veterinaria, CPA. \"Abel Santamaría Cuadrado\"",
+        "edad": "27",
+        "votos_validos": "88",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Giselly-Cruz-Santos.png"
+    },
+    {
+        "nombre": "Roberto Legrá Sotolongo",
+        "ocupacion": "Viceministro Jefe del Estado Mayor General de las FAR.",
+        "edad": "68",
+        "votos_validos": "75.01",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Roberto-Legra-Sotolongo.png"
+    },
+    {
+        "nombre": "Marta Hernández Romero",
+        "ocupacion": "Coordinadora de las Comisiones Permanentes de Trabajo de la Asamblea Nacional del Poder Popular",
+        "edad": "64",
+        "votos_validos": "77.73",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Marta-Hernandez-Romero.png"
+    },
+    {
+        "nombre": "Martha del Carmen Mesa Valenciano",
+        "ocupacion": "Presidenta de la Comisión Educación, Ciencia, Cultura y Medio Ambiente ANPP",
+        "edad": "62",
+        "votos_validos": "85.96",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Martha-Del-Carmen-Mesa-Valenciano.png"
+    },
+    {
+        "nombre": "Eduardo Moisés Torres Cuevas",
+        "ocupacion": "Director de Oficina Programa Martiano",
+        "edad": "80",
+        "votos_validos": "81.31",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Santiago de Cuba",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Eduardo-Moises-Torres-Cuevas.png"
+    },
+    {
+        "nombre": "Luis Marino Portuondo Ramírez",
+        "ocupacion": "Profesor de Química de la Secundaria Básica “Protesta de Baraguá”",
+        "edad": "52",
+        "votos_validos": "91.42",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Palma Soriano",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Marino-Portuondo-Ramirez.png"
+    },
+    {
+        "nombre": "Yaney León Morales",
+        "ocupacion": "Jefa del Departamento de Programación e Informativo del Telecentro “Palma TV”",
+        "edad": "46",
+        "votos_validos": "78.47",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Palma Soriano",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yaney-Leon-Morales.png"
+    },
+    {
+        "nombre": "Suyen Rodríguez Pérez",
+        "ocupacion": "Directora de Laboratorios de Anticuerpos y Biomodelos Experimentales-LABEX. Centro de Inmunología Molecular.",
+        "edad": "52",
+        "votos_validos": "85.2",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Palma Soriano",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Suyen-Rodriguez-Perez.png"
+    },
+    {
+        "nombre": "Fernando González Llort",
+        "ocupacion": "Presidente Instituto Cubano de Amistad con los Pueblos",
+        "edad": "59",
+        "votos_validos": "93.37",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Palma Soriano",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Fernando-Gonzalez-Llort.png"
+    },
+    {
+        "nombre": "Tania Cabrera Mariño",
+        "ocupacion": "Jefa de Docencia e Investigación en el Policlínico Comunitario “Cruce de los Baños”",
+        "edad": "54",
+        "votos_validos": "88.78",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Tercer Frente",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Tania-Cabrera-Marino.png"
+    },
+    {
+        "nombre": "José Ramón Monteagudo Ruiz",
+        "ocupacion": "Primer Secretario Comité Provincial del Partido en Santiago de Cuba",
+        "edad": "60",
+        "votos_validos": "87.69",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Tercer Frente",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Ramon-Monteagudo-Ruiz.png"
+    },
+    {
+        "nombre": "Yisel Fonseca Méndez",
+        "ocupacion": "Subdirectora de Aseguramiento y Control de la Unidad Empresarial de Base Campismo “La Mula”",
+        "edad": "35",
+        "votos_validos": "87.86",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Guamá",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yisel-Fonseca-Mendez.png"
+    },
+    {
+        "nombre": "Manuel Falcón Hernández",
+        "ocupacion": "Vicegobernador de la provincia de Santiago de Cuba.",
+        "edad": "51",
+        "votos_validos": "81.98",
+        "provincia": "Santiago de Cuba",
+        "municipio": "Guamá",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Manuel-Falcon-Hernandez.png"
+    },
+    {
+        "nombre": "Niovis Pérez Ramírez",
+        "ocupacion": "Presidenta del consejo popular “El Salvador”.",
+        "edad": "44",
+        "votos_validos": "87.35",
+        "provincia": "Guantánamo",
+        "municipio": "El Salvador",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Niovis-Perez-Ramirez.png"
+    },
+    {
+        "nombre": "Noryaysi Abreu Romero",
+        "ocupacion": "Subdirectora de Ciencia, Técnica e Investigación del Centro de Desarrollo de Montaña",
+        "edad": "46",
+        "votos_validos": "89.34",
+        "provincia": "Guantánamo",
+        "municipio": "El Salvador",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Noryaysi-Abreu-Romero.png"
+    },
+    {
+        "nombre": "Ariannis Sierra Fiss",
+        "ocupacion": "Jefa de Unidad de Auditoría Interna del Consejo de la Administración Municipal",
+        "edad": "29",
+        "votos_validos": "90.32",
+        "provincia": "Guantánamo",
+        "municipio": "Manuel Tames",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ariannis-Sierra-Fiss.png"
+    },
+    {
+        "nombre": "Luis Alberto Ramírez Díaz",
+        "ocupacion": "Vicedirector Quirúrgico Hospital General \"Agostinho Neto\"",
+        "edad": "36",
+        "votos_validos": "93.34",
+        "provincia": "Guantánamo",
+        "municipio": "Manuel Tames",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Alberto-Ramirez-Diaz.png"
+    },
+    {
+        "nombre": "Dolores Legrá San Miguel",
+        "ocupacion": "Coordinadora de Promotores Culturales en Consejo Popular \"Bernardo Yateras\"",
+        "edad": "52",
+        "votos_validos": "89.81",
+        "provincia": "Guantánamo",
+        "municipio": "Yateras",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Dolores-Legra-San-Miguel.jpg"
+    },
+    {
+        "nombre": "Lidier Águila Machado",
+        "ocupacion": "Presidente del Buró Nacional de la ANIR",
+        "edad": "49",
+        "votos_validos": "89.87",
+        "provincia": "Guantánamo",
+        "municipio": "Yateras",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Lidier-Aguila-Machado.png"
+    },
+    {
+        "nombre": "Xiomara Torres Laffita",
+        "ocupacion": "Médico Pediatra, Policlínico Comunitario \"Fermín Valdés Domínguez\"",
+        "edad": "51",
+        "votos_validos": "85.22",
+        "provincia": "Guantánamo",
+        "municipio": "Baracoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Xiomara-Torres-Laffita.png"
+    },
+    {
+        "nombre": "Pablo Clapé Borges",
+        "ocupacion": "Director Estación Experimental Agroforestal Baracoa",
+        "edad": "29",
+        "votos_validos": "83.99",
+        "provincia": "Guantánamo",
+        "municipio": "Baracoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Pablo-Caple-Borges.png"
+    },
+    {
+        "nombre": "Nancy Acosta Hernández",
+        "ocupacion": "Funcionaria, Oficina del Vicepresidente de la República de Cuba",
+        "edad": "58",
+        "votos_validos": "87.94",
+        "provincia": "Guantánamo",
+        "municipio": "Baracoa",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/nancy-acosta-hernandez.jpg"
+    },
+    {
+        "nombre": "Yuricel Lezcano López",
+        "ocupacion": "Asesora de Salud Escolar de la Dirección Municipal de Educación",
+        "edad": "43",
+        "votos_validos": "90.67",
+        "provincia": "Guantánamo",
+        "municipio": "Maisí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yuricel-Lezcano-Lopez.png"
+    },
+    {
+        "nombre": "Zoe Debrook Chibas",
+        "ocupacion": "Jefa Departamento Provincial de Sanidad Animal. Delegación Provincial de la Agricultura",
+        "edad": "49",
+        "votos_validos": "87.17",
+        "provincia": "Guantánamo",
+        "municipio": "Maisí",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Zoe-Debrook-Chibas.png"
+    },
+    {
+        "nombre": "Beitelvis Cantillo Moreira",
+        "ocupacion": "Presidenta Profesional de la Comisión Permanente de Trabajo para atender la Economía, las Inversiones y la Producción de Alimentos de la Asamblea Municipal del Poder Popular.",
+        "edad": "28",
+        "votos_validos": "90.36",
+        "provincia": "Guantánamo",
+        "municipio": "Imías",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Beitelvis-Cantillo-Moreira.png"
+    },
+    {
+        "nombre": "Manuel Aguilar Ruiz",
+        "ocupacion": "Director Escuela Profesional de Danza, \"Alfredo Vázquez Carcassés\"",
+        "edad": "42",
+        "votos_validos": "86.38",
+        "provincia": "Guantánamo",
+        "municipio": "Imías",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Manuel-Aguilar-Ruiz.png"
+    },
+    {
+        "nombre": "Leyannis Londres Delgado",
+        "ocupacion": "Presidenta del Tribunal Popular Municipal",
+        "edad": "44",
+        "votos_validos": "86.82",
+        "provincia": "Guantánamo",
+        "municipio": "San Antonio del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Leyannis-Londres-Delgado.png"
+    },
+    {
+        "nombre": "Alis Azahares Torreblanca",
+        "ocupacion": "Vicegobernadora de la provincia de Guantánamo",
+        "edad": "56",
+        "votos_validos": "87.47",
+        "provincia": "Guantánamo",
+        "municipio": "San Antonio del Sur",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Alis-Azahares-Torreblanca.png"
+    },
+    {
+        "nombre": "Luis Angel Tamayo Imbert",
+        "ocupacion": "Especialista en Medicina General Integral en el Policlínico Docente ¨Ramón López Peña¨, de Caimanera",
+        "edad": "29",
+        "votos_validos": "90.89",
+        "provincia": "Guantánamo",
+        "municipio": "Caimanera",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Luis-Angel-Tamayo-Imbert.png"
+    },
+    {
+        "nombre": "Raúl Alfonso Torres Rondón",
+        "ocupacion": "Músico y compositor",
+        "edad": "56",
+        "votos_validos": "72.65",
+        "provincia": "Guantánamo",
+        "municipio": "Caimanera",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raul-Alfonso-Torres-Rondon.png"
+    },
+    {
+        "nombre": "Ernesto de la Cruz Rodríguez",
+        "ocupacion": "Director de la Empresa Comercializadora y Distribuidora de Medicamentos EMCOMED Guantánamo",
+        "edad": "50",
+        "votos_validos": "76.13",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ernesto-de-la-Cruz-Rodriguez.png"
+    },
+    {
+        "nombre": "Raiza Bombalé Jorrin",
+        "ocupacion": "Especialista de Protección de Plantas, Departamento Provincial de Sanidad Vegetal",
+        "edad": "34",
+        "votos_validos": "84.99",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Raiza-Bombale-Jorrin.png"
+    },
+    {
+        "nombre": "Idaliena Díaz Casamayor",
+        "ocupacion": "Presidenta Asamblea Municipal del Poder Popular",
+        "edad": "34",
+        "votos_validos": "81.79",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/idaliena-diaz-casamayor.png"
+    },
+    {
+        "nombre": "Osiris Aranda Creagh",
+        "ocupacion": "Rectora Universidad de Guantánamo",
+        "edad": "51",
+        "votos_validos": "85.74",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osiris-Aranda-Creagh.png"
+    },
+    {
+        "nombre": "Rafael Pérez Fernández",
+        "ocupacion": "Primer Secretario Comité Provincial PCC. Guantánamo",
+        "edad": "51",
+        "votos_validos": "76.62",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rafael-Perez-Fernandez.png"
+    },
+    {
+        "nombre": "José Ramón Machado Ventura",
+        "ocupacion": "Comandante del Ejército Rebelde",
+        "edad": "93",
+        "votos_validos": "89.11",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Jose-Ramon-Machado-Ventura.png"
+    },
+    {
+        "nombre": "Yarisleidis Cirilo Duboy",
+        "ocupacion": "Atleta de Alto Rendimiento, Canotaje",
+        "edad": "20",
+        "votos_validos": "83.85",
+        "provincia": "Guantánamo",
+        "municipio": "Guantánamo",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Yarisleidis-Cirilo-Duboy.png"
+    },
+    {
+        "nombre": "Ismara Sánchez Borges",
+        "ocupacion": "Presidenta de la Comisión permanente para Atender Asuntos Económicos, Producción, Distribución, Comercialización, Inversiones y otros servicios en el Poder Popular, Municipio Niceto Pérez",
+        "edad": "35",
+        "votos_validos": "88.99",
+        "provincia": "Guantánamo",
+        "municipio": "Niceto Pérez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Ismara-Sanchez-Borges.png"
+    },
+    {
+        "nombre": "Norbelys Montes de Oca Lores",
+        "ocupacion": "Especialista Principal de Ciencias Informáticas y Comunicaciones de la UEB-División Territorial de Comercialización de Combustible Guantánamo",
+        "edad": "35",
+        "votos_validos": "89.41",
+        "provincia": "Guantánamo",
+        "municipio": "Niceto Pérez",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Norbelys-Montes-de-Oca-Lores.png"
+    },
+    {
+        "nombre": "Rafael Ernesto Licea Mojena",
+        "ocupacion": "Presidente Asamblea Municipal del Poder Popular en la Isla de la Juventud",
+        "edad": "46",
+        "votos_validos": "87.77",
+        "provincia": "Isla de la Juventud",
+        "municipio": "Isla de la Juventud",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Rafael-Ernesto-Licea-Mojena.png"
+    },
+    {
+        "nombre": "Osbel Lorenzo Rodríguez",
+        "ocupacion": "Primer Secretario Comité Municipal del Partido de la Isla de la Juventud",
+        "edad": "49",
+        "votos_validos": "87.85",
+        "provincia": "Isla de la Juventud",
+        "municipio": "Isla de la Juventud",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Osbel-Lorenzo-Rodriguez.png"
+    },
+    {
+        "nombre": "Elier Ramírez Cañedo",
+        "ocupacion": "Subdirector del Centro \"Fidel Castro Ruz\"",
+        "edad": "40",
+        "votos_validos": "80.57",
+        "provincia": "Isla de la Juventud",
+        "municipio": "Isla de la Juventud",
+        "foto": "https://proyectoinventario.org/wp-content/uploads/Elier-Ramirez-Canedo.png"
+    }
+]

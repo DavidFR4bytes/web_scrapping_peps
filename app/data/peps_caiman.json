@@ -1,0 +1,128 @@
+[
+    {
+        "nombre": "Hon. Sir Alden McLaughlin",
+        "cargo": "Speaker",
+        "distrito": "Red Bay",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/Speaker-McLaughlin-Square-Image-Chair-Web.png"
+    },
+    {
+        "nombre": "Hon. Juliana Y. O’Connor-Connolly",
+        "cargo": "Premier and Minister for Finance & Economic Development, Education, District Administration & Lands, Financial Services & Commerce, and Health",
+        "distrito": "Cayman Brac East",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/03-Hon-Juliana-OConnor-Connolly.png"
+    },
+    {
+        "nombre": "Hon. Kenneth V. Bryan",
+        "cargo": "Deputy Premier and Minister for Tourism & Ports, and Social Development & Innovation",
+        "distrito": "George Town Central",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/10/Hon-Kenneth-Bryan-preferred-image.png"
+    },
+    {
+        "nombre": "Hon. Johany S. “Jay” Ebanks",
+        "cargo": "Minister for Planning, Agriculture, Housing, Infrastructure, Transport, & Development",
+        "distrito": "North Side",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/08-Hon-Johany-Ebanks.png"
+    },
+    {
+        "nombre": "Hon. Isaac D. Rankine",
+        "cargo": "Minister for Youth, Sports, & Heritage, and Home Affairs",
+        "distrito": "East End",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/12-Hon-Isaac-Rankine.png"
+    },
+    {
+        "nombre": "Hon. Dwayne S. Seymour",
+        "cargo": "Minister for Border Control, Labour & Culture, Sustainability & Climate Resiliency, and Wellness",
+        "distrito": "Bodden Town East",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/09-Hon-Dwayne-Seymour.png"
+    },
+    {
+        "nombre": "Hon. Franz. I. Manderson",
+        "cargo": "Deputy Governor, Portfolio of the Civil Service, Ex-officio Member",
+        "distrito": "",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/10-Hon-Franz-Manderson.png"
+    },
+    {
+        "nombre": "Hon. Samuel Bulgin",
+        "cargo": "Attorney General, Portfolio of Legal Affairs, Ex-officio Member",
+        "distrito": "",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/11-Hon-Samuel-Bulgin.png"
+    },
+    {
+        "nombre": "Mr. Bernie A. Bush",
+        "cargo": "Parliamentary Secretary, Chair of the Standing Select Committee to Oversee the Office of the Ombudsman",
+        "distrito": "West Bay North",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/04-Hon-Bernie-Bush.png"
+    },
+    {
+        "nombre": "Hon. Dr. W. McKeeva Bush",
+        "cargo": "Parliamentary Secretary for Social Development, Innovation, Border Control, Culture, Planning, Housing, Infrastructure, Transport and Development",
+        "distrito": "West Bay West",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/14-Hon-Dr-W-McKeeva-Bush.png"
+    },
+    {
+        "nombre": "Hon. Joseph X. Hew",
+        "cargo": "Leader of the Opposition",
+        "distrito": "George Town North",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/16-Mr-Joseph-Hew.png"
+    },
+    {
+        "nombre": "Ms. Barbara E. Conolly",
+        "cargo": "Deputy Leader of the Opposition",
+        "distrito": "George Town South",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/19-Ms-Barbara-Conolly.png"
+    },
+    {
+        "nombre": "Mr. Moses I. Kirkconnell",
+        "cargo": "Member of the Opposition",
+        "distrito": "Cayman Brac West and Little Cayman",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/18-Mr-Moses-Kirkconnell.png"
+    },
+    {
+        "nombre": "Mr. Roy M. McTaggart",
+        "cargo": "Member of the Opposition, Chair of the Public Accounts Committee",
+        "distrito": "George Town East",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/15-Hon-Leader-of-Opp-Roy-McTaggart.png"
+    },
+    {
+        "nombre": "Mr. David C. Wight",
+        "cargo": "Member of the Opposition",
+        "distrito": "George Town West",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/20-Mr-David-Wight.png"
+    },
+    {
+        "nombre": "Hon. G. Wayne Panton",
+        "cargo": "Independent Opposition Member",
+        "distrito": "Newlands",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/02-Hon-Premier-Wayne-Panton.png"
+    },
+    {
+        "nombre": "Mr. Christopher S. Saunders",
+        "cargo": "Independent Opposition Member",
+        "distrito": "Bodden Town West",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/21-Mr-Christopher-Saunders.png"
+    },
+    {
+        "nombre": "Mr. André M. Ebanks",
+        "cargo": "Independent Member of the Opposition",
+        "distrito": "West Bay South",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/06-Hon-Andre-Ebanks.png"
+    },
+    {
+        "nombre": "Hon. Katherine A. Ebanks-Wilks",
+        "cargo": "Independent Opposition Member",
+        "distrito": "West Bay Central",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/11/Katherine-Ebanks-Wilks.jpg"
+    },
+    {
+        "nombre": "Mrs. Sabrina T. Turner",
+        "cargo": "Independent Opposition Member",
+        "distrito": "Prospect",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/09/Hon-Sabrina-Turner.png"
+    },
+    {
+        "nombre": "Hon. Heather D. Bodden, OCI, Cert. Hon.",
+        "cargo": "Deputy Speaker, Independent Opposition Member",
+        "distrito": "Savannah",
+        "imagen": "https://parliament.ky/wp-content/uploads/2023/08/13-Ms-Heather-Bodden.png"
+    }
+]

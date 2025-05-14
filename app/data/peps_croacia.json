@@ -1,0 +1,1350 @@
+[
+    {
+        "nombre": "Ante",
+        "apellido": "MiÅ¡ura",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Robert",
+        "apellido": "Pende",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo turizma i sporta",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Leon",
+        "apellido": "Å½ulj",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo financija",
+                "inicio": "21/06/2024",
+                "fin": ""
+            },
+            {
+                "cargo": "Zastupnik",
+                "institucion": "Hrvatski sabor",
+                "inicio": "05/02/2016",
+                "fin": "14/10/2016"
+            }
+        ]
+    },
+    {
+        "nombre": "Davor",
+        "apellido": "HuÅ¡ka",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "04/03/2021",
+                "fin": "27/02/2025"
+            },
+            {
+                "cargo": "PomoÄnik ministra",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "17/02/2016",
+                "fin": "04/03/2021"
+            }
+        ]
+    },
+    {
+        "nombre": "Milan",
+        "apellido": "TankosiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": "18/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "ViÅ¡nja",
+        "apellido": "Tafra",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "11/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "DraÅ¾en",
+        "apellido": "IvanuÅ¡ec",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "15/04/2025",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "PetriÄeviÄ-Golojuh",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Helena",
+        "apellido": "Å timac Radin",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za ravnopravnost spolova Vlade Republike Hrvatske",
+                "inicio": "22/12/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Zdenka",
+        "apellido": "PogarÄiÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za zakonodavstvo Vlade Republike Hrvatske",
+                "inicio": "22/12/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Elizabeta",
+        "apellido": "Kos",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Momir",
+        "apellido": "Karin",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "06/05/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Zdravko",
+        "apellido": "BaraÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": "18/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Zrinka",
+        "apellido": "UjeviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "31/03/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Stella",
+        "apellido": "Arneri",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "04/03/2021",
+                "fin": "27/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Sanda",
+        "apellido": "KuliÄ ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Marica",
+        "apellido": "Mikec",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "",
+                "inicio": "28/04/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Igor",
+        "apellido": "Kreitmeyer",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Goran",
+        "apellido": "KolariÄ",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "07/01/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Dinko",
+        "apellido": "Tandara",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo hrvatskih branitelja",
+                "inicio": "01/03/2021",
+                "fin": "01/03/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Marija",
+        "apellido": "KneÅ¾eviÄ Kajari",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "SrediÅ¡nji drÅ¾avni ured za demografiju i mlade",
+                "inicio": "01/12/2022",
+                "fin": "16/05/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Petar",
+        "apellido": "Mihatov",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Nada",
+        "apellido": "ZrinuÅ¡iÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo rada, mirovinskog sustava, obitelji i socijalne politike",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "SiniÅ¡a",
+        "apellido": "OrliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Hrvoje",
+        "apellido": "RadovaniÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo financija",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Katica",
+        "apellido": "MiÅ¡koviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "04/03/2021",
+                "fin": "04/03/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Mirela",
+        "apellido": "FuÄkar",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Ivana",
+        "apellido": "Pintar",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo prostornog ureÄenja, graditeljstva i drÅ¾avne imovine",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Melita",
+        "apellido": "ÄiÄak",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo rada, mirovinskog sustava, obitelji i socijalne politike",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Sanda",
+        "apellido": "Å imiÄ Petrinjak",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "MINISTARSTVO UNUTARNJIH POSLOVA",
+                "inicio": "17/03/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Vedrana",
+        "apellido": "Stecca",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "11/03/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Tatjana",
+        "apellido": "VukobratoviÄ SpasojeviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo prostornog ureÄenja, graditeljstva i drÅ¾avne imovine",
+                "inicio": "11/01/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Gordan",
+        "apellido": "Å½aniÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Ivana",
+        "apellido": "Å uman",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "04/03/2021",
+                "fin": "04/03/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Marija",
+        "apellido": "Vrhovski",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za opÄe poslove Hrvatskog sabora i Vlade Republike Hrvatske",
+                "inicio": "16/03/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Ivica",
+        "apellido": "Grebenar",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo obrane",
+                "inicio": "01/05/2021",
+                "fin": "28/01/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Karmela",
+        "apellido": "Plazibat",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za unutarnju reviziju Vlade Republike Hrvatske",
+                "inicio": "06/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Alen",
+        "apellido": "Tahiri",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za ljudska prava i prava nacionalnih manjina Vlade Republike Hrvatske",
+                "inicio": "06/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Petra",
+        "apellido": "AnÄeloviÄ",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "Ministarstvo turizma i sporta",
+                "inicio": "08/07/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "KreÅ¡imir",
+        "apellido": "Å amija",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo turizma i sporta",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "DuÅ¡ka",
+        "apellido": "KunÅ¡tek",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "25/02/2021",
+                "fin": "25/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Vinko",
+        "apellido": "LjubiÄiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Stribor",
+        "apellido": "Kikerec",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Renata",
+        "apellido": "OjuroviÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Gordana",
+        "apellido": "VidoviÄ Mesarek",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Sebastian",
+        "apellido": "RogaÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "29/09/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Tatjana",
+        "apellido": "KaraÄiÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Dario ",
+        "apellido": "MagdiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "SrediÅ¡nji drÅ¾avni ured za Hrvate izvan Republike Hrvatske",
+                "inicio": "28/12/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Kristina ",
+        "apellido": "DujakoviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "SrediÅ¡nji drÅ¾avni ured za Hrvate izvan Republike Hrvatske",
+                "inicio": "28/12/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Ivica",
+        "apellido": "AkmadÅ¾a",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo hrvatskih branitelja",
+                "inicio": "04/01/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Danica",
+        "apellido": "KramariÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Jasminka",
+        "apellido": "HlupiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Tanja",
+        "apellido": "Bedovec",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "11/02/2021",
+                "fin": "10/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Damir",
+        "apellido": "BoÅ¾iÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Hrvoje ",
+        "apellido": "MrÅ¡iÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo financija",
+                "inicio": "12/04/2021",
+                "fin": "31/08/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "ZoriÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo financija",
+                "inicio": "11/02/2021",
+                "fin": "10/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Bojan",
+        "apellido": "BatiniÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Kristina",
+        "apellido": "ÄeliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "AljoÅ¡a",
+        "apellido": "DupliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo gospodarstva i odrÅ¾ivog razvoja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Vicko",
+        "apellido": "MardeÅ¡iÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo rada, mirovinskog sustava, obitelji i socijalne politike",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Tatjana",
+        "apellido": "KatkiÄ StaniÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo rada, mirovinskog sustava, obitelji i socijalne politike",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Bojan",
+        "apellido": "LinardiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo prostornog ureÄenja, graditeljstva i drÅ¾avne imovine",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Nina",
+        "apellido": "Perko",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "11/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "KreÅ¡o",
+        "apellido": "AntonoviÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "11/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Damir",
+        "apellido": "Å oÅ¡tariÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Melita",
+        "apellido": "Å trbiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "11/02/2021",
+                "fin": "30/06/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Nevena",
+        "apellido": "Tudor PerkoviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo kulture i medija",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Anja",
+        "apellido": "JelaviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo kulture i medija",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "AnuÅ¡ka",
+        "apellido": "Deranja CrnokiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo kulture i medija",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Natalija",
+        "apellido": "HavidiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo turizma i sporta",
+                "inicio": "11/02/2021",
+                "fin": "25/07/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Slavko",
+        "apellido": "Å tefiÄar",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo turizma i sporta",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Ivona",
+        "apellido": "Paltrinieri",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo hrvatskih branitelja",
+                "inicio": "11/02/2021",
+                "fin": "11/02/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Anita",
+        "apellido": "Sever-Koren",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Sandra",
+        "apellido": "ZokiÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "18/02/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Sanja",
+        "apellido": "Slunjski",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "04/03/2021",
+                "fin": "04/03/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Dunja",
+        "apellido": "Bujan Å ujster",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo obrane",
+                "inicio": "14/04/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Ivan",
+        "apellido": "JuÅ¡iÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo obrane",
+                "inicio": "14/04/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "LuÄiana",
+        "apellido": "Klobas DobroviÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo obrane",
+                "inicio": "14/04/2021",
+                "fin": "28/01/2025"
+            }
+        ]
+    },
+    {
+        "nombre": "Hrvoje",
+        "apellido": "MeÅ¡triÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "06/05/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Vesna",
+        "apellido": "Å erepac",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "06/05/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Nandor",
+        "apellido": "Äapo",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "06/05/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Marija",
+        "apellido": "PeÄanac",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "09/09/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Damir",
+        "apellido": "VlajÄeviÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj",
+                "institucion": "Ured za protokol Vlade Republike Hrvatske",
+                "inicio": "22/12/2021",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Iva",
+        "apellido": "Novak",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+                "inicio": "31/03/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Tomislav",
+        "apellido": "Petrinec",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo kulture i medija",
+                "inicio": "03/06/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Irena",
+        "apellido": "KriÅ¾ Å elendiÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo prostornog ureÄenja, graditeljstva i drÅ¾avne imovine",
+                "inicio": "18/08/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Linda",
+        "apellido": "Kasalo MaliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "DrÅ¾avni zavod za statistiku",
+                "inicio": "25/08/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Nevenka",
+        "apellido": "Cujzek",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "13/10/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "DraÅ¾en",
+        "apellido": "AntoloviÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "10/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Jasna",
+        "apellido": "DiviÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo mora, prometa i infrastrukture",
+                "inicio": "10/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Å½eljko",
+        "apellido": "PrÅ¡a",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "MINISTARSTVO UNUTARNJIH POSLOVA",
+                "inicio": "10/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Ivan",
+        "apellido": "Samac",
+        "cargos": [
+            {
+                "cargo": "zamjenik glavnog drÅ¾avnog inspektora DrÅ¾avnog inspektorata",
+                "institucion": "DrÅ¾avni inspektorat",
+                "inicio": "24/11/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Luka",
+        "apellido": "Äirko",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo rada, mirovinskog sustava, obitelji i socijalne politike",
+                "inicio": "01/12/2022",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Dijana",
+        "apellido": "MandiÄ",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo znanosti i obrazovanja",
+                "inicio": "16/02/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Vedran",
+        "apellido": "KranjÄeviÄ",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "Ministarstvo zdravstva",
+                "inicio": "02/03/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Olga",
+        "apellido": "Plazibat Novosel",
+        "cargos": [
+            {
+                "cargo": "Glavni tajnik",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "22/03/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Mladen",
+        "apellido": "Fruk",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "27/07/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Å½eljka",
+        "apellido": "Gudelj-Velaga",
+        "cargos": [
+            {
+                "cargo": "Ravnatelj uprave",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "27/07/2023",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "SukaliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo poljoprivrede",
+                "inicio": "27/07/2023",
+                "fin": "04/07/2024"
+            }
+        ]
+    },
+    {
+        "nombre": "Mladen",
+        "apellido": "BruÄiÄ-Matic",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "15/02/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Danijela",
+        "apellido": "Gaube",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo pravosuÄa i uprave",
+                "inicio": "15/02/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Irena",
+        "apellido": "Alajbeg",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "Ministarstvo vanjskih i europskih poslova",
+                "inicio": "25/01/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Dragan",
+        "apellido": "MijiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "LuÄka kapetanija Osijek pod Ministarstvom mora, prometa i infrastrukture",
+                "inicio": "22/03/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Nenad",
+        "apellido": "Bugarin",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "LuÄka kapetanija Senj pod Ministarstvom mora, prometa i infrastrukture",
+                "inicio": "14/03/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Nikola",
+        "apellido": "Å½grabliÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "ISTARSKI DOMOVI ZDRAVLJA - CASE DELLA SALUTE DELL' ISTRIA ",
+                "inicio": "02/05/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Alen",
+        "apellido": "Rukavina",
+        "cargos": []
+    },
+    {
+        "nombre": "Damir",
+        "apellido": "SimiÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "LuÄka kapetanija Slavonski Brod pod Ministarstvom mora, prometa i infrastrukture",
+                "inicio": "14/03/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Mato",
+        "apellido": "Kekez",
+        "cargos": []
+    },
+    {
+        "nombre": "Marko",
+        "apellido": "ÄordaÅ¡iÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "LuÄka kapetanija Vukovar pod Ministarstvom mora, prometa i infrastrukture",
+                "inicio": "14/03/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Å½eljko",
+        "apellido": "KoziÄ",
+        "cargos": [
+            {
+                "cargo": "",
+                "institucion": "LuÄka kapetanija Sisak pod Ministarstvom mora, prometa i infrastrukture",
+                "inicio": "14/03/2024",
+                "fin": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Å½eljko",
+        "apellido": "KuÅ¡tera",
+        "cargos": []
+    },
+    {
+        "nombre": "Dolores",
+        "apellido": "Brenko Å kerjanc",
+        "cargos": []
+    },
+    {
+        "nombre": "Dolores",
+        "apellido": "Brenko Å kerjanc",
+        "cargos": []
+    },
+    {
+        "nombre": "Marija",
+        "apellido": "BalajiÄ",
+        "cargos": []
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "TotiÄ",
+        "cargos": []
+    },
+    {
+        "nombre": "Marija",
+        "apellido": "PaviÄ",
+        "cargos": []
+    }
+]

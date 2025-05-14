@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Virgilijus",
+        "surname": "Alekna",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79162"
+    },
+    {
+        "name": "Vaida",
+        "surname": "Aleknavičienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90939"
+    },
+    {
+        "name": "Arvydas",
+        "surname": "Anušauskas",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=53916"
+    },
+    {
+        "name": "Laura",
+        "surname": "Asadauskaitė-Zadneprovskienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90925"
+    },
+    {
+        "name": "Dalia",
+        "surname": "Asanavičiūtė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84599"
+    },
+    {
+        "name": "Audronius",
+        "surname": "Ažubalis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7208"
+    },
+    {
+        "name": "Valius",
+        "surname": "Ąžuolas",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79165"
+    },
+    {
+        "name": "Andrius",
+        "surname": "Bagdonas",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84600"
+    },
+    {
+        "name": "Zigmantas",
+        "surname": "Balčytis",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47220"
+    },
+    {
+        "name": "Giedrė",
+        "surname": "Balčytytė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90940"
+    },
+    {
+        "name": "Linas",
+        "surname": "Balsys",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73568"
+    },
+    {
+        "name": "Ruslanas",
+        "surname": "Baranovas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84705"
+    },
+    {
+        "name": "Tadas",
+        "surname": "Barauskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73848"
+    },
+    {
+        "name": "Rima",
+        "surname": "Baškienė",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=26656"
+    },
+    {
+        "name": "Kęstutis",
+        "surname": "Bilius",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84854"
+    },
+    {
+        "name": "Agnė",
+        "surname": "Bilotaitė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=50482"
+    },
+    {
+        "name": "Šarūnas",
+        "surname": "Birutis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73569"
+    },
+    {
+        "name": "Dainoras",
+        "surname": "Bradauskas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90941"
+    },
+    {
+        "name": "Ingrida",
+        "surname": "Braziulienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90942"
+    },
+    {
+        "name": "Saulius",
+        "surname": "Bucevičius",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47856"
+    },
+    {
+        "name": "Rasa",
+        "surname": "Budbergytė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7363"
+    },
+    {
+        "name": "Andrius",
+        "surname": "Busila",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90943"
+    },
+    {
+        "name": "Algirdas",
+        "surname": "Butkevičius",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7194"
+    },
+    {
+        "name": "Saulius",
+        "surname": "Čaplinskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90944"
+    },
+    {
+        "name": "Viktorija",
+        "surname": "Čmilytė-Nielsen",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=71563"
+    },
+    {
+        "name": "Petras",
+        "surname": "Dargis",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90920"
+    },
+    {
+        "name": "Tomas",
+        "surname": "Domarkas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90945"
+    },
+    {
+        "name": "Giedrius",
+        "surname": "Drukteinis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90946"
+    },
+    {
+        "name": "Arūnas",
+        "surname": "Dudėnas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=50877"
+    },
+    {
+        "name": "Viktoras",
+        "surname": "Fiodorovas",
+        "parliamentary_group": "Non-attached Members",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73571"
+    },
+    {
+        "name": "Vitalijus",
+        "surname": "Gailius",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73572"
+    },
+    {
+        "name": "Dainius",
+        "surname": "Gaižauskas",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79169"
+    },
+    {
+        "name": "Aidas",
+        "surname": "Gedvilas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47855"
+    },
+    {
+        "name": "Martynas",
+        "surname": "Gedvilas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90947"
+    },
+    {
+        "name": "Aistė",
+        "surname": "Gedvilienė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73917"
+    },
+    {
+        "name": "Ilona",
+        "surname": "Gelažnikienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90948"
+    },
+    {
+        "name": "Eugenijus",
+        "surname": "Gentvilas",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=146"
+    },
+    {
+        "name": "Simonas",
+        "surname": "Gentvilas",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79170"
+    },
+    {
+        "name": "Ligita",
+        "surname": "Girskienė",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79353"
+    },
+    {
+        "name": "Domas",
+        "surname": "Griškevičius",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84604"
+    },
+    {
+        "name": "Vytautas",
+        "surname": "Grubliauskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=34428"
+    },
+    {
+        "name": "Darius",
+        "surname": "Jakavičius",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90949"
+    },
+    {
+        "name": "Agnė",
+        "surname": "Jakavičiutė-Miliauskienė",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90950"
+    },
+    {
+        "name": "Rimas Jonas",
+        "surname": "Jankūnas",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90970"
+    },
+    {
+        "name": "Roma",
+        "surname": "Janušonienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90951"
+    },
+    {
+        "name": "Giedrimas",
+        "surname": "Jeglinskas",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90926"
+    },
+    {
+        "name": "Linas",
+        "surname": "Jonauskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47571"
+    },
+    {
+        "name": "Vytautas",
+        "surname": "Jucius",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79343"
+    },
+    {
+        "name": "Vytautas",
+        "surname": "Juozapaitis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73575"
+    },
+    {
+        "name": "Ričardas",
+        "surname": "Juška",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=35799"
+    },
+    {
+        "name": "Simonas",
+        "surname": "Kairys",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90922"
+    },
+    {
+        "name": "Laurynas",
+        "surname": "Kasčiūnas",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=64701"
+    },
+    {
+        "name": "Martynas",
+        "surname": "Katelynas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=83412"
+    },
+    {
+        "name": "Robertas",
+        "surname": "Kaunas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90952"
+    },
+    {
+        "name": "Liutauras",
+        "surname": "Kazlavickas",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=54711"
+    },
+    {
+        "name": "Vytautas",
+        "surname": "Kernagis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79176"
+    },
+    {
+        "name": "Eimantas",
+        "surname": "Kirkutis",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90923"
+    },
+    {
+        "name": "Indrė",
+        "surname": "Kižienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73694"
+    },
+    {
+        "name": "Dainius",
+        "surname": "Kreivys",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=24048"
+    },
+    {
+        "name": "Linas",
+        "surname": "Kukuraitis",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84606"
+    },
+    {
+        "name": "Raimondas",
+        "surname": "Kuodis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=16004"
+    },
+    {
+        "name": "Paulė",
+        "surname": "Kuzmickienė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=69153"
+    },
+    {
+        "name": "Orinta",
+        "surname": "Leiputė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=15266"
+    },
+    {
+        "name": "Arminas",
+        "surname": "Lydeka",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47211"
+    },
+    {
+        "name": "Mindaugas",
+        "surname": "Lingė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84607"
+    },
+    {
+        "name": "Saulius",
+        "surname": "Luščikas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90931"
+    },
+    {
+        "name": "Matas",
+        "surname": "Maldeikis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=69276"
+    },
+    {
+        "name": "Tomas",
+        "surname": "Martinaitis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90924"
+    },
+    {
+        "name": "Kęstutis",
+        "surname": "Mažeika",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79131"
+    },
+    {
+        "name": "Rūta",
+        "surname": "Miliūtė",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79132"
+    },
+    {
+        "name": "Alvydas",
+        "surname": "Mockus",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90932"
+    },
+    {
+        "name": "Radvilė",
+        "surname": "Morkūnaitė-Mikulėnienė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=48538"
+    },
+    {
+        "name": "Remigijus",
+        "surname": "Motuzas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7597"
+    },
+    {
+        "name": "Jaroslav",
+        "surname": "Narkevič",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=12253"
+    },
+    {
+        "name": "Antanas",
+        "surname": "Nedzinskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=53911"
+    },
+    {
+        "name": "Karolis",
+        "surname": "Neimantas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90933"
+    },
+    {
+        "name": "Aušrinė",
+        "surname": "Norkienė",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79136"
+    },
+    {
+        "name": "Juozas",
+        "surname": "Olekas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7193"
+    },
+    {
+        "name": "Česlav",
+        "surname": "Olševski",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79137"
+    },
+    {
+        "name": "Gintautas",
+        "surname": "Paluckas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84612"
+    },
+    {
+        "name": "Žygimantas",
+        "surname": "Pavilionis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79139"
+    },
+    {
+        "name": "Daiva",
+        "surname": "Petkevičienė",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90934"
+    },
+    {
+        "name": "Modesta",
+        "surname": "Petrauskaitė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73642"
+    },
+    {
+        "name": "Audrius",
+        "surname": "Petrošius",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84614"
+    },
+    {
+        "name": "Arvydas",
+        "surname": "Pocius",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=83614"
+    },
+    {
+        "name": "Karolis",
+        "surname": "Podolskis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=70414"
+    },
+    {
+        "name": "Raminta",
+        "surname": "Popovienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73583"
+    },
+    {
+        "name": "Mantas",
+        "surname": "Poškus",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=77490"
+    },
+    {
+        "name": "Tadas",
+        "surname": "Prajara",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90935"
+    },
+    {
+        "name": "Viktoras",
+        "surname": "Pranckietis",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79141"
+    },
+    {
+        "name": "Robert",
+        "surname": "Puchovič",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90927"
+    },
+    {
+        "name": "Algimantas",
+        "surname": "Radvila",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90936"
+    },
+    {
+        "name": "Audrius",
+        "surname": "Radvilavičius",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90937"
+    },
+    {
+        "name": "Valdas",
+        "surname": "Rakutis",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84616"
+    },
+    {
+        "name": "Jurgis",
+        "surname": "Razma",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7242"
+    },
+    {
+        "name": "Darius",
+        "surname": "Razmislevičius",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90938"
+    },
+    {
+        "name": "Jekaterina",
+        "surname": "Rojaka",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90627"
+    },
+    {
+        "name": "Bronis",
+        "surname": "Ropė",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=23279"
+    },
+    {
+        "name": "Edita",
+        "surname": "Rudelienė",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=86469"
+    },
+    {
+        "name": "Inga",
+        "surname": "Ruginienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90953"
+    },
+    {
+        "name": "Julius",
+        "surname": "Sabatauskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=23521"
+    },
+    {
+        "name": "Eugenijus",
+        "surname": "Sabutis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84618"
+    },
+    {
+        "name": "Tadas",
+        "surname": "Sadauskis",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=83286"
+    },
+    {
+        "name": "Lukas",
+        "surname": "Savickas",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84619"
+    },
+    {
+        "name": "Jurgita",
+        "surname": "Sejonienė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=84620"
+    },
+    {
+        "name": "Vytautas",
+        "surname": "Sinica",
+        "parliamentary_group": "Non-attached Members",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=74854"
+    },
+    {
+        "name": "Rimantas",
+        "surname": "Sinkevičius",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=26333"
+    },
+    {
+        "name": "Algirdas",
+        "surname": "Sysas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=7252"
+    },
+    {
+        "name": "Gintarė",
+        "surname": "Skaistė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=71923"
+    },
+    {
+        "name": "Matas",
+        "surname": "Skamarakas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=89374"
+    },
+    {
+        "name": "Artūras",
+        "surname": "Skardžius",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47229"
+    },
+    {
+        "name": "Kazys",
+        "surname": "Starkevičius",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47839"
+    },
+    {
+        "name": "Dovilė",
+        "surname": "Šakalienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79150"
+    },
+    {
+        "name": "Laurynas",
+        "surname": "Šedvydis",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79225"
+    },
+    {
+        "name": "Vitalijus",
+        "surname": "Šeršniovas",
+        "parliamentary_group": "Non-attached Members",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90913"
+    },
+    {
+        "name": "Ingrida",
+        "surname": "Šimonytė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=56180"
+    },
+    {
+        "name": "Agnė",
+        "surname": "Širinskienė",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79153"
+    },
+    {
+        "name": "Jurgita",
+        "surname": "Šukevičienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=79122"
+    },
+    {
+        "name": "Šarūnas",
+        "surname": "Šukevičius",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90914"
+    },
+    {
+        "name": "Raimondas",
+        "surname": "Šukys",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=23671"
+    },
+    {
+        "name": "Lina",
+        "surname": "Šukytė-Korsakė",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90928"
+    },
+    {
+        "name": "Jevgenij",
+        "surname": "Šuklin",
+        "parliamentary_group": "Liberals Movement Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90915"
+    },
+    {
+        "name": "Rita",
+        "surname": "Tamašunienė",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=73586"
+    },
+    {
+        "name": "Tomas",
+        "surname": "Tomilinas",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=48049"
+    },
+    {
+        "name": "Violeta",
+        "surname": "Turauskaitė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90916"
+    },
+    {
+        "name": "Daiva",
+        "surname": "Ulbinaitė",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90917"
+    },
+    {
+        "name": "Linas",
+        "surname": "Urmanavičius",
+        "parliamentary_group": "Political Group of Democrats ‘For Lithuania’",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90918"
+    },
+    {
+        "name": "Lilija",
+        "surname": "Vaitiekūnienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90929"
+    },
+    {
+        "name": "Arūnas",
+        "surname": "Valinskas",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=81543"
+    },
+    {
+        "name": "Dainius",
+        "surname": "Varnas",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90919"
+    },
+    {
+        "name": "Ignas",
+        "surname": "Vėgėlė",
+        "parliamentary_group": "Political Group of the Lithuanian Farmers and Greens Union and the Christian Families Alliance",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90930"
+    },
+    {
+        "name": "Birutė",
+        "surname": "Vėsaitė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=23526"
+    },
+    {
+        "name": "Kęstutis",
+        "surname": "Vilkauskas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=22886"
+    },
+    {
+        "name": "Paulius",
+        "surname": "Visockas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90971"
+    },
+    {
+        "name": "Ramūnas",
+        "surname": "Vyžintas",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=90921"
+    },
+    {
+        "name": "Jūratė",
+        "surname": "Zailskienė",
+        "parliamentary_group": "Lithuanian Social Democratic Party Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=29725"
+    },
+    {
+        "name": "Emanuelis",
+        "surname": "Zingeris",
+        "parliamentary_group": "Homeland Union – Lithuanian Christian Democrat Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=43"
+    },
+    {
+        "name": "Artūras",
+        "surname": "Zuokas",
+        "parliamentary_group": "Non-attached Members",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=47857"
+    },
+    {
+        "name": "Daiva",
+        "surname": "Žebelienė",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=70739"
+    },
+    {
+        "name": "Remigijus",
+        "surname": "Žemaitaitis",
+        "parliamentary_group": "Nemunas Dawn Political Group",
+        "profile_url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=2&p_a=498&p_asm_id=65703"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "John Phelan",
+        "cargo": "Secretary of the Navy",
+        "biografia_resumen": "The Honorable John Phelan was sworn in as the 79th Secretary of the Navy on March 25, 2025. Secretary Phelan oversees the well-being, readiness and development of nearly one million Sailors, Marines, reservists and civilian personnel in the Department of the Navy and manages an annual budget of $263.5 billion and balance sheet assets totaling $922 billion. His departmental priorities focus on strengthening shipbuilding and the maritime industrial base; fostering an adaptive, accountable and warfighting culture; and improving the health, welfare and training of our people.",
+        "imagen": "https://media.defense.gov/2025/Mar/26/2003676454/740/740/0/250325-M-VO268-1001.JPG",
+        "url_biografia": "https://www.navy.mil/Leadership/Flag-Officer-Biographies/BioDisplay/Article/4136042/the-honorable-john-phelan/"
+    },
+    {
+        "nombre": "Dr. Brett A. Seidle",
+        "cargo": "Acting Assistant Secretary of the Navy for Research, Development and Acquisition (ASN RD&A), Performing the Duties of the Under Secretary of the Navy",
+        "biografia_resumen": "Dr. Brett Seidle has served as a member of the Senior Executive Service for nearly 10 years and has extensive experience in the private sector. He is performing the duties of Under Secretary of the Navy, which he assumed April 16, 2025. The Under Secretary of the Navy serves as the Chief Operating Officer and Chief Management Officer of the Department of the Navy (DON). Seidle is responsible for providing oversight and developing policy for defense and naval strategy, intelligence and intelligence-related activities, sensitive activities, special access programs, space activities, critical infrastructure, small business programs, and the naval audit service. Additionally, he is responsible for business operations, performance management, and risk management within the Department of Navy.",
+        "imagen": "https://media.defense.gov/2025/Apr/16/2003690000/600/400/0/250416-N-CE729-1001.JPG",
+        "url_biografia": "https://www.navy.mil/Leadership/Flag-Officer-Biographies/BioDisplay/Article/4156165/acting-assistant-secretary-of-the-navy-for-research-development-and-acquisition/"
+    },
+    {
+        "nombre": "Admiral James W. Kilby",
+        "cargo": "Vice Chief of Naval Operations",
+        "biografia_resumen": "Adm. James W. Kilby is a native of Pound Ridge, New York, and a 1986 graduate of the United States Naval Academy. Kilby’s sea tours include USS Sampson (DDG 10), USS Philippine Sea (CG 58) and two tours aboard USS San Jacinto (CG 56). He commanded USS Russell (DDG 59) where he received the Vice Adm. James B. Stockdale Award for inspirational leadership. His major command was aboard USS Monterey (CG 61) and included its maiden Ballistic Missile Defense (BMD) deployment in 2011.",
+        "imagen": "https://media.defense.gov/2024/Jan/05/2003369258/740/740/0/240105-N-RU810-1002.JPG",
+        "url_biografia": "https://www.navy.mil/Leadership/Flag-Officer-Biographies/BioDisplay/Article/3632859/admiral-james-w-kilby/"
+    },
+    {
+        "nombre": "Vice Admiral Rick Cheeseman",
+        "cargo": "Chief of Naval Personnel",
+        "biografia_resumen": "Vice Adm. Rick Cheeseman is a native of Carney’s Point, New Jersey, and a 1989 graduate of The Pennsylvania State University, where he earned a Bachelor of Science degree and was commissioned through the Naval Reserve Officers Training Corps Program. Cheeseman earned a Master's degree in Joint Campaign Planning and Strategy from National Defense University’s Joint Advanced Warfighting School in 2007.",
+        "imagen": "https://media.defense.gov/2022/Jun/03/2003011280/600/400/0/220603-N-NO101-903.JPG",
+        "url_biografia": "https://www.navy.mil/Leadership/Chief-of-Naval-Personnel/Chief-of-Naval-Personnel/"
+    },
+    {
+        "nombre": "James M. Honea",
+        "cargo": "Master Chief Petty Officer of the Navy",
+        "biografia_resumen": "Master Chief Petty Officer of the Navy, James Honea, a native of Lubbock, Texas, comes from a military family, son of a retired Air Force Major, he began his military career in 1987, when he enlisted in the U.S. Navy. Upon completion of basic training at Recruit Training Command, San Diego, California he reported to his first command aboard the USS John A. Moore (FFG 19) where he was rated as a Boatswain’s Mate. He rose through the ranks serving aboard USS Juneau (LPD 10), USS Dubuque (LPD 8), and USS Bonhomme Richard (LHD 6). In 2006 he was promoted to master chief and in 2009, he was selected to serve as a command master chief and completed tours aboard the USS Gridley (DDG 101) and later on USS New Orleans (LPD 18).",
+        "imagen": "https://media.defense.gov/2022/Sep/13/2003075222/600/400/0/220912-N-NO101-902.JPG",
+        "url_biografia": "https://www.navy.mil/Leadership/Flag-Officer-Biographies/BioDisplay/Article/3151928/"
+    }
+]

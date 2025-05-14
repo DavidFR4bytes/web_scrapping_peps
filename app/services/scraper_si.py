@@ -1,0 +1,29 @@
+import pandas as pd
+import os
+import json
+
+def scrape_peps_slovenia_api():
+    url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS_4mCNAXvhH1k96FwmUCgN6unnocpchDUXOkMUHz2uUw0VF-oAtdNItT0B4HHS6L3YBQDyqeV-9wvQ/pub?output=xlsx"
+    df = pd.read_excel(url)
+
+    peps = []
+    for _, row in df.iterrows():
+        name = str(row['name']).strip()
+        if name and name.lower() != 'nan':
+            peps.append({
+                "name": name,
+                "position": str(row['position_en']).strip(),
+                "institution": str(row['institution_en']).strip(),
+                "party": str(row['party_en']).strip(),
+                "time_in_office": str(row['time_in_office']).strip(),
+                "is_first_time_in_office": str(row['is_first_time_in_office']).strip(),
+                "gender": str(row['gender']).strip()
+            })
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_slovenia.json", "w", encoding="utf-8") as f:
+        json.dump(peps, f, ensure_ascii=False, indent=4)
+
+    print(f"{len(peps)} PEPs de Eslovenia guardadas en data/peps_slovenia.json")
+
+

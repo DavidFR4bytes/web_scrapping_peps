@@ -1,0 +1,21 @@
+import pandas as pd
+import os
+import json
+
+
+
+def scrape_peps_nigeria_dot():
+    url = "https://peps.directoriolegislativo.org/datasets/nigeria/PEP_data.xlsx"
+
+    try:
+        df = pd.read_excel(url)
+
+        # Crear carpeta si no existe
+        os.makedirs("data", exist_ok=True)
+
+        # Guardar como JSON
+        df.to_json("data/peps_nigeria_dot.json", orient="records", force_ascii=False, indent=4)
+
+        print(f"{len(df)} PEPs de Nigeria (xlsx) guardadas en data/peps_nigeria_dot.json")
+    except Exception as e:
+        print(f"Error al procesar el archivo XLSX: {e}")

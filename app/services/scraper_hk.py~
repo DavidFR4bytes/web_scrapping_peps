@@ -1,0 +1,63 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+import os
+
+
+def scrape_peps_hong_kong_principal_officials_api():
+    url = "https://www.gov.hk/en/about/govdirectory/po/index.htm"
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        print(f"Error al acceder a la página: {response.status_code}")
+        return
+
+    soup = BeautifulSoup(response.content, "html.parser")
+
+    # Buscar directamente todos los <section class="blockItem">
+    sections = soup.find_all("section", class_="blockItem")
+
+    if not sections:
+        print("No se encontraron secciones con clase 'blockItem'")
+        return
+
+    pep_data = []
+
+    for section in sections:
+        categoria = section.find("h3", class_="blockContentTitle").text.strip()
+        for p in section.find_all("p"):
+            link = p.find("a")
+            if link:
+                full_text = link.text.strip()
+                parts = full_text.split(", ")
+                nombre = parts[-1] if len(parts) > 1 else full_text
+                cargo = full_text.replace(nombre, "").strip(", ")
+
+                pep = {
+                    "categoria": categoria,
+                    "cargo": cargo.strip(),
+                    "nombre_completo": nombre.strip()
+                }
+                pep_data.append(pep)
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_hong_kong_principal_officials.json", "w", encoding="utf-8") as f:
+        json.dump(pep_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Scraping completado. Se guardaron {len(pep_data)} registros.")
+
+def scrape_peps_hong_kong_council_members_api():
+    url_json = "https://app4.legco.gov.hk/mapi/en/api/LASS/getListMember"
+
+    print("Descargando archivo JSON...")
+    response = requests.get(url_json, verify=False)
+    data = response.json()
+
+    data = data["data"]
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_hong_kong_council_members.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+    print("Datos guardados exitosamente en data/peps_alemania.json")
+

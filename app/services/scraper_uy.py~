@@ -1,0 +1,31 @@
+import pandas as pd
+import os
+import json
+
+def scrape_peps_uruguay_api():
+    url = ("https://www.gub.uy/secretaria-nacional-lucha-contra-lavado-activos-financiamiento-terrorismo/sites/"
+           "secretaria-nacional-lucha-contra-lavado-activos-financiamiento-terrorismo/files/documentos/publicaciones/"
+           "Lista_PEP_V31.xlsx")
+
+    # Saltar las primeras 4 filas
+    df = pd.read_excel(url, skiprows=4)
+
+    peps = []
+    for _, row in df.iterrows():
+        ci = str(row.get('C.I.', '')).strip()
+        if ci and ci.lower() != 'nan':
+            peps.append({
+                "ci": ci,
+                "nombre": str(row.get('NOMBRE', '')).strip(),
+                "cargo": str(row.get('CARGO', '')).strip(),
+                "organismo": str(row.get('ORGANISMO', '')).strip(),
+            })
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_uruguay.json", "w", encoding="utf-8") as f:
+        json.dump(peps, f, ensure_ascii=False, indent=4)
+
+    print(f"{len(peps)} PEPs de Uruguay guardadas en data/peps_uruguay.json")
+
+# Ejecutar función
+scrape_peps_uruguay_api()

@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Tanja Fajon",
+        "position": "minister",
+        "institution": "Ministry of Foreign and European Affairs",
+        "party": "Social Democrats",
+        "time_in_office": "2009-07-14 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Luka Mesec",
+        "position": "minister",
+        "institution": "Ministry of Labour, Family, Social Affairs and Equal Opportunities",
+        "party": "The Left",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Dominika Švarc Pipan",
+        "position": "minister",
+        "institution": "Ministry of Justice",
+        "party": "Social Democrats",
+        "time_in_office": "2018-09-24 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Simon Maljevac",
+        "position": "minister",
+        "institution": "Ministry of Solidarity-Based Future",
+        "party": "The Left",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Bojan Kumer",
+        "position": "minister",
+        "institution": "Ministry of Infrastructure",
+        "party": "nan",
+        "time_in_office": "2013-05-30 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Igor Papič",
+        "position": "minister",
+        "institution": "Ministry of Higher Education, Science and Innovation",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Matjaž Han",
+        "position": "minister",
+        "institution": "Ministry of Economic Development and Technology",
+        "party": "Social Democrats",
+        "time_in_office": "1998-12-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Asta Vrečko",
+        "position": "minister",
+        "institution": "Ministry of Culture",
+        "party": "The Left",
+        "time_in_office": "2018-12-17 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Alenka Bratušek",
+        "position": "minister",
+        "institution": "Ministry of Infrastructure",
+        "party": "nan",
+        "time_in_office": "2006-11-30 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Aleksander Jevšek",
+        "position": "minister",
+        "institution": "Ministry of Development and European Cohesion Policy",
+        "party": "Social Democrats",
+        "time_in_office": "2014-11-06 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Emilija Stojmenova Duh",
+        "position": "minister",
+        "institution": "Ministry of Digital Transformation",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Matej Arčon",
+        "position": "minister",
+        "institution": "Minister for Relations between the Republic of Slovenia and the Autochthonous Slovenian National Community in Neighbouring Countries, and between the Republic of Slovenia and Slovenians Abroad",
+        "party": "Freedom Movement",
+        "time_in_office": "1998-12-06 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Boštjan Poklukar",
+        "position": "minister",
+        "institution": "Ministry of the Interior",
+        "party": "nan",
+        "time_in_office": "2018-09-13 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Petra Škofic",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "Freedom Movement",
+        "time_in_office": "2006-11-28 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Aida Kamišalić Latifić",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Digital Transformation",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-08-30 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Vojko Volk",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2000",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Maksimiljana Polak",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Nataša Lužar",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2001-06-17 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Kaja Širok",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2023-06-24 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Damir Črnčec",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Defence",
+        "party": "nan",
+        "time_in_office": "2018-09-14 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Rudi Medved",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Defence",
+        "party": "nan",
+        "time_in_office": "2010-11-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jure Trbič",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Public Administration",
+        "party": "nan",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Jasna Rojc",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Education",
+        "party": "nan",
+        "time_in_office": "2023-01-25 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Dejan Židan",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Economic Development and Technology",
+        "party": "Social Democrats",
+        "time_in_office": "2010-05-05 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Matevž Frangež",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Economic Development and Technology",
+        "party": "Social Democrats",
+        "time_in_office": "2002-12-09 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Luka Omladič",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Solidarity-Based Future",
+        "party": "The Left",
+        "time_in_office": "2023-01-24 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tina Seršen",
+        "position": "ministerial secretary",
+        "institution": "Ministry of the Environment, Climate and Energy",
+        "party": "nan",
+        "time_in_office": "2022-06-02 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Uroš Vajgl",
+        "position": "ministerial secretary",
+        "institution": "Ministry of the Environment, Climate and Energy",
+        "party": "nan",
+        "time_in_office": "2022-06-20 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Andreja Katič",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Cohesion and Regional Development",
+        "party": "nan",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Andrej Rajh",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Infrastructure",
+        "party": "Freedom Movement",
+        "time_in_office": "2018-06-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Helga Dobrin",
+        "position": "ministerial secretary",
+        "institution": "Ministry of the Interior",
+        "party": "nan",
+        "time_in_office": "2023-02-24 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Gordana Pipan",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Finance",
+        "party": "nan",
+        "time_in_office": "2023-06-19 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Igor Feketija",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Labour, Family, Social Affairs and Equal Opportunities",
+        "party": "nan",
+        "time_in_office": "2023-02-03 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Saša Jazbec",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Finance",
+        "party": "nan",
+        "time_in_office": "2017-04-07 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Matjaž Krajnc",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Higher Education, Science and Innovation",
+        "party": "nan",
+        "time_in_office": "2022-06-02 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Jure Gašparič",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Higher Education, Science and Innovation",
+        "party": "nan",
+        "time_in_office": "2020-03-14 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Marko Koprivc",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Cohesion and Regional Development",
+        "party": "nan",
+        "time_in_office": "2018-06-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Miroslav Kranjc",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Digital Transformation",
+        "party": "nan",
+        "time_in_office": "1998-12-21 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Igor Šoltes",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Justice",
+        "party": "Social Democrats",
+        "time_in_office": "2014-07-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Vesna Humar",
+        "position": "ministerial secretary",
+        "institution": "Minister for Relations between the Republic of Slovenia and the Autochthonous Slovenian National Community in Neighbouring Countries, and between the Republic of Slovenia and Slovenians Abroad",
+        "party": "Freedom Movement",
+        "time_in_office": "2006-11-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Marko Štucin",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Foreign and European Affairs",
+        "party": "Social Democrats",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Marko Rusjan",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Culture",
+        "party": "nan",
+        "time_in_office": "2018-12-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Igor Mally",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2017-02-15 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Matevž Čelik Vidmar",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Culture",
+        "party": "nan",
+        "time_in_office": "2022-08-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tina Heferle",
+        "position": "ministerial secretary",
+        "institution": "Ministry of the Interior",
+        "party": "nan",
+        "time_in_office": "2018-06-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Lucija Tacer",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Tamara Vonta",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2011-12-21 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Damijan Zrim",
+        "position": "pm",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2018-12-07 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Miha Kordiš",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "The Left",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Robert Golob",
+        "position": "pm",
+        "institution": "Office of the Prime Minister",
+        "party": "Freedom Movement",
+        "time_in_office": "1999-09-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Felice Žiža",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "the deputy of the Italian and Hungarian national communities",
+        "time_in_office": "2010-11-11 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Bojana Muršič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Soniboj Knežak",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "1998-12-14 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Rastislav Vrečko",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Nataša Avšič Bogovič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Andreja Kert",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2013-06-11 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Mateja Čalušić",
+        "position": "minister",
+        "institution": "Ministry of Agriculture, Forestry and Food",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Urška Klakočar Zupančič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Bojan Čebela",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "1994-12-15 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Lenart Žavbi",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Mirjam Bon Klanjšček",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2013-04-11 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Sara Žibrat",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Borut Sajovic",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "1990",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Janja Sluga",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Dušan Stojanovič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Katarina Štravs",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2014-10-29 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Andreja Živic",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Jožica Derganc",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Karmen Furman",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2018-06-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Zvonko Černač",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1994",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Teodor Uranič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Anja Bah Žibert",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2006-11-16 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Franc Breznik",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2011-12-21 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Andrej Hoivik",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Jožef Jelen",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2002-11-11 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Rado Gladek",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2014-11-05 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jelka Godec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2010-10-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Alenka Helbl",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2010-10-25 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Franci Kepa",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2014-11-12 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Iva Dimic",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2011-12-21 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Aleksander Reberšek",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2010-11-02 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Janez Žakelj",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2010-11-05 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Predrag Baković",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2014-10-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Meira Hot",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2010-11-12 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Jani Prednik",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2014-12-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Alenka Jeraj",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2004-10-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Andrej Kosi",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2022-12-07 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Danijel Krivec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1994-12-23 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jožef Lenart",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2010-11-09 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Dejan Kaloh",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2018-06-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Eva Irgl",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2004-10-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Sandra Gazinkovski",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2018-12-19 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Vera Granfol",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Miroslav Gregorič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Lena Grgurevič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Alma Intihar",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Robert Janev",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tamara Kozlovič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Jonas Žnidaršič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Social Democrats",
+        "time_in_office": "2022-06-09 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Marjan Pintar",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Health",
+        "party": "nan",
+        "time_in_office": "1994",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Franc Rosec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2014-10-22 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Anton Šturbej",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1994-12-23 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jožef Horvat",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "1994-12-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Matej Tonin",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2006-11-29 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jernej Vrtovec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Tatjana Greif",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "The Left",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Milan Jakopovič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "The Left",
+        "time_in_office": "2018-12-17 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Suzana Lep Šimenko",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Melita Župevc",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2008-10-15 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Andreja Rajbenšu",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Aleš Rezar",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Mojca Šetinc Pašek",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "nan",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Branko Grims",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1990",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Franc Props",
+        "position": "minister",
+        "institution": "Ministry of Public Administration",
+        "party": "Freedom Movement",
+        "time_in_office": "2010-11-04 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Janez (Ivan) Janša",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1990-05-08 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Martin Premk",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Katja Božič",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Finance",
+        "party": "nan",
+        "time_in_office": "2023-09-15 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Mojca Ramšak Pešec",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Public Administration",
+        "party": "nan",
+        "time_in_office": "2018-10-15 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Boštjan Šefic",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2013-04-04 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Dean Premik",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Monika Pekošak",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Maša Kociper",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "Freedom Movement",
+        "time_in_office": "2006-11-16 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Dan Juvan",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Labour, Family, Social Affairs and Equal Opportunities",
+        "party": "nan",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Aleksander Prosen Kralj",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Žan Mahnič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2010-10-28 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Zoran Mojškerc",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2010-11-04 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Bojan Podkrajšek",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2002-11-28 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jože Tanko",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "1995",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Janez Cigler Kralj",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "2020-03-13 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Vida Čadonič Špelič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "New Slovenia",
+        "time_in_office": "1993-02-23 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Anže Logar",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2014-07-04 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Tomaž Lisec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Slovenian Democratic Party",
+        "time_in_office": "2006-11-09 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Darjo Felda",
+        "position": "minister",
+        "institution": "Ministry of Education",
+        "party": "nan",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Marjan Šarec",
+        "position": "minister",
+        "institution": "Ministry of Defence",
+        "party": "nan",
+        "time_in_office": "2010-11-10 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Klemen Boštjančič",
+        "position": "minister",
+        "institution": "Ministry of Finance",
+        "party": "nan",
+        "time_in_office": "2022-06-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Gašper Ovnik",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tine Novak",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tereza Novak",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Miha Lamut",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-05-13 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Tomaž Lah",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-06-21 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Darko Krajnc",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2005-03-10 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Valentina Prevolnik Rupel",
+        "position": "minister",
+        "institution": "Ministry of Health",
+        "party": "nan",
+        "time_in_office": "2023-07-14 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Nataša Sukič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "The Left",
+        "time_in_office": "2014-10-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Matej Tašner Vatovec",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "The Left",
+        "time_in_office": "2014-08-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Ferenc Horváth",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "the deputy of the Italian and Hungarian national communities",
+        "time_in_office": "1998-12-16 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Jurij Lep",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "1994-12-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Dejan Süč",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2018-12-14 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Sanja Štiglic",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Foreign and European Affairs",
+        "party": "nan",
+        "time_in_office": "2016-06-20 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Denis Kordež",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Health",
+        "party": "nan",
+        "time_in_office": "2023-10-23 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Eva Vodnik",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Health",
+        "party": "nan",
+        "time_in_office": "2023-11-01 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Klemen Ploštajner",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Solidarity-Based Future",
+        "party": "nan",
+        "time_in_office": "2023-01-24 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Danijel Levičar",
+        "position": "ministerial secretary",
+        "institution": "Office of the Prime Minister",
+        "party": "nan",
+        "time_in_office": "2023-07-20 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Nikolina Prah",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Finance",
+        "party": "nan",
+        "time_in_office": "2022-10-10 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Eva Knez",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Agriculture, Forestry and Food",
+        "party": "nan",
+        "time_in_office": "2010-10-21 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "F"
+    },
+    {
+        "name": "Janja Zupančič",
+        "position": "ministerial secretary",
+        "institution": "nan",
+        "party": "nan",
+        "time_in_office": "2023-10-19 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Blaž Germšek",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Agriculture, Forestry and Food",
+        "party": "nan",
+        "time_in_office": "2023-10-23 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Jože Novak",
+        "position": "minister",
+        "institution": "Ministry of Natural Resources and Spatial Planning",
+        "party": "nan",
+        "time_in_office": "2001-09-01 00:00:00",
+        "is_first_time_in_office": "False",
+        "gender": "M"
+    },
+    {
+        "name": "Lidija Kegljevič Zagorc",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Natural Resources and Spatial Planning",
+        "party": "nan",
+        "time_in_office": "2022-12-14 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "F"
+    },
+    {
+        "name": "Jernej Žnidaršič",
+        "position": "mp",
+        "institution": "National Assembly",
+        "party": "Freedom Movement",
+        "time_in_office": "2022-12-07 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    },
+    {
+        "name": "Miran Gajšek",
+        "position": "ministerial secretary",
+        "institution": "Ministry of Natural Resources and Spatial Planning",
+        "party": "nan",
+        "time_in_office": "2023-12-29 00:00:00",
+        "is_first_time_in_office": "True",
+        "gender": "M"
+    }
+]

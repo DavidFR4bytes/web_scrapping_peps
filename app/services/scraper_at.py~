@@ -1,0 +1,27 @@
+import requests
+import json
+import time
+import os
+from bs4 import BeautifulSoup, SoupStrainer
+
+
+def scrape_peps_austria_api():
+    base_url = "https://www.meineabgeordneten.at/Abgeordnete"
+    session = requests.Session()
+
+    # Hacer la petición HTTP
+    start_time = time.time()
+    response = session.get(URL)
+    end_time = time.time()
+    print("Iniciando scraping...")
+
+    if response.status_code == 200:
+        # Filtrar solo la tabla
+        only_table = SoupStrainer("table")
+        soup = BeautifulSoup(response.text, "html.parser", parse_only=only_table)
+
+        # Encontrar la tabla por su ID
+        table = soup.find("div", {"class": "abgeordneteListe mt-5"})
+
+if __name__ == "__main__":
+    scrape_peps_austria_api()

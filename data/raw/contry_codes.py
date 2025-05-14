@@ -1,0 +1,53 @@
+
+#codigos_paises_lista = list(codigos_paises.values())
+codigos_paises = {
+    "Argentina": "AR",
+    "Armenia": "AM",
+    "Austria": "AT",
+    "Brazil": "BR",
+    "Bulgaria": "BG",
+    "Cayman Islands": "KY",
+    "China": "CN",
+    "Colombia": "CO",
+    "Croatia": "HR",
+    "Cuba": "CU",
+    "Denmark": "DK",
+    "Faroe Islands": "FO",
+    "Greenland": "GL",
+    "Estonia": "EE",
+    "European Union": "EU",
+    "France": "FR",
+    "Georgia": "GE",
+    "Germany": "DE",
+    "Hong Kong": "HK",
+    "Iceland": "IS",
+    "Indonesia": "ID",
+    "Israel": "IL",
+    "Latvia": "LV",
+    "Lithuania": "LT",
+    "Mexico": "MX",
+    "Montenegro": "ME",
+    "Netherlands": "NL",
+    "Nigeria": "NG",
+    "North Macedonia": "MK",
+    "Chile": "CL",
+    "Romania": "RO",
+    "Singapore": "SG",
+    "Slovakia": "SK",
+    "Slovenia": "SI",
+    "South Africa": "ZA",
+    "Thailand": "TH",
+    "Türkiye": "TR",
+    "United States": "US",
+    "Uruguay": "UY",
+    "Venezuela": "VE",
+    "Global": "Global",
+    "UN": "UN",
+    "Wikidata": "Wikidata",
+    "Every Politician": "EveryPolitician"
+}
+
+
+def obtener_codigo_pais():
+    return codigos_paises
+

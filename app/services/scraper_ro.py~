@@ -1,0 +1,31 @@
+import requests
+from bs4 import BeautifulSoup
+import os
+import json
+
+def scrape_peps_romania():
+    url = "https://www.onpcsb.ro/en/a/101/declarations-of-assets-and-interests"
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        print(f"Error al obtener la página: {response.status_code}")
+        return
+
+    soup = BeautifulSoup(response.content, "html.parser")
+    peps = []
+
+    rows = soup.find_all("tr")
+    for row in rows:
+        columns = row.find_all("td", recursive=False)  # solo columnas directas
+        if columns:
+            name = columns[0].get_text(strip=True)
+            if name and "Declaratie" not in name:
+                peps.append({"name": name})
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_romania.json", "w", encoding="utf-8") as f:
+        json.dump(peps, f, ensure_ascii=False, indent=4)
+
+    print(f"{len(peps)} nombres de PEPs guardados en data/peps_romania.json")
+
+scrape_peps_romania()

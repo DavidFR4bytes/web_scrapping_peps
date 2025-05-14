@@ -1,0 +1,46 @@
+import requests
+import os
+import csv
+import json
+import io
+
+def scrape_peps_france_1_api():
+    csv_url = "https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503"
+    print("Descargando archivo CSV...")
+
+    response = requests.get(csv_url)
+    if response.status_code != 200:
+        print(f"Error al descargar el archivo: {response.status_code}")
+        return
+
+    csv_reader = csv.DictReader(io.StringIO(response.content.decode("utf-8")), delimiter=';')
+    pep_data = []
+
+    for row in csv_reader:
+        pep = {
+            "codigo_departamento": row.get("Code du département", ""),
+            "etiqueta_departamento": row.get("Libellé du département", ""),
+            "codigo_colectividad": row.get("Code de la collectivité à statut particulier", ""),
+            "etiqueta_comunidad": row.get("Libellé de la collectivité à statut particulier", ""),
+            "codigo_municipio": row.get("Code de la commune", ""),
+            "nombre_municipio": row.get("Libellé de la commune", ""),
+            "nombre_funcionario_electo": row.get("Nom de l'élu", ""),
+            "apellido_funcionario_electo": row.get("Prénom de l'élu", ""),
+            "nombre_completo": f"\"{row.get('Prénom de l'élu', '')} {row.get('Nom de l'élu', '')}\"",
+            "codigo_sexo": row.get("Code sexe", ""),
+            "fecha_nacimiento": row.get("Date de naissance", ""),
+            "codigo_socioprofesional": row.get("Code de la catégorie socio-professionnelle", ""),
+            "etiqueta_categoria_socioprofesional": row.get("Libellé de la catégorie socio-professionnelle", ""),
+            "fecha_inicio_mandato": row.get("Date de début du mandat", ""),
+            "fecha_inicio_funcion": row.get("Date de début de la fonction", "")
+        }
+        pep_data.append(pep)
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_francia1.json", "w", encoding="utf-8") as f:
+        json.dump(pep_data, f, ensure_ascii=False, indent=4)
+
+    print("Scraping de PEPs de Francia 1 completado.")
+
+if __name__ == "__main__":
+    scrape_peps_france_1_api()
