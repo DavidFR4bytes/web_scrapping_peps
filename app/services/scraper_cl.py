@@ -1,21 +1,71 @@
-import pandas as pd
-import os
+import requests
+import re
 import json
+import time
+
+# URL que contiene la variable `var datos = [...]` con las declaraciones
+LIST_URL = "https://www.infoprobidad.cl/Home/Listado"
+DECLARATION_URL = "https://www.infoprobidad.cl/Declaracion/descargarDeclaracionJSon"
+
+# Expresión regular para extraer la variable JavaScript con los datos
+REGEX_JSON = re.compile(r"var datos =(.+?}]);", re.DOTALL)
 
 
+def obtener_ids_declaraciones():
+    print("Obteniendo lista de declaraciones...")
+    response = requests.get(LIST_URL)
+    match = REGEX_JSON.search(response.text)
+    if not match:
+        raise ValueError("No se pudo encontrar la variable 'var datos' en el HTML.")
 
-def scrape_peps_chile_api():
-    url = "https://www.infoprobidad.cl/Home/Listado#"
+    declaraciones_json = match.group(1)
+    declaraciones = json.loads(declaraciones_json)
+    return [d["IdDeclaracion"] for d in declaraciones]
 
+
+def obtener_datos_declaracion(id_declaracion):
+    response = requests.post(DECLARATION_URL, data={"ID": id_declaracion})
+    if response.status_code != 200:
+        print(f"❌ Error al obtener declaración {id_declaracion}")
+        return None
+    return response.json()
+
+
+def extraer_info_basica(declaracion):
     try:
-        df = pd.read_excel(url)
+        declarante = declaracion.get("Datos_del_Declarante", {})
+        entidad = declaracion.get("Datos_Entidad_Por_La_Que_Declara", {})
+        servicio = entidad.get("Servicio_Entidad", {})
+        cargo = entidad.get("Cargo_Funcion", {}).get("nombre", "")
 
-        # Crear carpeta si no existe
-        os.makedirs("data", exist_ok=True)
-
-        # Guardar como JSON
-        df.to_json("data/peps_chile.json", orient="records", force_ascii=False, indent=4)
-
-        print(f"{len(df)} PEPs de Chile guardadas en data/peps_chile.json")
+        return {
+            "nombre": declarante.get("nombre", ""),
+            "apellido_paterno": declarante.get("Apellido_Paterno", ""),
+            "apellido_materno": declarante.get("Apellido_Materno", ""),
+            "cargo": cargo,
+            "institucion": servicio.get("nombre", ""),
+            "fecha_asuncion": entidad.get("Fecha_Asuncion_Cargo", "")[:10],
+        }
     except Exception as e:
-        print(f"Error al procesar el archivo XLSX: {e}")
+        print(f"⚠️ Error al procesar declaración: {e}")
+        return None
+
+
+def main():
+    ids = obtener_ids_declaraciones()
+    print(f"✅ Se encontraron {len(ids)} declaraciones")
+
+    for idx, id_declaracion in enumerate(ids[:10]):  # Puedes quitar el [:10] para procesar todas
+        print(f"\n🔍 Procesando declaración {id_declaracion} ({idx+1}/{len(ids)})")
+        declaracion = obtener_datos_declaracion(id_declaracion)
+        if not declaracion:
+            continue
+
+        info = extraer_info_basica(declaracion)
+        if info:
+            print(json.dumps(info, indent=2, ensure_ascii=False))
+
+        time.sleep(1)  # Respetar el servidor (puedes ajustar)
+
+if __name__ == "__main__":
+    main()

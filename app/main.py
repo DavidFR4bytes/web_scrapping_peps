@@ -1,4 +1,6 @@
 from fastapi import FastAPI
+
+from services.scraper_sg import scrape_peps_singapore
 from services.scraper_ar import scrape_peps_argentina_api
 from services.scraper_am import scrape_peps_armenia_api
 from services.scraper_at import scrape_peps_austria_api
@@ -22,7 +24,7 @@ from services.scraper_lt import scrape_peps_lithuania_api
 from services.scraper_mx import scrape_peps_mexico_diputados_api, scrape_peps_mexico_senadores_api
 from services.scraper_me import scrape_peps_montenegro_api
 from services.scraper_ng import scrape_peps_nigeria_api, scrape_peps_nigeria_dot
-from services.scraper_cl import scrape_peps_chile_api
+#from services.scraper_cl import
 from services.scraper_ro import scrape_peps_romania_api
 from services.scraper_si import scrape_peps_slovenia_api
 from services.scraper_za import scrape_peps_south_africa_municipal_leaders_api, scraper_peps_south_africa_provincial_legislators_api
@@ -258,12 +260,12 @@ async def search(country_code: str):
         except Exception as e:
             print(e)
 
-    if country_code == "CL":
+    """if country_code == "CL":
         try:
             scrape_peps_chile_api()
             return {"message": "Success"}
         except Exception as e:
-            print(e)
+            print(e)"""
 
     if country_code == "RO":
         try:
@@ -354,6 +356,14 @@ async def search(country_code: str):
             return {"message": "Success"}
         except Exception as e:
             print(e)
+
+    if country_code == "SG":
+        try:
+            await scrape_peps_singapore()
+            return {"message": "Success"}
+        except Exception as e:
+            print(e)
+            return {"message": "Error", "detail": str(e)}
 
     return {"message": "Country not supported"}
 
