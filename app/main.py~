@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 
+from app.services.scraper_cn import fetch_peps_china
 from services.scraper_sg import scrape_peps_singapore
 from services.scraper_ar import scrape_peps_argentina_api
 from services.scraper_am import scrape_peps_armenia_api
@@ -111,6 +112,13 @@ async def search(country_code: str):
     if country_code == "CU":
         try:
             scrape_peps_cuba_api()
+            return {"message": "Success"}
+        except Exception as e:
+            print(e)
+
+    if country_code == "CU":
+        try:
+            fetch_peps_china()
             return {"message": "Success"}
         except Exception as e:
             print(e)
@@ -359,10 +367,11 @@ async def search(country_code: str):
 
     if country_code == "SG":
         try:
-            scrape_peps_singapore()
+            await scrape_peps_singapore()
             return {"message": "Success"}
         except Exception as e:
             print(e)
+            return {"message": "Error", "detail": str(e)}
 
     return {"message": "Country not supported"}
 
