@@ -305,7 +305,7 @@ async def search(country_code: str):
 
     if country_code == "TH":
         try:
-            await scrape_peps_thailandia_api()
+            scrape_peps_thailandia_api()
             return {"message": "Success"}
         except Exception as e:
             print(e)

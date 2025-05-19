@@ -1,43 +1,56 @@
-import asyncio
-from playwright.async_api import async_playwright
-from bs4 import BeautifulSoup
+import requests
 import json
+import os
 
-async def get_page_html(url):
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
-        page = await context.new_page()
-        await page.goto(url, timeout=60000)
-        await page.wait_for_load_state('networkidle')
-        html = await page.content()
-        await browser.close()
-        return html
+SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 
-def extract_peps(html):
-    soup = BeautifulSoup(html, 'html.parser')
+QUERY = """
+SELECT DISTINCT ?item ?label WHERE {
+  ?item wdt:P31 wd:Q5.
+  FILTER NOT EXISTS { ?item wdt:P570 ?dateOfDeath. }
+
+  {
+    ?item wdt:P106 wd:Q82955.
+  } UNION {
+    ?item wdt:P106 wd:Q8125919.
+  }
+
+  ?item wdt:P27 wd:Q869.  # Nacionalidad tailandesa
+
+  OPTIONAL { ?item rdfs:label ?label. FILTER (lang(?label) = "en") }
+}
+
+"""
+
+def scrape_peps_thailandia_api():
+    headers = {
+        "Accept": "application/sparql-results+json"
+    }
+    response = requests.get(SPARQL_ENDPOINT, params={"query": QUERY}, headers=headers)
+
+    if response.status_code != 200:
+        raise Exception(f"SPARQL query failed: {response.status_code} - {response.text}")
+
+    data = response.json()
     peps = []
 
-    containers = soup.select("div.elementor-widget-container")
-    for div in containers:
-        text = div.get_text(separator=" ", strip=True)
-        if text and len(text) > 5:
+    for result in data["results"]["bindings"]:
+        item_url = result["item"]["value"]
+        name = result.get("label", {}).get("value", "Unknown")
+
+        if name is not None and name != "Unknown":
             peps.append({
-                "nombre": text
+                "name": name,
+                "wikidata_url": item_url,
+                "source": "Wikidata",
+                "country": "Thailand"
             })
 
-    return peps
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_thailand.json", "w", encoding="utf-8") as f:
+        json.dump(peps, f, ensure_ascii=False, indent=4)
 
-async def scrape_peps_thailandia_api():
-    url = "https://www.soc.go.th/?page_id=182"
-    html = await get_page_html(url)
-    pep_data = extract_peps(html)
+    print(f"Guardado {len(peps)} registros en data/peps_thailand.json")
 
-    with open("peps_tailandia.json", "w", encoding="utf-8") as f:
-        json.dump(pep_data, f, ensure_ascii=False, indent=2)
-
-    print(f"Se extrajeron {len(pep_data)} registros y se guardaron en 'peps_tailandia.json'")
-
-# Ejecutar el script
 if __name__ == "__main__":
-    asyncio.run(scrape_peps_thailandia_api())
+    scrape_peps_thailandia_api()

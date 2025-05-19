@@ -1,51 +1,55 @@
-import asyncio
-from playwright.async_api import async_playwright
-from bs4 import BeautifulSoup
+import requests
 import json
 import os
 
-async def scrape_peps_turkey():
-    url = "https://www.tbmm.gov.tr/milletvekili/AllList"
+SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
+
+QUERY = """
+SELECT DISTINCT ?item ?label WHERE {
+  ?item wdt:P31 wd:Q5.
+  FILTER NOT EXISTS { ?item wdt:P570 ?dateOfDeath. }
+
+  {
+    ?item wdt:P106 wd:Q82955.
+  } UNION {
+    ?item wdt:P106 wd:Q8125919.
+  }
+
+  ?item wdt:P27 wd:Q43.  # Ciudadanía turca
+
+  OPTIONAL { ?item rdfs:label ?label. FILTER (lang(?label) = "en") }
+}
+
+"""
+
+def scrape_peps_turkey_api():
+    headers = {
+        "Accept": "application/sparql-results+json"
+    }
+    response = requests.get(SPARQL_ENDPOINT, params={"query": QUERY}, headers=headers)
+
+    if response.status_code != 200:
+        raise Exception(f"SPARQL query failed: {response.status_code} - {response.text}")
+
+    data = response.json()
     peps = []
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-        await page.goto(url, timeout=60000)
-        await page.wait_for_load_state("networkidle")  # esperar a que cargue el contenido JS
+    for result in data["results"]["bindings"]:
+        item_url = result["item"]["value"]
+        name = result.get("label", {}).get("value")
 
-        html = await page.content()
-        await browser.close()
-
-        soup = BeautifulSoup(html, "html.parser")
-
-        for ul in soup.find_all("ul", class_="tbmm-list-ul"):
-            current_province = None
-
-            for li in ul.find_all("li", class_="list-group-item"):
-                if "tbmm-list-item-active" in li.get("class", []):
-                    current_province = li.get_text(strip=True)
-                    continue
-
-                name_tag = li.find("a")
-                party_tag = li.find("div", class_="col-md-4")
-
-                name = name_tag.get_text(strip=True) if name_tag else ""
-                link = "https://www.tbmm.gov.tr" + name_tag["href"] if name_tag and name_tag.has_attr("href") else ""
-                party = party_tag.get_text(strip=True) if party_tag else ""
-
-                peps.append({
-                    "nombre": name,
-                    "partido": party,
-                    "provincia": current_province,
-                    "url_biografia": link
-                })
-
+        if name is not None and name != "Unknown":
+            peps.append({
+                "name": name,
+                "wikidata_url": item_url,
+                "source": "Wikidata",
+                "country": "Turkey"
+            })
     os.makedirs("data", exist_ok=True)
     with open("data/peps_turkey.json", "w", encoding="utf-8") as f:
         json.dump(peps, f, ensure_ascii=False, indent=4)
 
-    print(f"{len(peps)} PEPs de Turquía guardadas en data/peps_turkey.json")
+    print(f"Guardado {len(peps)} registros en data/peps_turkey.json")
 
-# Ejecutar el script asíncrono
-asyncio.run(scrape_peps_turkey())
+if __name__ == "__main__":
+    scrape_peps_turkey_api()
