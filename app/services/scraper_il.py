@@ -16,3 +16,6 @@ def scrape_peps_israel_api():
         json.dump(data, f, ensure_ascii=False, indent=4)
 
     print("Datos guardados exitosamente en data/peps_israel.json")
+
+if __name__ == '__main__':
+    scrape_peps_israel_api()
