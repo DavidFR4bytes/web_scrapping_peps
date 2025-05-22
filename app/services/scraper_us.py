@@ -1,9 +1,13 @@
+import time
+
 import requests
 import os
 import json
 import csv
 import io
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
 
 api_key = "pZd398hNyauFtpgVzIjyaBLHkzUmQIZ7ZpHH05RF"
@@ -177,3 +181,75 @@ def scrape_peps_us_state_department_api():
         json.dump(peps, f, ensure_ascii=False, indent=4)
 
     print(f"Se extrajeron {len(peps)} registros de funcionarios del Departamento de Estado de EE. UU.")
+
+
+
+def scrape_peps_usa_senior_officials():
+
+    peps = []
+    contador = 0
+
+    options = Options()
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("start-maximized")
+    options.add_argument("--headless=new")  # Modo headless moderno (sin ventana)
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    )
+
+    # Inicializar el driver UNA SOLA VEZ
+    driver = webdriver.Chrome(options=options)
+
+    try:
+        while True:
+            if contador == 0:
+                url = "https://www.state.gov/biographies-list/"
+            else:
+                url = f"https://www.state.gov/biographies-list/page/{contador}/"
+
+            driver.get(url)
+            time.sleep(5)
+            print(f"Accediendo a la página {contador}...")
+
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            items = soup.select("li.collection-result.collection-result--biography.biography-collection__result")
+
+            if not items:
+                print("No se han encontrado más resultados. Finalizando.")
+                break
+
+            print(f"Scrapeando {len(items)} registros en la página {contador}...")
+
+            for item in items:
+                nombre_tag = item.select_one(".biography-collection__line-spacing")
+                cargo_tags = item.select(".biography-collection__description")
+                imagen_tag = item.find("img")
+
+                nombre = nombre_tag.get_text(strip=True) if nombre_tag else ""
+                cargo = cargo_tags[0].get_text(strip=True) if len(cargo_tags) > 0 else ""
+                oficina = cargo_tags[1].get_text(strip=True) if len(cargo_tags) > 1 else ""
+                imagen = imagen_tag["src"] if imagen_tag else ""
+
+                peps.append({
+                    "nombre": nombre,
+                    "cargo": cargo,
+                    "oficina": oficina,
+                    "imagen": imagen,
+                })
+
+            print(f"Página {contador} completada. Encontrados {len(peps)} registros hasta ahora.")
+            contador += 1
+
+    finally:
+        driver.quit()
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/peps_usa_senior_officials.json", "w", encoding="utf-8") as f:
+        json.dump(peps, f, ensure_ascii=False, indent=4)
+
+    print(f"Se extrajeron {len(peps)} registros de altos funcionarios de EE. UU.")
+
+
+
+if __name__ == "__main__":
+    scrape_peps_usa_senior_officials()

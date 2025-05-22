@@ -12,6 +12,7 @@ def scrape_peps_iceland_api():
     # NO headless para evitar bloqueos
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("start-maximized")
+    options.add_argument("--headless=new")
     options.add_argument(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     )
@@ -46,3 +47,5 @@ def scrape_peps_iceland_api():
         json.dump(peps, f, ensure_ascii=False, indent=4)
 
 
+if __name__ == "__main__":
+    scrape_peps_iceland_api()
