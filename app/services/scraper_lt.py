@@ -45,3 +45,23 @@ def scrape_peps_lithuania_api():
 
     print(f"{len(peps)} PEPs extraídas y guardadas en data/peps_lithuania.json")
 
+def get_declaration(id_num):
+    guest_id = 9179496
+    url = f"https://pinreg.vtek.lt/external/deklaracijos/{id_num:06d}/perziura/viesa"
+    headers = {
+        "Accept": "application/json",
+        "Referer": f"https://pinreg.vtek.lt/app/pid-perziura/{id_num:06d}",
+    }
+    params = {
+        "v": f"c{guest_id}"
+    }
+    response = requests.get(url, headers=headers, params=params)
+
+    if response.status_code == 404:
+        return None
+    response.raise_for_status()
+    return response.json()
+
+# Prueba con un ID de ejemplo
+data = get_declaration(301730)
+print(data)

@@ -48,7 +48,7 @@ def scrape_peps_chile():
     options = Options()
     options.add_argument("--start-maximized")
     options.add_argument("--disable-blink-features=AutomationControlled")
-    #options.add_argument("--headless=new")  # Quita esto si quieres ver el navegador
+    options.add_argument("--headless=new")
 
     driver = webdriver.Chrome(options=options)
     driver.get("https://www.infoprobidad.cl/Home/Listado")
@@ -96,7 +96,6 @@ def scrape_peps_chile():
 
             next_button.click()
             current_page += 1
-            #time.sleep(2)
 
         except Exception as e:
             print(f"Fin del scraping en página {current_page}: {str(e)}")
@@ -108,7 +107,7 @@ def scrape_peps_chile():
     with open("data/peps_chile_filtradas.json", "w", encoding="utf-8") as f:
         json.dump(peps, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ Finalizado. Total PEPs extraídas: {len(peps)}")
+    print(f"Finalizado. Total PEPs extraídas: {len(peps)}")
 
 if __name__ == "__main__":
     scrape_peps_chile()
